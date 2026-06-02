@@ -1,0 +1,93 @@
+
+paths:
+  out_dir: "./outputs"
+
+# -------------------------------------------------LLM API Settings-------------------------------------------------
+
+api:
+
+  text_llm:
+    api_key:  "your_text_api"
+    base_url: "your_base_url"
+    model:    "your_text_model"
+
+  vision_llm:
+    api_key:  "your_vision_api"
+    base_url: "your_base_url"
+    model:    "your_vision_model"
+
+    require_vision: false
+    max_image_side_px: 2048
+
+# -------------------------------------------------Common Utilities-------------------------------------------------
+
+timeline_generation:
+  timeline_route: 
+  user_persona: "Profession, hobby and personality of user persona that provides generation anchoring."
+  core_event:   "Core event script for generation."
+  thematic_output_dir: 
+  event_count: 30
+  add_distractors: true
+  distractor_count: 50
+  self_check: true
+  self_check_max_passes: 4
+
+question_generation:
+  question_dialogue_route: 
+  question_number: 50
+  question_per_turn: 5
+  question_type: SS  # SS: Single session | MS: Multi session | TR: Temporal reasoning | TH: Thematic / case mgmt | II: Implicit inference | MR: Multimodal reasoning | FM: Find matching image | FJ: Factual judgement (MCQ)
+  rounds_per_sample: 4  
+  output_dir:
+
+finalize_dataset:
+  finalize_input_dir: 
+  finalize_output_dir: 
+
+# -------------------------------------------------Subset Configurations--------------------------------------------
+
+thematic_subset:
+  enable: true
+  generate_timeline: false
+  user_persona: "Profession, hobby and personality of user persona that provides generation anchoring."
+  core_event:   "Core event script for generation."
+  max_turns_per_session_thematic: 200
+  timeline_route: 
+
+  graph_route: 
+  max_images_per_turn: 5
+  included_graph: 
+
+  pdf_route: 
+  included_pdf:
+  pdf_pages_per_fragment: 3
+  pdf_max_rounds_per_pdf: 40 
+  pdf_dpi: 144
+  pdf_max_pages_per_pdf: 60
+  pdf_keep_page_images: false
+
+  dialogue_self_check: true
+  dialogue_self_check_chunk_size: 8
+  dialogue_self_check_repair: true
+
+# -------------------------------------------------Evaluation Configurations--------------------------------------------
+
+evaluation:
+  input_data_dir: 
+  input_question_dir:
+  result_dir:
+  baseline: "fulltext"
+  evaluation_type: "multimodal" # text or multimodal
+  concurrency: 8
+
+  evaluation_model:
+    api_key:  "your_evaluation_api"
+    base_url: "your_base_url"
+    model:    "your_evaluation_model"
+
+  judge_model:
+    api_key:  "your_judge_api"
+    base_url: "your_base_url"
+    model:    "your_judge_model"
+
+

@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+*.egg-info/
+.eggs/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coverage / testing
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+
+# Secrets / local config
+.env
+.env.*
+*.local
+secrets.*
+config/config.local.yaml
+
+# Pipeline outputs
+outputs/
+output/
+results/
+runs/
+*.log
+
+# Cached PDF page renders used by the eval / question-gen pipelines
+mmtk_eval_pdf_cache/
+m3exam_eval_pdf_cache/
+m3exam_qgen_pdf_cache/
+
+# Large / generated data — uncomment if you don't want to ship sample data
+# data/
+# datasets/
+# images/
+# pdfs/
