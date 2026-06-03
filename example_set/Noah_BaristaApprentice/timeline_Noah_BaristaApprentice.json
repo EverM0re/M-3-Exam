@@ -1,0 +1,184 @@
+[
+  {
+    "Event_Index": 0,
+    "Event_Type": "Persona",
+    "Event_Description": "Noah is a barista apprentice at a specialty coffee shop, methodically working through the craft fundamentals — pour-over, espresso dial-in, grinder settings, microfoam, cold brew, and TDS readings. He is technical and detail-led, asking precise variable-by-variable questions and genuinely excited about the science of a good cup. He loves geeking out over single-origin beans and processing methods, and supplements his bench work with barista training manuals and coffee-culture reading to grow beyond pure technique.",
+    "core_event": "Across a structured apprenticeship arc, Noah moves from pour-over and espresso basics through cold brew and microfoam, then single-origin dial-in, water quality, and batch brewing — culminating in a signature-blend capstone — and follows the bench work with deeper study of specialty-coffee training material.",
+    "Event_Time": "2023-04-01"
+  },
+  {
+    "Event_Index": 1,
+    "Event_Description": "Noah begins his apprenticeship at a specialty coffee shop and wants to learn the café’s staple drinks and commonly used beans first.",
+    "Query_Description": "Noah shares a photo of the coffee bar menu and asks which category of beans works best for a classic latte.",
+    "Event_Time": "2023-04-01",
+    "Keyword": "specialty coffee menu photo on café bar"
+  },
+  {
+    "Event_Index": 2,
+    "Event_Description": "Noah attends a coffee-origin workshop and starts learning the basic differences between bean species.",
+    "Query_Description": "Noah shares a comparison photo of Arabica and Robusta beans and asks which is better suited for a bright, acidic espresso.",
+    "Event_Time": "2023-04-05",
+    "Keyword": "Arabica and Robusta coffee beans comparison photo"
+  },
+  {
+    "Event_Index": 3,
+    "Event_Description": "Noah practices with a burr grinder for the first time and learns to adjust grind size for different brew methods.",
+    "Query_Description": "Noah shares a close-up of the grinder adjustment dial and asks how to set grind fineness for V60 pour-over.",
+    "Event_Time": "2023-04-08",
+    "Keyword": "close-up photo of coffee grinder grind adjustment dial"
+  },
+  {
+    "Event_Index": 4,
+    "Event_Description": "Noah learns to run the espresso machine and begins to understand how pressure and pre-infusion affect extraction.",
+    "Query_Description": "Noah shares a photo of the espresso machine control panel and asks how beginners should set it for a more balanced shot.",
+    "Event_Time": "2023-04-10",
+    "Keyword": "close-up photo of espresso machine control panel"
+  },
+  {
+    "Event_Index": 5,
+    "Event_Description": "Noah starts recording each tasting session on a structured cupping or sensory scoring sheet.",
+    "Query_Description": "Noah shares a photo of his tasting notes and asks how to describe body and finish.",
+    "Event_Time": "2023-04-12",
+    "Keyword": "coffee tasting notes on a desk photo"
+  },
+  {
+    "Event_Index": 6,
+    "Event_Description": "Noah practices pulling espresso shots and focuses on crema and flavor consistency.",
+    "Query_Description": "Noah shares a photo of espresso with crema and asks how to keep crema and flavor more stable.",
+    "Event_Time": "2023-04-15",
+    "Keyword": "photo of espresso shot with crema"
+  },
+  {
+    "Event_Index": 7,
+    "Event_Description": "Noah learns to steam milk and how different milks change foam texture.",
+    "Query_Description": "Noah shares a photo of freshly steamed foam and asks how to get silky microfoam that suits a cappuccino.",
+    "Event_Time": "2023-04-18",
+    "Keyword": "close-up of silky microfoam in milk pitcher"
+  },
+  {
+    "Event_Index": 8,
+    "Event_Description": "Noah makes cold brew and tries different steep times and brew ratios.",
+    "Query_Description": "Noah shares a photo of cold brew mid-steep and asks how to make the cup smoother and more balanced.",
+    "Event_Time": "2023-04-20",
+    "Keyword": "cold brew coffee steeping in glass jar photo"
+  },
+  {
+    "Event_Index": 9,
+    "Event_Description": "Noah starts studying chemical compounds in coffee and how they relate to flavor.",
+    "Query_Description": "Noah shares a simple coffee chemistry flavor diagram and asks how acids and aromatic compounds shape taste.",
+    "Event_Time": "2023-04-22",
+    "Keyword": "simple coffee chemistry flavor diagram photo"
+  },
+  {
+    "Event_Index": 10,
+    "Event_Description": "Noah learns to use a refractometer for TDS and judge whether brew strength is consistent.",
+    "Query_Description": "Noah shares a photo of the refractometer display and asks how to interpret TDS readings.",
+    "Event_Time": "2023-04-25",
+    "Keyword": "coffee refractometer showing TDS reading photo"
+  },
+  {
+    "Event_Index": 11,
+    "Event_Description": "Noah practices flat whites and focuses on a thin, even microfoam layer.",
+    "Query_Description": "Noah shares a photo of his flat white and asks how to make the foam surface smoother and more even.",
+    "Event_Time": "2023-04-28",
+    "Keyword": "close-up of flat white milk foam surface"
+  },
+  {
+    "Event_Index": 12,
+    "Event_Description": "Noah begins tasting single-origin beans from different producing regions.",
+    "Query_Description": "Noah shares a photo of several bags of single-origin beans and asks how to brew each to highlight its character.",
+    "Event_Time": "2023-05-01",
+    "Keyword": "several bags of single-origin beans from different origins photo"
+  },
+  {
+    "Event_Index": 13,
+    "Event_Description": "Noah learns daily espresso machine upkeep so the gear stays reliable.",
+    "Query_Description": "Noah shares a photo of cleaning and maintenance work and asks which steps matter most in routine care.",
+    "Event_Time": "2023-05-05",
+    "Keyword": "barista cleaning and maintaining espresso machine photo"
+  },
+  {
+    "Event_Index": 14,
+    "Event_Description": "Noah practices V60 pour-over and focuses on pour rate and water temperature.",
+    "Query_Description": "Noah shares a photo of his V60 setup and asks how to pour for more even extraction.",
+    "Event_Time": "2023-05-08",
+    "Keyword": "V60 pour-over coffee setup on desk photo"
+  },
+  {
+    "Event_Index": 15,
+    "Event_Description": "Noah compares light, medium, and dark roasts and links roast degree to flavor.",
+    "Query_Description": "Noah shares a photo of light, medium, and dark roast beans side by side and asks how they differ in acidity and body.",
+    "Event_Time": "2023-05-10",
+    "Keyword": "light medium dark roast coffee beans comparison photo"
+  },
+  {
+    "Event_Index": 16,
+    "Event_Description": "Noah brews with a Chemex and pays attention to how the paper filter affects clarity.",
+    "Query_Description": "Noah shares a photo of his Chemex brew and asks how to get a cleaner, brighter cup.",
+    "Event_Time": "2023-05-12",
+    "Keyword": "Chemex pour-over coffee on desk photo"
+  },
+  {
+    "Event_Index": 17,
+    "Event_Description": "Noah studies how water quality affects brewing and tests different sources.",
+    "Query_Description": "Noah shares a photo of water-quality testing tools and asks what mineral balance works best for coffee.",
+    "Event_Time": "2023-05-15",
+    "Keyword": "coffee brewing water quality testing tools on desk photo"
+  },
+  {
+    "Event_Index": 18,
+    "Event_Description": "Noah practices macchiato-style drinks and balances espresso with a small amount of foam.",
+    "Query_Description": "Noah shares a photo of his macchiato and asks how to better harmonize espresso and foam in the mouthfeel.",
+    "Event_Time": "2023-05-18",
+    "Keyword": "close-up photo of a macchiato coffee"
+  },
+  {
+    "Event_Index": 19,
+    "Event_Description": "Noah learns washed, natural, and honey processing and how each shifts flavor.",
+    "Query_Description": "Noah shares a photo of beans from different processes laid out and asks how processing shapes the cup.",
+    "Event_Time": "2023-05-20",
+    "Keyword": "different processing method beans arranged on table photo"
+  },
+  {
+    "Event_Index": 20,
+    "Event_Description": "Noah uses a French press and works on steep time and water temperature.",
+    "Query_Description": "Noah shares a photo of his French press brew and asks how to avoid harsh bitterness while keeping a full body.",
+    "Event_Time": "2023-05-23",
+    "Keyword": "French press coffee on desk photo"
+  },
+  {
+    "Event_Index": 21,
+    "Event_Description": "Noah learns why stable brew temperature matters and what a PID controller does.",
+    "Query_Description": "Noah shares a photo of PID temperature gear on his brewing setup and asks how to hold temperature steady.",
+    "Event_Time": "2023-05-25",
+    "Keyword": "PID temperature controller on coffee equipment photo"
+  },
+  {
+    "Event_Index": 22,
+    "Event_Description": "Noah practices rosetta latte art and focuses on pour rhythm and symmetry.",
+    "Query_Description": "Noah shares a photo of his rosetta latte art and asks how to make leaf lines clearer and more symmetrical.",
+    "Event_Time": "2023-05-28",
+    "Keyword": "rosetta leaf latte art coffee photo"
+  },
+  {
+    "Event_Index": 23,
+    "Event_Description": "Noah studies coffee history and how coffee spread across cultures.",
+    "Query_Description": "Noah shares a photo of a simple coffee-history poster and asks how coffee culture spread over time.",
+    "Event_Time": "2023-06-01",
+    "Keyword": "simple coffee history themed poster photo"
+  },
+  {
+    "Event_Index": 24,
+    "Event_Description": "Noah practices batch brewing and how to keep cups consistent when serving many guests.",
+    "Query_Description": "Noah shares a photo of batch-brew equipment and asks how to keep extraction even at large volume.",
+    "Event_Time": "2023-06-05",
+    "Keyword": "café batch brew coffee equipment photo"
+  },
+  {
+    "Event_Index": 25,
+    "Event_Description": "Noah finishes his apprenticeship with a capstone: a signature blend and matching brew recipe.",
+    "Query_Description": "Noah shares a photo of his signature blend beans and asks whether the blend feels cohesive in flavor and overall experience.",
+    "Event_Time": "2023-06-08",
+    "Keyword": "signature blend coffee beans on desk photo"
+  }
+]

@@ -1,0 +1,3512 @@
+[
+  {
+    "question": "What grind consistency is recommended for V60 pour-over?",
+    "answer": [
+      "Similar to sea salt",
+      "Medium grind",
+      "Sea salt consistency"
+    ],
+    "supporting_facts": "D12:1",
+    "type": "ss",
+    "label": "Similar to sea salt"
+  },
+  {
+    "question": "What is the recommended coffee-to-water ratio for V60 pour-over?",
+    "answer": [
+      "1:16",
+      "1:15",
+      "1:17"
+    ],
+    "supporting_facts": "D12:1",
+    "type": "ss",
+    "label": "1:16"
+  },
+  {
+    "question": "What motion is recommended for a smooth pour in V60?",
+    "answer": [
+      "Slow, steady spiral",
+      "Spiral motion",
+      "Steady pour"
+    ],
+    "supporting_facts": "D12:2",
+    "type": "ss",
+    "label": "Slow, steady spiral"
+  },
+  {
+    "question": "What is the recommended water temperature range for French press brewing?",
+    "answer": [
+      "92-94°C",
+      "96°C",
+      "90-92°C"
+    ],
+    "supporting_facts": "D12:4",
+    "type": "ss",
+    "label": "92-94°C"
+  },
+  {
+    "question": "What effect does a 1:15 coffee-to-water ratio have on French press flavor?",
+    "answer": [
+      "Balanced, smooth cup",
+      "Weaker taste",
+      "Stronger taste"
+    ],
+    "supporting_facts": "D12:3",
+    "type": "ss",
+    "label": "Balanced, smooth cup"
+  },
+  {
+    "question": "What can cause faster crema dissipation?",
+    "answer": [
+      "Low water temperature",
+      "Coarse grind"
+    ],
+    "supporting_facts": "D4:4",
+    "type": "ss",
+    "label": "Low water temperature"
+  },
+  {
+    "question": "What temperature range is ideal for water?",
+    "answer": [
+      "195°F-205°F",
+      "90°C-96°C"
+    ],
+    "supporting_facts": "D4:7",
+    "type": "ss",
+    "label": "195°F-205°F"
+  },
+  {
+    "question": "How should you start steaming milk for microfoam?",
+    "answer": [
+      "With wand submerged",
+      "With wand below surface"
+    ],
+    "supporting_facts": "D4:5",
+    "type": "ss",
+    "label": "With wand below surface"
+  },
+  {
+    "question": "What is crucial for even extraction?",
+    "answer": [
+      "Consistent and even tamp",
+      "Consistent tamp",
+      "Even tamp"
+    ],
+    "supporting_facts": "D4:6",
+    "type": "ss",
+    "label": "Consistent and even tamp"
+  },
+  {
+    "question": "What is the recommended shot time?",
+    "answer": [
+      "30 seconds"
+    ],
+    "supporting_facts": "D4:6",
+    "type": "ss",
+    "label": "30 seconds"
+  },
+  {
+    "question": "What temperature range did the assistant suggest for achieving velvety microfoam?",
+    "answer": [
+      "65-68°C"
+    ],
+    "supporting_facts": "D8:1",
+    "type": "ss",
+    "label": "65-68°C"
+  },
+  {
+    "question": "Which beans did the user mention as having floral and fruity notes?",
+    "answer": [
+      "Ethiopian beans"
+    ],
+    "supporting_facts": "D8:2",
+    "type": "ss",
+    "label": "Ethiopian beans"
+  },
+  {
+    "question": "What did the assistant recommend for preserving the delicate flavors of Ethiopian Yirgacheffe?",
+    "answer": [
+      "Light to medium roast"
+    ],
+    "supporting_facts": "D8:4",
+    "type": "ss",
+    "label": "Light to medium roast"
+  },
+  {
+    "question": "What tool did the assistant recommend for consistent particle size?",
+    "answer": [
+      "Burr grinder"
+    ],
+    "supporting_facts": "D8:4",
+    "type": "ss",
+    "label": "Burr grinder"
+  },
+  {
+    "question": "What specific step did the assistant ask Noah to double-check after cleaning the espresso machine?",
+    "answer": [
+      "Specific steps"
+    ],
+    "supporting_facts": "D8:3",
+    "type": "ss",
+    "label": "Specific steps"
+  },
+  {
+    "question": "What is a good starting point for pre-infusion duration?",
+    "answer": [
+      "2-4 seconds",
+      "2 seconds",
+      "4 seconds"
+    ],
+    "supporting_facts": "D3:1",
+    "type": "ss",
+    "label": "2-4 seconds"
+  },
+  {
+    "question": "Why does pre-infusion help with extraction?",
+    "answer": [
+      "Even saturation",
+      "Even extraction",
+      "Flavor improvement"
+    ],
+    "supporting_facts": "D3:1",
+    "type": "ss",
+    "label": "Even saturation"
+  },
+  {
+    "question": "What grind setting is recommended for a Chemex?",
+    "answer": [
+      "Coarser grind",
+      "Finer grind",
+      "Medium grind"
+    ],
+    "supporting_facts": "D3:3",
+    "type": "ss",
+    "label": "Coarser grind"
+  },
+  {
+    "question": "Which roast is better for a Chemex?",
+    "answer": [
+      "Lighter roast",
+      "Darker roast",
+      "Medium roast"
+    ],
+    "supporting_facts": "D3:4",
+    "type": "ss",
+    "label": "Lighter roast"
+  },
+  {
+    "question": "What does the assistant suggest about recording tasting sessions?",
+    "answer": [
+      "Keep practicing",
+      "Note sensations",
+      "Be consistent"
+    ],
+    "supporting_facts": "D3:2",
+    "type": "ss",
+    "label": "Keep practicing"
+  },
+  {
+    "question": "What grind for Chemex?",
+    "answer": [
+      "Coarser grind",
+      "Finer grind"
+    ],
+    "supporting_facts": "D3:3",
+    "type": "ss",
+    "label": "Coarser grind"
+  },
+  {
+    "question": "Which roast for Chemex?",
+    "answer": [
+      "Lighter roast",
+      "Darker roast"
+    ],
+    "supporting_facts": "D3:4",
+    "type": "ss",
+    "label": "Lighter roast"
+  },
+  {
+    "question": "What grind for espresso?",
+    "answer": [
+      "Finer grind",
+      "Coarser grind"
+    ],
+    "supporting_facts": "D3:3",
+    "type": "ss",
+    "label": "Finer grind"
+  },
+  {
+    "question": "Should grind adjust for origin?",
+    "answer": [
+      "Yes",
+      "No"
+    ],
+    "supporting_facts": "D3:5",
+    "type": "ss",
+    "label": "Yes"
+  },
+  {
+    "question": "What about natural beans?",
+    "answer": [
+      "Coarser grind",
+      "Finer grind"
+    ],
+    "supporting_facts": "D3:5",
+    "type": "ss",
+    "label": "Coarser grind"
+  },
+  {
+    "question": "What temperature should you use for Ethiopian Yirgacheffe?",
+    "answer": [
+      "195-200°F",
+      "195°F",
+      "200°F"
+    ],
+    "supporting_facts": "D9:2",
+    "type": "ss",
+    "label": "195-200°F"
+  },
+  {
+    "question": "What pour-over method is recommended for Ethiopian beans?",
+    "answer": [
+      "V60 pour-over",
+      "pour-over",
+      "V60"
+    ],
+    "supporting_facts": "D9:2",
+    "type": "ss",
+    "label": "V60 pour-over"
+  },
+  {
+    "question": "What is the recommended pour rate for a steady pour?",
+    "answer": [
+      "2-3 grams/second",
+      "2 grams/second",
+      "3 grams/second"
+    ],
+    "supporting_facts": "D9:3",
+    "type": "ss",
+    "label": "2-3 grams/second"
+  },
+  {
+    "question": "How does roast degree affect coffee acidity?",
+    "answer": [
+      "Lighter = higher",
+      "Lighter roast",
+      "Higher acidity"
+    ],
+    "supporting_facts": "D9:4",
+    "type": "ss",
+    "label": "Lighter = higher"
+  },
+  {
+    "question": "What is the ideal brew time for a 12-ounce V60 pour-over?",
+    "answer": [
+      "2.5-3 minutes",
+      "2.5 minutes",
+      "3 minutes"
+    ],
+    "supporting_facts": "D9:5",
+    "type": "ss",
+    "label": "2.5-3 minutes"
+  },
+  {
+    "question": "Which beans are nutty and chocolatey?",
+    "answer": [
+      "Brazilian beans",
+      "Colombian beans",
+      "Ethiopian beans"
+    ],
+    "supporting_facts": "D8:2",
+    "type": "ss",
+    "label": "Brazilian beans"
+  },
+  {
+    "question": "What roast level is ideal for Ethiopian Yirgacheffe?",
+    "answer": [
+      "Light to medium",
+      "Medium roast",
+      "Light roast"
+    ],
+    "supporting_facts": "D8:4",
+    "type": "ss",
+    "label": "Light to medium"
+  },
+  {
+    "question": "What brew method highlights floral and fruity notes?",
+    "answer": [
+      "Pour-over or Chemex",
+      "Aeropress",
+      "French press"
+    ],
+    "supporting_facts": "D8:5",
+    "type": "ss",
+    "label": "Pour-over or Chemex"
+  },
+  {
+    "question": "What should Noah do to ensure fresh grind?",
+    "answer": [
+      "Grind just before brewing",
+      "Use a burr grinder",
+      "Grind in advance"
+    ],
+    "supporting_facts": "D8:4",
+    "type": "ss",
+    "label": "Grind just before brewing"
+  },
+  {
+    "question": "What did Noah recently clean?",
+    "answer": [
+      "Espresso machine",
+      "Burr grinder",
+      "Milk pitcher"
+    ],
+    "supporting_facts": "D8:3",
+    "type": "ss",
+    "label": "Espresso machine"
+  },
+  {
+    "question": "What grind size adjustment is recommended for a strong brew?",
+    "answer": [
+      "Coarser",
+      "Slightly coarser",
+      "More coarse"
+    ],
+    "supporting_facts": "D13:2",
+    "type": "ss",
+    "label": "Coarser"
+  },
+  {
+    "question": "What temperature range is suggested for water in V60 brewing?",
+    "answer": [
+      "93-96°C",
+      "93-96",
+      "90-95°C"
+    ],
+    "supporting_facts": "D13:3",
+    "type": "ss",
+    "label": "93-96°C"
+  },
+  {
+    "question": "What is the ideal temperature range for milk in a pour?",
+    "answer": [
+      "60-65°C",
+      "140-149°F",
+      "60-65",
+      "140-149"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "ss",
+    "label": "60-65°C"
+  },
+  {
+    "question": "What grind setting is recommended for a cleaner V60 cup?",
+    "answer": [
+      "Medium-fine",
+      "Medium fine",
+      "Medium"
+    ],
+    "supporting_facts": "D13:3",
+    "type": "ss",
+    "label": "Medium-fine"
+  },
+  {
+    "question": "What did the user create to visualize coffee's cultural spread?",
+    "answer": [
+      "Poster",
+      "Simple poster",
+      "Coffee poster"
+    ],
+    "supporting_facts": "D13:5",
+    "type": "ss",
+    "label": "Poster"
+  },
+  {
+    "question": "What spout type is recommended for Chemex?",
+    "answer": [
+      "gooseneck",
+      "narrow",
+      "precision"
+    ],
+    "supporting_facts": "D10:4",
+    "type": "ss",
+    "label": "gooseneck"
+  },
+  {
+    "question": "What is the ideal TDS level for coffee extraction?",
+    "answer": [
+      "150 ppm",
+      "100-200 ppm",
+      "120 ppm"
+    ],
+    "supporting_facts": "D10:5",
+    "type": "ss",
+    "label": "150 ppm"
+  },
+  {
+    "question": "What processing method enhances fruity and floral flavors?",
+    "answer": [
+      "natural",
+      "washed",
+      "pulped natural"
+    ],
+    "supporting_facts": "D10:6",
+    "type": "ss",
+    "label": "natural"
+  },
+  {
+    "question": "How much water should you use for a good bloom?",
+    "answer": [
+      "60g",
+      "30g",
+      "50g"
+    ],
+    "supporting_facts": "D10:7",
+    "type": "ss",
+    "label": "60g"
+  },
+  {
+    "question": "What is the recommended brewing time for a 12-ounce Chemex?",
+    "answer": [
+      "4 minutes",
+      "3 minutes",
+      "5 minutes"
+    ],
+    "supporting_facts": "D10:4",
+    "type": "ss",
+    "label": "4 minutes"
+  },
+  {
+    "question": "What is the ideal water temperature for a V60 pour-over?",
+    "answer": [
+      "93-94°C",
+      "93-96°C",
+      "93°C"
+    ],
+    "supporting_facts": "D13:1",
+    "type": "ss",
+    "label": "93-94°C"
+  },
+  {
+    "question": "What is the recommended total brewing time for a V60 pour-over?",
+    "answer": [
+      "2.5 to 3 minutes",
+      "2.5 minutes",
+      "3 minutes"
+    ],
+    "supporting_facts": "D13:1",
+    "type": "ss",
+    "label": "2.5 to 3 minutes"
+  },
+  {
+    "question": "What should you do if the V60 brew is too strong?",
+    "answer": [
+      "Adjust grind size",
+      "Lower water temperature",
+      "Both"
+    ],
+    "supporting_facts": "D13:2",
+    "type": "ss",
+    "label": "Adjust grind size"
+  },
+  {
+    "question": "What grind size is recommended for a cleaner, more balanced V60?",
+    "answer": [
+      "Medium-fine grind",
+      "Finer grind",
+      "Coarser grind"
+    ],
+    "supporting_facts": "D13:3",
+    "type": "ss",
+    "label": "Medium-fine grind"
+  },
+  {
+    "question": "What is the ideal milk temperature for a smooth pour?",
+    "answer": [
+      "60-65°C",
+      "140-149°F",
+      "60°C"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "ss",
+    "label": "60-65°C"
+  },
+  {
+    "question": "On what date did Noah begin his barista apprenticeship at the specialty coffee shop?",
+    "answer": [
+      "2023-04-01",
+      "April 1, 2023",
+      "Apr 1 2023"
+    ],
+    "supporting_facts": "D1:1",
+    "type": "tr",
+    "label": "2023-04-01"
+  },
+  {
+    "question": "On what date did Noah first practice with a burr grinder and learn to adjust grind size for different brew methods?",
+    "answer": [
+      "2023-04-08",
+      "April 8, 2023",
+      "Apr 8 2023"
+    ],
+    "supporting_facts": "D2:1",
+    "type": "tr",
+    "label": "2023-04-08"
+  },
+  {
+    "question": "On what date did Noah first run the espresso machine and start working with the pre-infusion setting?",
+    "answer": [
+      "2023-04-10",
+      "April 10, 2023",
+      "Apr 10 2023"
+    ],
+    "supporting_facts": "D3:1",
+    "type": "tr",
+    "label": "2023-04-10"
+  },
+  {
+    "question": "On what date did Noah focus on getting more consistent crema by adjusting grind and tamp?",
+    "answer": [
+      "2023-04-15",
+      "April 15, 2023",
+      "Apr 15 2023"
+    ],
+    "supporting_facts": "D4:1",
+    "type": "tr",
+    "label": "2023-04-15"
+  },
+  {
+    "question": "On what date did Noah work on controlling air intake while steaming milk to achieve a velvety microfoam texture?",
+    "answer": [
+      "2023-04-18",
+      "April 18, 2023",
+      "Apr 18 2023"
+    ],
+    "supporting_facts": "D5:1",
+    "type": "tr",
+    "label": "2023-04-18"
+  },
+  {
+    "question": "On what date did Noah ask about cold brew texture coming out coarse and consider adjusting grind size or steep time?",
+    "answer": [
+      "2023-04-23",
+      "April 23, 2023",
+      "Apr 23 2023"
+    ],
+    "supporting_facts": "D6:1",
+    "type": "tr",
+    "label": "2023-04-23"
+  },
+  {
+    "question": "On what date did Noah measure brew strength at 93°C water temperature and ask about TDS readings?",
+    "answer": [
+      "2023-04-25",
+      "April 25, 2023",
+      "Apr 25 2023"
+    ],
+    "supporting_facts": "D7:1",
+    "type": "tr",
+    "label": "2023-04-25"
+  },
+  {
+    "question": "On what date did Noah focus on flat-white microfoam practice?",
+    "answer": [
+      "2023-05-01",
+      "May 1, 2023",
+      "May 1 2023"
+    ],
+    "supporting_facts": "D8:1",
+    "type": "tr",
+    "label": "2023-05-01"
+  },
+  {
+    "question": "On what date did Noah notice his pour-over was taking longer than expected and consider adjusting grind or water temperature?",
+    "answer": [
+      "2023-05-08",
+      "May 8, 2023",
+      "May 8 2023"
+    ],
+    "supporting_facts": "D9:1",
+    "type": "tr",
+    "label": "2023-05-08"
+  },
+  {
+    "question": "On what date did Noah try a new light roast in a V60 and notice it was more acidic than expected?",
+    "answer": [
+      "2023-05-12",
+      "May 12, 2023",
+      "May 12 2023"
+    ],
+    "supporting_facts": "D10:1",
+    "type": "tr",
+    "label": "2023-05-12"
+  },
+  {
+    "question": "On what date did Noah start experimenting with different water sources for his brews?",
+    "answer": [
+      "2023-05-18",
+      "May 18, 2023",
+      "May 18 2023"
+    ],
+    "supporting_facts": "D11:1",
+    "type": "tr",
+    "label": "2023-05-18"
+  },
+  {
+    "question": "On what date did Noah ask about a starting grinder setting for a medium-roast V60?",
+    "answer": [
+      "2023-05-23",
+      "May 23, 2023",
+      "May 23 2023"
+    ],
+    "supporting_facts": "D12:1",
+    "type": "tr",
+    "label": "2023-05-23"
+  },
+  {
+    "question": "On what date did Noah work on perfecting pour-over technique with ideal water temperature and brew duration?",
+    "answer": [
+      "2023-05-29",
+      "May 29, 2023",
+      "May 29 2023"
+    ],
+    "supporting_facts": "D13:1",
+    "type": "tr",
+    "label": "2023-05-29"
+  },
+  {
+    "question": "On what date did Noah practice batch brewing and ask how to keep extra coffee fresh?",
+    "answer": [
+      "2023-06-05",
+      "June 5, 2023",
+      "Jun 5 2023"
+    ],
+    "supporting_facts": "D14:1",
+    "type": "tr",
+    "label": "2023-06-05"
+  },
+  {
+    "question": "On what date did Noah attend a coffee-origin workshop and begin learning the basic differences between Arabica and Robusta beans?",
+    "answer": [
+      "2023-04-05",
+      "April 5, 2023",
+      "Apr 5 2023"
+    ],
+    "supporting_facts": "D1:1",
+    "type": "tr",
+    "label": "2023-04-05"
+  },
+  {
+    "question": "On what date did Noah start recording each tasting session on a structured cupping or sensory scoring sheet?",
+    "answer": [
+      "2023-04-12",
+      "April 12, 2023",
+      "Apr 12 2023"
+    ],
+    "supporting_facts": "D3:7",
+    "type": "tr",
+    "label": "2023-04-12"
+  },
+  {
+    "question": "On what date did Noah first try cold brew with different steep times and brew ratios?",
+    "answer": [
+      "2023-04-20",
+      "April 20, 2023",
+      "Apr 20 2023"
+    ],
+    "supporting_facts": "D6:1",
+    "type": "tr",
+    "label": "2023-04-20"
+  },
+  {
+    "question": "On what date did Noah start studying chemical compounds in coffee and how they relate to flavor?",
+    "answer": [
+      "2023-04-22",
+      "April 22, 2023",
+      "Apr 22 2023"
+    ],
+    "supporting_facts": "D6:4",
+    "type": "tr",
+    "label": "2023-04-22"
+  },
+  {
+    "question": "On what date did Noah practice flat-white art and focus on a thin, even microfoam layer?",
+    "answer": [
+      "2023-04-28",
+      "April 28, 2023",
+      "Apr 28 2023"
+    ],
+    "supporting_facts": "D8:1",
+    "type": "tr",
+    "label": "2023-04-28"
+  },
+  {
+    "question": "On what date did Noah learn daily espresso machine upkeep so the gear stays reliable?",
+    "answer": [
+      "2023-05-05",
+      "May 5, 2023",
+      "May 5 2023"
+    ],
+    "supporting_facts": "D8:7",
+    "type": "tr",
+    "label": "2023-05-05"
+  },
+  {
+    "question": "On what date did Noah compare light, medium, and dark roasts and link roast degree to flavor?",
+    "answer": [
+      "2023-05-10",
+      "May 10, 2023",
+      "May 10 2023"
+    ],
+    "supporting_facts": "D9:8",
+    "type": "tr",
+    "label": "2023-05-10"
+  },
+  {
+    "question": "On what date did Noah start studying how water quality affects brewing and test different sources?",
+    "answer": [
+      "2023-05-15",
+      "May 15, 2023",
+      "May 15 2023"
+    ],
+    "supporting_facts": "D10:9",
+    "type": "tr",
+    "label": "2023-05-15"
+  },
+  {
+    "question": "On what date did Noah practice macchiato-style drinks and balance espresso with a small amount of foam?",
+    "answer": [
+      "2023-05-20",
+      "May 20, 2023",
+      "May 20 2023"
+    ],
+    "supporting_facts": "D11:4",
+    "type": "tr",
+    "label": "2023-05-20"
+  },
+  {
+    "question": "On what date did Noah learn the difference between washed, natural, and honey processing?",
+    "answer": [
+      "2023-05-20",
+      "May 20, 2023",
+      "May 20 2023"
+    ],
+    "supporting_facts": "D11:9",
+    "type": "tr",
+    "label": "2023-05-20"
+  },
+  {
+    "question": "On what date did Noah learn what a PID controller does and why stable brew temperature matters?",
+    "answer": [
+      "2023-05-25",
+      "May 25, 2023",
+      "May 25 2023"
+    ],
+    "supporting_facts": "D14:4",
+    "type": "tr",
+    "label": "2023-05-25"
+  },
+  {
+    "question": "On what date did Noah practice rosetta latte art and focus on pour rhythm and symmetry?",
+    "answer": [
+      "2023-05-28",
+      "May 28, 2023",
+      "May 28 2023"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "tr",
+    "label": "2023-05-28"
+  },
+  {
+    "question": "On what date did Noah study coffee history and how coffee spread across cultures?",
+    "answer": [
+      "2023-06-01",
+      "June 1, 2023",
+      "Jun 1 2023"
+    ],
+    "supporting_facts": "D13:9",
+    "type": "tr",
+    "label": "2023-06-01"
+  },
+  {
+    "question": "On what date did Noah finish his apprenticeship by creating a signature blend with a matching brew recipe?",
+    "answer": [
+      "2023-06-08",
+      "June 8, 2023",
+      "Jun 8 2023"
+    ],
+    "supporting_facts": "D14:9",
+    "type": "tr",
+    "label": "2023-06-08"
+  },
+  {
+    "question": "Which event came FIRST: Noah's first cold brew experiments or his first practice with the burr grinder?",
+    "answer": [
+      "His first practice with the burr grinder",
+      "burr grinder first",
+      "burr grinder"
+    ],
+    "supporting_facts": "D2:1,D6:1",
+    "type": "tr",
+    "label": "His first practice with the burr grinder"
+  },
+  {
+    "question": "Which event came FIRST: Noah's macchiato practice or his rosetta latte-art practice?",
+    "answer": [
+      "Macchiato practice",
+      "macchiato",
+      "macchiato first"
+    ],
+    "supporting_facts": "D11:4,D13:4",
+    "type": "tr",
+    "label": "Macchiato practice"
+  },
+  {
+    "question": "Which event came FIRST: Noah's V60 pour-over practice (2023-05-08) or his Chemex brewing session (2023-05-12)?",
+    "answer": [
+      "V60 pour-over practice",
+      "V60",
+      "V60 session"
+    ],
+    "supporting_facts": "D9:1,D10:4",
+    "type": "tr",
+    "label": "V60 pour-over practice"
+  },
+  {
+    "question": "Which event came LAST: Noah's signature-blend capstone, his rosetta latte-art practice, or his coffee-history study?",
+    "answer": [
+      "Signature-blend capstone",
+      "Signature blend",
+      "capstone"
+    ],
+    "supporting_facts": "D13:4,D13:9,D14:9",
+    "type": "tr",
+    "label": "Signature-blend capstone"
+  },
+  {
+    "question": "Which event came FIRST: Noah's PID-temperature-controller session or his French press session?",
+    "answer": [
+      "French press session",
+      "French press",
+      "French press first"
+    ],
+    "supporting_facts": "D12:4,D14:4",
+    "type": "tr",
+    "label": "French press session"
+  },
+  {
+    "question": "Which event came FIRST: Noah's coffee-chemistry-and-flavor session or his refractometer-and-TDS session?",
+    "answer": [
+      "Coffee chemistry and flavor session",
+      "coffee chemistry",
+      "chemistry session"
+    ],
+    "supporting_facts": "D6:4,D7:1",
+    "type": "tr",
+    "label": "Coffee chemistry and flavor session"
+  },
+  {
+    "question": "Which event came FIRST: Noah's espresso-machine-upkeep session or his single-origin-tasting session?",
+    "answer": [
+      "Single-origin tasting",
+      "single-origin",
+      "single origin tasting"
+    ],
+    "supporting_facts": "D8:2,D8:7",
+    "type": "tr",
+    "label": "Single-origin tasting"
+  },
+  {
+    "question": "Which event came FIRST: Noah's flat-white microfoam practice or his roast-comparison session?",
+    "answer": [
+      "Flat-white microfoam practice",
+      "flat white",
+      "flat-white"
+    ],
+    "supporting_facts": "D8:1,D9:8",
+    "type": "tr",
+    "label": "Flat-white microfoam practice"
+  },
+  {
+    "question": "Which came FIRST: Noah's cupping-sheet/tasting-notes session or his first espresso-shot crema-consistency session?",
+    "answer": [
+      "Cupping-sheet / tasting-notes session",
+      "cupping sheet",
+      "tasting notes"
+    ],
+    "supporting_facts": "D3:7,D4:1",
+    "type": "tr",
+    "label": "Cupping-sheet / tasting-notes session"
+  },
+  {
+    "question": "Which event came FIRST: Noah's batch-brewing session (D14) or his signature-blend capstone?",
+    "answer": [
+      "Batch-brewing session",
+      "batch brewing",
+      "batch brew"
+    ],
+    "supporting_facts": "D14:1,D14:9",
+    "type": "tr",
+    "label": "Batch-brewing session"
+  },
+  {
+    "question": "Which event came LAST: Noah's coffee-origin workshop (Arabica vs Robusta), his V60 pour-over practice, or his signature-blend capstone?",
+    "answer": [
+      "Signature-blend capstone",
+      "capstone",
+      "signature blend"
+    ],
+    "supporting_facts": "D1:1,D9:1,D14:9",
+    "type": "tr",
+    "label": "Signature-blend capstone"
+  },
+  {
+    "question": "In which calendar month did Noah do most of his cold-brew, refractometer, and chemistry-of-flavor sessions?",
+    "answer": [
+      "April 2023",
+      "April",
+      "2023-04"
+    ],
+    "supporting_facts": "D6:1,D6:4,D7:1",
+    "type": "tr",
+    "label": "April 2023"
+  },
+  {
+    "question": "In which calendar month did Noah practice V60 pour-over, Chemex brewing, and macchiato-style drinks?",
+    "answer": [
+      "May 2023",
+      "May",
+      "2023-05"
+    ],
+    "supporting_facts": "D9:1,D10:4,D11:4",
+    "type": "tr",
+    "label": "May 2023"
+  },
+  {
+    "question": "In which calendar month did Noah complete his signature-blend capstone?",
+    "answer": [
+      "June 2023",
+      "June",
+      "2023-06"
+    ],
+    "supporting_facts": "D14:9",
+    "type": "tr",
+    "label": "June 2023"
+  },
+  {
+    "question": "Roughly how many months elapsed between Noah's first apprenticeship session and his signature-blend capstone?",
+    "answer": [
+      "About two months (April 1 to June 5)",
+      "two months",
+      "2 months"
+    ],
+    "supporting_facts": "D1:1,D14:9",
+    "type": "tr",
+    "label": "About two months (April 1 to June 5)"
+  },
+  {
+    "question": "Across Noah's entire 2023 apprenticeship arc, in which month did the LARGEST number of milestone events occur?",
+    "answer": [
+      "May 2023",
+      "May",
+      "2023-05"
+    ],
+    "supporting_facts": "D8:1,D9:1,D10:4,D11:4,D12:4,D13:4",
+    "type": "tr",
+    "label": "May 2023"
+  },
+  {
+    "question": "Did Noah's flat-white practice (D8) happen BEFORE or AFTER his cold-brew session (D6)?",
+    "answer": [
+      "After",
+      "after",
+      "later"
+    ],
+    "supporting_facts": "D6:1,D8:1",
+    "type": "tr",
+    "label": "After"
+  },
+  {
+    "question": "On 2023-04-15, what specific aspect of the espresso pull was Noah focusing on?",
+    "answer": [
+      "Crema consistency (adjusting grind and tamp)",
+      "crema consistency",
+      "crema"
+    ],
+    "supporting_facts": "D4:1",
+    "type": "tr",
+    "label": "Crema consistency (adjusting grind and tamp)"
+  },
+  {
+    "question": "On 2023-05-08, what brew method was Noah practicing when he noticed his pour-over was running too long?",
+    "answer": [
+      "V60 pour-over",
+      "V60",
+      "pour-over"
+    ],
+    "supporting_facts": "D9:1",
+    "type": "tr",
+    "label": "V60 pour-over"
+  },
+  {
+    "question": "On 2023-05-23, what specific grinder-and-brew combination was Noah asking about?",
+    "answer": [
+      "Medium roast on the burr grinder for a V60 pour-over",
+      "medium roast V60",
+      "burr grinder medium V60"
+    ],
+    "supporting_facts": "D12:1",
+    "type": "tr",
+    "label": "Medium roast on the burr grinder for a V60 pour-over"
+  },
+  {
+    "question": "Between 2023-05-15 (water-quality testing) and 2023-05-20 (processing methods), what new topic area did Noah pivot to?",
+    "answer": [
+      "From water quality to washed/natural/honey processing methods",
+      "processing methods",
+      "washed natural honey processing"
+    ],
+    "supporting_facts": "D11:1,D11:9",
+    "type": "tr",
+    "label": "From water quality to washed/natural/honey processing methods"
+  },
+  {
+    "question": "What was the FIRST date on which Noah discussed processing methods (washed vs natural) in his recorded sessions?",
+    "answer": [
+      "2023-04-01",
+      "April 1, 2023",
+      "Apr 1 2023"
+    ],
+    "supporting_facts": "D1:7",
+    "type": "tr",
+    "label": "2023-04-01"
+  },
+  {
+    "question": "According to the PDF the user provided, what is the optimal temperature range for espresso extraction?",
+    "answer": [
+      "195°F to 205°F (90°C to 96°C)"
+    ],
+    "supporting_facts": "D15:7",
+    "type": "mr",
+    "label": "195°F to 205°F (90°C to 96°C)"
+  },
+  {
+    "question": "According to the user-provided PDF 'Barista Cheat Sheet', how does the steam wand heat milk?",
+    "answer": [
+      "by passing hot water through it, creating steam"
+    ],
+    "supporting_facts": "D15:4",
+    "type": "mr",
+    "label": "by passing hot water through it, creating steam"
+  },
+  {
+    "question": "According to the PDF the user provided, what does the grind size affect in espresso preparation?",
+    "answer": [
+      "extraction time and crema color"
+    ],
+    "supporting_facts": "D15:5",
+    "type": "mr",
+    "label": "extraction time and crema color"
+  },
+  {
+    "question": "According to the user-provided PDF 'Barista Cheat Sheet', what is the role of proteins in milk foam stability?",
+    "answer": [
+      "proteins stabilize the foam by forming a layer around the air bubbles, enhancing the foam's stability"
+    ],
+    "supporting_facts": "D15:10",
+    "type": "mr",
+    "label": "proteins stabilize the foam by forming a layer around the air bubbles, enhancing the foam's stability"
+  },
+  {
+    "question": "According to the user-provided PDF 'Barista Cheat Sheet', how does the fat content in milk affect the texture and stability of the foam?",
+    "answer": [
+      "Higher fat content creates a creamier, more stable foam, while lower fat content results in a lighter, less stable foam."
+    ],
+    "supporting_facts": "D15:11",
+    "type": "mr",
+    "label": "Higher fat content creates a creamier, more stable foam, while lower fat content results in a lighter, less stable foam."
+  },
+  {
+    "question": "According to the PDF the user provided, how does the steam wand affect the texture of milk in a latte or cappuccino?",
+    "answer": [
+      "The steam wand heats and froths the milk by creating steam, which aerates the milk, reducing its density and creating a light, airy texture essential for lattes and cappuccinos."
+    ],
+    "supporting_facts": "D15:4",
+    "type": "mr",
+    "label": "The steam wand heats and froths the milk by creating steam, which aerates the milk, reducing its density and creating a light, airy texture essential for lattes and cappuccinos."
+  },
+  {
+    "question": "According to the PDF the user provided, how does the pH range of water affect the balance and flavor of espresso?",
+    "answer": [
+      "A pH range of 6.5 to 7.5 ensures optimal extraction and avoids off-flavors. Water below 6.5 can lead to over-extraction and a sour, acidic taste, while water above 7.5 can result in under-extraction and a bitter, astringent flavor."
+    ],
+    "supporting_facts": "D15:14",
+    "type": "mr",
+    "label": "A pH range of 6.5 to 7.5 ensures optimal extraction and avoids off-flavors. Water below 6.5 can lead to over-extraction and a sour, acidic taste, while water above 7.5 can result in under-extraction and a bitter, astringent flavor."
+  },
+  {
+    "question": "According to the user-provided PDF 'Barista Cheat Sheet', how do the fat and protein content of different milks affect the stability and texture of froth in a cappuccino or latte?",
+    "answer": [
+      "Whole milk, with its higher fat content, produces a richer, creamier foam due to the fat molecules stabilizing the foam. Skim milk, with very little or no fat, results in a lighter, more airy foam that is less stable and may break down more quickly. The protein content in skim milk also contributes to foam stability by creating a stronger and more elastic film around the air bubbles."
+    ],
+    "supporting_facts": "D15:11",
+    "type": "mr",
+    "label": "Whole milk, with its higher fat content, produces a richer, creamier foam due to the fat molecules stabilizing the foam. Skim milk, with very little or no fat, results in a lighter, more airy foam that is less stable and may break down more quickly. The protein content in skim milk also contributes to foam stability by creating a stronger and more elastic film around the air bubbles."
+  },
+  {
+    "question": "What did the user want to know about the difference between a Flat White and a Cappuccino?",
+    "answer": [
+      "The user wanted to know the difference in froth and textured milk between a Flat White and a Cappuccino."
+    ],
+    "supporting_facts": "D15:1",
+    "type": "mr",
+    "label": "The user wanted to know the difference in froth and textured milk between a Flat White and a Cappuccino."
+  },
+  {
+    "question": "Which equation did the user follow up on in the dialogue, specifically regarding the impact of the temperature of the water on espresso extraction?",
+    "answer": [
+      "The user followed up on the impact of the temperature of the water on the taste and quality of the espresso shot within the optimal range of 195°F to 205°F (90°C to 96°C)."
+    ],
+    "supporting_facts": "D15:8",
+    "type": "mr",
+    "label": "The user followed up on the impact of the temperature of the water on the taste and quality of the espresso shot within the optimal range of 195°F to 205°F (90°C to 96°C)."
+  },
+  {
+    "question": "According to the PDF the user provided, what is the recommended water temperature range for espresso extraction?",
+    "answer": [
+      "195°F to 205°F (90°C to 96°C)"
+    ],
+    "supporting_facts": "D15:7",
+    "type": "mr",
+    "label": "195°F to 205°F (90°C to 96°C)"
+  },
+  {
+    "question": "According to the user-provided PDF 'Barista Cheat Sheet', what is the importance of water quality for espresso extraction?",
+    "answer": [
+      "Water should be fresh, clean, and free of contaminants"
+    ],
+    "supporting_facts": "D15:13",
+    "type": "mr",
+    "label": "Water should be fresh, clean, and free of contaminants"
+  },
+  {
+    "question": "According to the PDF the user provided, what does the grinder do in coffee preparation?",
+    "answer": [
+      "Grinds fresh coffee beans to the right consistency"
+    ],
+    "supporting_facts": "D15:3",
+    "type": "mr",
+    "label": "Grinds fresh coffee beans to the right consistency"
+  },
+  {
+    "question": "According to the user-provided PDF 'Barista Cheat Sheet', which milk type typically produces a more stable and finer foam?",
+    "answer": [
+      "Skim milk"
+    ],
+    "supporting_facts": "D15:10",
+    "type": "mr",
+    "label": "Skim milk"
+  },
+  {
+    "question": "According to the PDF the user provided, how does the fat content in milk affect the texture of the foam in a cappuccino or latte?",
+    "answer": [
+      "Higher fat content produces a creamier, more stable foam, while lower fat content results in a lighter, less stable foam"
+    ],
+    "supporting_facts": "D15:11",
+    "type": "mr",
+    "label": "Higher fat content produces a creamier, more stable foam, while lower fat content results in a lighter, less stable foam"
+  },
+  {
+    "question": "According to the user-provided PDF 'Barista Cheat Sheet', what is the role of proteins in the foaming and texturing process when making a latte or cappuccino?",
+    "answer": [
+      "Proteins stabilize the foam by forming a layer around the air bubbles, enhancing the foam's stability"
+    ],
+    "supporting_facts": "D15:10",
+    "type": "mr",
+    "label": "Proteins stabilize the foam by forming a layer around the air bubbles, enhancing the foam's stability"
+  },
+  {
+    "question": "According to the PDF the user provided, how does the pH of water affect the flavor of espresso when it is outside the optimal range of 6.5 to 7.5?",
+    "answer": [
+      "A pH below 6.5 can lead to over-extraction and a sour, acidic taste, while a pH above 7.5 can result in under-extraction and a bitter, astringent flavor"
+    ],
+    "supporting_facts": "D15:14",
+    "type": "mr",
+    "label": "A pH below 6.5 can lead to over-extraction and a sour, acidic taste, while a pH above 7.5 can result in under-extraction and a bitter, astringent flavor"
+  },
+  {
+    "question": "According to the user-provided PDF 'Barista Cheat Sheet', how does the texture of the milk differ between a Flat White and a Cappuccino?",
+    "answer": [
+      "A Flat White has 1/2 cm of froth, while a Cappuccino has froth in equal parts with textured milk"
+    ],
+    "supporting_facts": "D15:1",
+    "type": "mr",
+    "label": "A Flat White has 1/2 cm of froth, while a Cappuccino has froth in equal parts with textured milk"
+  },
+  {
+    "question": "What did the user want to know about the types of coffee drinks?",
+    "answer": [
+      "The difference between a Flat White and a Cappuccino"
+    ],
+    "supporting_facts": "D15:1",
+    "type": "mr",
+    "label": "The difference between a Flat White and a Cappuccino"
+  },
+  {
+    "question": "Which aspect of coffee preparation did the user follow up on after learning about the types of coffee drinks?",
+    "answer": [
+      "How the texture of the milk affects the froth in a Flat White and a Cappuccino"
+    ],
+    "supporting_facts": "D15:2",
+    "type": "mr",
+    "label": "How the texture of the milk affects the froth in a Flat White and a Cappuccino"
+  },
+  {
+    "question": "According to the PDF the user provided, what is the ideal brewing time for espresso?",
+    "answer": [
+      "20-25 seconds"
+    ],
+    "supporting_facts": "D16:5",
+    "type": "mr",
+    "label": "20-25 seconds"
+  },
+  {
+    "question": "According to Barista_Manual_V3, what temperature should the water be set to for brewing espresso?",
+    "answer": [
+      "90 °C (194 °F)"
+    ],
+    "supporting_facts": "D16:5",
+    "type": "mr",
+    "label": "90 °C (194 °F)"
+  },
+  {
+    "question": "According to the PDF the user provided, what is the primary reason for keeping the nozzle just under the surface of the milk while foaming?",
+    "answer": [
+      "To incorporate air and create dense foam"
+    ],
+    "supporting_facts": "D16:4",
+    "type": "mr",
+    "label": "To incorporate air and create dense foam"
+  },
+  {
+    "question": "According to the PDF the user provided, how often should the espresso machine be cleaned to maintain optimal performance and hygiene?",
+    "answer": [
+      "Daily"
+    ],
+    "supporting_facts": "D16:7,D16:8",
+    "type": "mr",
+    "label": "Daily"
+  },
+  {
+    "question": "According to the PDF the user provided, why is it important to use cold, fresh milk when foaming?",
+    "answer": [
+      "Using cold, fresh milk helps to achieve the best texture and flavor in the foam. Cold milk is easier to heat and froth, and fresh milk ensures a better taste."
+    ],
+    "supporting_facts": "D16:3",
+    "type": "mr",
+    "label": "Using cold, fresh milk helps to achieve the best texture and flavor in the foam. Cold milk is easier to heat and froth, and fresh milk ensures a better taste."
+  },
+  {
+    "question": "According to the user-provided PDF 'Barista_Manual_V3', how does the grind size adjustment impact espresso quality?",
+    "answer": [
+      "Grind size adjustment impacts espresso quality by affecting the contact between coffee grounds and water. A finer grind allows for faster extraction, which can lead to over-extraction if not controlled, while a coarser grind slows down extraction, ensuring a more balanced flavor profile."
+    ],
+    "supporting_facts": "D16:6",
+    "type": "mr",
+    "label": "Grind size adjustment impacts espresso quality by affecting the contact between coffee grounds and water. A finer grind allows for faster extraction, which can lead to over-extraction if not controlled, while a coarser grind slows down extraction, ensuring a more balanced flavor profile."
+  },
+  {
+    "question": "According to the PDF the user provided, what are the key factors that affect the ability to prepare properly made espresso?",
+    "answer": [
+      "The blend you choose and the freshness of the coffee, the grind size, the machine's cleanliness, the temperature, the pump pressure, and the barista's skills."
+    ],
+    "supporting_facts": "D16:5",
+    "type": "mr",
+    "label": "The blend you choose and the freshness of the coffee, the grind size, the machine's cleanliness, the temperature, the pump pressure, and the barista's skills."
+  },
+  {
+    "question": "According to the PDF the user provided, why is daily cleaning crucial for the espresso machine's performance and hygiene?",
+    "answer": [
+      "Daily cleaning is crucial to prevent the buildup of coffee oils and grounds, which can clog the machine and affect the taste of the coffee. It also helps to avoid bacterial growth, ensuring consistent extraction and extending the lifespan of the machine."
+    ],
+    "supporting_facts": "D16:8",
+    "type": "mr",
+    "label": "Daily cleaning is crucial to prevent the buildup of coffee oils and grounds, which can clog the machine and affect the taste of the coffee. It also helps to avoid bacterial growth, ensuring consistent extraction and extending the lifespan of the machine."
+  },
+  {
+    "question": "What did the user want to know about foaming milk?",
+    "answer": [
+      "The user wanted to know the specific techniques or tips for achieving the best texture when foaming milk."
+    ],
+    "supporting_facts": "D16:2,D16:3",
+    "type": "mr",
+    "label": "The user wanted to know the specific techniques or tips for achieving the best texture when foaming milk."
+  },
+  {
+    "question": "Which factors affecting espresso preparation did the user ask about?",
+    "answer": [
+      "The user asked about the key factors that affect the ability to prepare properly made espresso."
+    ],
+    "supporting_facts": "D16:5",
+    "type": "mr",
+    "label": "The user asked about the key factors that affect the ability to prepare properly made espresso."
+  },
+  {
+    "question": "According to the PDF the user provided, what is the recommended pump pressure for the espresso machine?",
+    "answer": [
+      "9 BAR"
+    ],
+    "supporting_facts": "D16:5",
+    "type": "mr",
+    "label": "9 BAR"
+  },
+  {
+    "question": "According to the user-provided PDF 'Barista_Manual_V3', what is the ideal temperature for brewing espresso?",
+    "answer": [
+      "90 °C (194 °F)"
+    ],
+    "supporting_facts": "D16:5",
+    "type": "mr",
+    "label": "90 °C (194 °F)"
+  },
+  {
+    "question": "According to the PDF the user provided, how full should the milk jug be when foaming milk?",
+    "answer": [
+      "slightly more than 1/3 full, but never exceed more than half full"
+    ],
+    "supporting_facts": "D16:3",
+    "type": "mr",
+    "label": "slightly more than 1/3 full, but never exceed more than half full"
+  },
+  {
+    "question": "According to the PDF the user provided, what is the recommended brewing time for espresso?",
+    "answer": [
+      "20-25 seconds"
+    ],
+    "supporting_facts": "D16:5",
+    "type": "mr",
+    "label": "20-25 seconds"
+  },
+  {
+    "question": "According to the PDF the user provided, why is it important to use cold, fresh milk when foaming?",
+    "answer": [
+      "Cold, fresh milk ensures the best texture and extends the shelf life of the foam. It also helps in achieving a dense, smooth foam."
+    ],
+    "supporting_facts": "D16:3",
+    "type": "mr",
+    "label": "Cold, fresh milk ensures the best texture and extends the shelf life of the foam. It also helps in achieving a dense, smooth foam."
+  },
+  {
+    "question": "According to the PDF the user provided, what are the consequences of keeping the nozzle too deep in the milk while foaming?",
+    "answer": [
+      "If the nozzle goes too deep, the steam may overheat the milk, causing it to scorch and burn the drink."
+    ],
+    "supporting_facts": "D16:4",
+    "type": "mr",
+    "label": "If the nozzle goes too deep, the steam may overheat the milk, causing it to scorch and burn the drink."
+  },
+  {
+    "question": "According to the PDF the user provided, how does the grind size adjustment affect the brewing time of espresso?",
+    "answer": [
+      "A finer grind allows for faster extraction and may reduce brewing time, while a coarser grind slows down extraction and extends brewing time. The ideal grind size is adjusted for a 20-25 second brewing time."
+    ],
+    "supporting_facts": "D16:6",
+    "type": "mr",
+    "label": "A finer grind allows for faster extraction and may reduce brewing time, while a coarser grind slows down extraction and extends brewing time. The ideal grind size is adjusted for a 20-25 second brewing time."
+  },
+  {
+    "question": "According to the PDF the user provided, what are the potential issues that can arise from not cleaning the espresso machine daily?",
+    "answer": [
+      "Failure to clean the machine daily can lead to the buildup of coffee oils and grounds, which can clog the machine and affect the taste of the coffee. It can also lead to bacterial growth, affecting both the taste and hygiene of the coffee."
+    ],
+    "supporting_facts": "D16:8",
+    "type": "mr",
+    "label": "Failure to clean the machine daily can lead to the buildup of coffee oils and grounds, which can clog the machine and affect the taste of the coffee. It can also lead to bacterial growth, affecting both the taste and hygiene of the coffee."
+  },
+  {
+    "question": "What did the user want to know about the key factors affecting espresso preparation?",
+    "answer": [
+      "The user asked about the specific key factors that affect the ability to prepare properly made espresso."
+    ],
+    "supporting_facts": "D16:5",
+    "type": "mr",
+    "label": "The user asked about the specific key factors that affect the ability to prepare properly made espresso."
+  },
+  {
+    "question": "What specific techniques for foaming milk did the user ask about?",
+    "answer": [
+      "The user asked for specific techniques or tips for achieving the best texture when foaming milk, such as the position of the nozzle and the movement of the jug."
+    ],
+    "supporting_facts": "D16:2,D16:3",
+    "type": "mr",
+    "label": "The user asked for specific techniques or tips for achieving the best texture when foaming milk, such as the position of the nozzle and the movement of the jug."
+  },
+  {
+    "question": "According to the user-provided PDF, what does the term 'single origin' refer to in coffee?",
+    "answer": [
+      "Coffee that comes from just one country, not several."
+    ],
+    "supporting_facts": "D17:3,D17:5",
+    "type": "mr",
+    "label": "Coffee that comes from just one country, not several."
+  },
+  {
+    "question": "According to the PDF the user provided, what is the optimal time for harvesting coffee cherries?",
+    "answer": [
+      "When the cherries are fully ripe."
+    ],
+    "supporting_facts": "D17:7",
+    "type": "mr",
+    "label": "When the cherries are fully ripe."
+  },
+  {
+    "question": "According to the user-provided PDF, which method involves drying the coffee cherries with the fruit still intact?",
+    "answer": [
+      "Natural method."
+    ],
+    "supporting_facts": "D17:11",
+    "type": "mr",
+    "label": "Natural method."
+  },
+  {
+    "question": "According to the user-provided PDF, what is the term used to describe the coffee processing method that partially removes the mucilage before drying?",
+    "answer": [
+      "Honey method."
+    ],
+    "supporting_facts": "D17:13",
+    "type": "mr",
+    "label": "Honey method."
+  },
+  {
+    "question": "According to the PDF the user provided, how does the ripeness of coffee cherries affect the final flavor and aroma?",
+    "answer": [
+      "Unripe cherries produce a more acidic and underdeveloped flavor, while overripe cherries can result in a fermented or overcooked taste. Fully ripe cherries yield a balanced and complex flavor profile."
+    ],
+    "supporting_facts": "D17:8",
+    "type": "mr",
+    "label": "Unripe cherries produce a more acidic and underdeveloped flavor, while overripe cherries can result in a fermented or overcooked taste. Fully ripe cherries yield a balanced and complex flavor profile."
+  },
+  {
+    "question": "According to the user-provided PDF, what are the key differences between the natural and washed processing methods in terms of their impact on coffee flavor?",
+    "answer": [
+      "The natural method retains the fruit around the coffee cherry during drying, imparting a fruity, sweet, and complex flavor. The washed method removes the fruit layers before drying, resulting in a cleaner, more acidic, and brighter flavor."
+    ],
+    "supporting_facts": "D17:11",
+    "type": "mr",
+    "label": "The natural method retains the fruit around the coffee cherry during drying, imparting a fruity, sweet, and complex flavor. The washed method removes the fruit layers before drying, resulting in a cleaner, more acidic, and brighter flavor."
+  },
+  {
+    "question": "According to the PDF the user provided, how do different levels of honey processing (yellow, red, black) affect the coffee's sweetness and body?",
+    "answer": [
+      "Yellow honey retains the least mucilage, resulting in a lighter body and more delicate sweetness. Red honey retains a moderate amount of mucilage, producing a balanced sweetness and body. Black honey retains the most mucilage, leading to a heavier body and intense sweetness."
+    ],
+    "supporting_facts": "D17:16",
+    "type": "mr",
+    "label": "Yellow honey retains the least mucilage, resulting in a lighter body and more delicate sweetness. Red honey retains a moderate amount of mucilage, producing a balanced sweetness and body. Black honey retains the most mucilage, leading to a heavier body and intense sweetness."
+  },
+  {
+    "question": "According to the user-provided PDF, how does the wet hulled processing method, used primarily in Indonesia, differ from the natural and honey methods in terms of flavor profile and mouthfeel?",
+    "answer": [
+      "The wet hulled method involves pulping the coffee cherries, fermenting them, washing, and then drying the beans in a semi-dried state. This results in a flavor profile characterized by low acidity, strong body, and earthy, herbal notes. In contrast, the natural method produces a fruity, sweeter flavor with a heavier mouthfeel, and the honey method offers a balance of fruit and floral notes with a more pronounced body."
+    ],
+    "supporting_facts": "D17:17",
+    "type": "mr",
+    "label": "The wet hulled method involves pulping the coffee cherries, fermenting them, washing, and then drying the beans in a semi-dried state. This results in a flavor profile characterized by low acidity, strong body, and earthy, herbal notes. In contrast, the natural method produces a fruity, sweeter flavor with a heavier mouthfeel, and the honey method offers a balance of fruit and floral notes with a more pronounced body."
+  },
+  {
+    "question": "What did the user want to know about single origin coffee in the dialogue?",
+    "answer": [
+      "The user asked how the book defines 'single origin' coffee and what factors contribute to its unique flavor profiles."
+    ],
+    "supporting_facts": "D17:3,D17:5",
+    "type": "mr",
+    "label": "The user asked how the book defines 'single origin' coffee and what factors contribute to its unique flavor profiles."
+  },
+  {
+    "question": "Which question did the user ask about the impact of fermentation on coffee flavor and aroma?",
+    "answer": [
+      "The user asked how fermentation influences the final quality and characteristics of coffee beans, and what specific changes it might cause in terms of flavor and aroma."
+    ],
+    "supporting_facts": "D17:9,D17:10",
+    "type": "mr",
+    "label": "The user asked how fermentation influences the final quality and characteristics of coffee beans, and what specific changes it might cause in terms of flavor and aroma."
+  },
+  {
+    "question": "According to the user-provided PDF, what is the primary factor that influences the quality of the final coffee product?",
+    "answer": [
+      "The stage of ripeness of the coffee cherries"
+    ],
+    "supporting_facts": "D17:7,D17:8",
+    "type": "mr",
+    "label": "The stage of ripeness of the coffee cherries"
+  },
+  {
+    "question": "According to the PDF the user provided, which processing method typically results in a cleaner, more acidic coffee?",
+    "answer": [
+      "Washed"
+    ],
+    "supporting_facts": "D17:11",
+    "type": "mr",
+    "label": "Washed"
+  },
+  {
+    "question": "According to the user-provided PDF, what is the main characteristic of the black honey processing method?",
+    "answer": [
+      "Heavy body and intense sweetness"
+    ],
+    "supporting_facts": "D17:16",
+    "type": "mr",
+    "label": "Heavy body and intense sweetness"
+  },
+  {
+    "question": "According to the user-provided PDF, what is the typical mouthfeel of wet hulled coffee?",
+    "answer": [
+      "Strong body, earthy, and herbal notes"
+    ],
+    "supporting_facts": "D17:17",
+    "type": "mr",
+    "label": "Strong body, earthy, and herbal notes"
+  },
+  {
+    "question": "According to the user-provided PDF, how does the natural processing method affect the coffee's flavor profile?",
+    "answer": [
+      "It imparts a fruity, sweet, and complex flavor"
+    ],
+    "supporting_facts": "D17:11",
+    "type": "mr",
+    "label": "It imparts a fruity, sweet, and complex flavor"
+  },
+  {
+    "question": "According to the user-provided PDF, what are the key factors that contribute to the unique flavor profiles of single origin coffee?",
+    "answer": [
+      "The country it's grown in, processing methods, roasting techniques, and brewing practices"
+    ],
+    "supporting_facts": "D17:5",
+    "type": "mr",
+    "label": "The country it's grown in, processing methods, roasting techniques, and brewing practices"
+  },
+  {
+    "question": "According to the user-provided PDF, how does the retention of mucilage in the honey processing method affect the coffee's flavor and mouthfeel?",
+    "answer": [
+      "It imparts a balance between fruity and floral notes of natural processing and the cleaner, more acidic profile of washed processing, resulting in a sweeter, more complex cup with a syrupy mouthfeel"
+    ],
+    "supporting_facts": "D17:15",
+    "type": "mr",
+    "label": "It imparts a balance between fruity and floral notes of natural processing and the cleaner, more acidic profile of washed processing, resulting in a sweeter, more complex cup with a syrupy mouthfeel"
+  },
+  {
+    "question": "According to the PDF the user provided, how do the different roasting methods (light, medium, and dark) influence the flavor profile of single origin coffee?",
+    "answer": [
+      "Light roasting allows terroir characteristics to shine through, resulting in bright acidity and a light caramel color. Medium roasting balances natural acidity with sweetness and caramelization, creating milk chocolate-colored coffees. Dark roasting brings out woody, chocolate, and heavy body flavors, producing shiny dark brown beans"
+    ],
+    "supporting_facts": "D17:6",
+    "type": "mr",
+    "label": "Light roasting allows terroir characteristics to shine through, resulting in bright acidity and a light caramel color. Medium roasting balances natural acidity with sweetness and caramelization, creating milk chocolate-colored coffees. Dark roasting brings out woody, chocolate, and heavy body flavors, producing shiny dark brown beans"
+  },
+  {
+    "question": "What did the user want to know about the impact of fermentation on coffee flavor and aroma?",
+    "answer": [
+      "How fermentation influences the final quality and characteristics of coffee beans, and what specific changes it might cause in terms of flavor and aroma"
+    ],
+    "supporting_facts": "D17:10",
+    "type": "mr",
+    "label": "How fermentation influences the final quality and characteristics of coffee beans, and what specific changes it might cause in terms of flavor and aroma"
+  },
+  {
+    "question": "Which question did the user ask about the stages of coffee bean development impacting the final flavor profile?",
+    "answer": [
+      "How do the different stages of coffee bean development, such as cherry formation and maturation, impact the final flavor profile of the coffee?"
+    ],
+    "supporting_facts": "D17:7",
+    "type": "mr",
+    "label": "How do the different stages of coffee bean development, such as cherry formation and maturation, impact the final flavor profile of the coffee?"
+  },
+  {
+    "question": "From the 'Across AI and human enhancement applications, public sees mitigating steps' chart, what percentage of U.S. adults say driverless passenger vehicles would be MORE acceptable if regular reports about accident counts were required?",
+    "answer": [
+      "71%",
+      "71",
+      "seventy-one"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "71%"
+  },
+  {
+    "question": "From the 'Across AI and human enhancement applications, public sees mitigating steps' chart, what percentage of U.S. adults say computer chip implants in the brain would be MORE acceptable if people could turn on and off the effects?",
+    "answer": [
+      "59%",
+      "59",
+      "fifty-nine"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "59%"
+  },
+  {
+    "question": "From the 'Across AI and human enhancement applications, public sees mitigating steps' chart, what percentage of U.S. adults say gene editing to reduce risk of serious diseases would 'make no difference' regardless of consent restrictions?",
+    "answer": [
+      "34%",
+      "34",
+      "thirty-four"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "34%"
+  },
+  {
+    "question": "From the 'Across AI and human enhancement applications, public sees mitigating steps' chart, what percentage of U.S. adults say licenses being required would make robotic exoskeletons for manual labor LESS acceptable?",
+    "answer": [
+      "10%",
+      "10",
+      "ten"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "10%"
+  },
+  {
+    "question": "From the 'Americans express varying degrees of support for AI playing different roles' chart, what is the NET (big + small role) percentage who say AI should play a role in providing mental health support to people?",
+    "answer": [
+      "46%",
+      "46",
+      "forty-six"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "46%"
+  },
+  {
+    "question": "From the 'Americans express varying degrees of support for AI playing different roles' chart, what percentage of U.S. adults say AI should play a SMALL role in identifying suspects in a crime?",
+    "answer": [
+      "38%",
+      "38",
+      "thirty-eight"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "38%"
+  },
+  {
+    "question": "From the 'Americans express varying degrees of support for AI playing different roles' chart, what is the NET (big + small) percentage who say AI should play a role in advising people about their faith in God?",
+    "answer": [
+      "11%",
+      "11",
+      "eleven"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "11%"
+  },
+  {
+    "question": "From the 'About two-thirds of Americans say childhood vaccines help protect both vaccinated children and the local community' chart, what percentage of Republicans/Lean Rep say vaccines protect children in their local community 'a great deal/quite a bit'?",
+    "answer": [
+      "57%",
+      "57",
+      "fifty-seven"
+    ],
+    "supporting_facts": "D2:10",
+    "type": "mr",
+    "label": "57%"
+  },
+  {
+    "question": "From the 'About two-thirds of Americans say childhood vaccines help protect both vaccinated children and the local community' chart, what percentage of Democrats/Lean Dem say childhood vaccines protect EVERYBODY in their local community 'a great deal/quite a bit'?",
+    "answer": [
+      "80%",
+      "80",
+      "eighty"
+    ],
+    "supporting_facts": "D2:10",
+    "type": "mr",
+    "label": "80%"
+  },
+  {
+    "question": "From the 'Majority of Americans are confident that childhood vaccines are highly effective' chart, what percentage of U.S. adults say children's vaccine SCHEDULE is safe extremely/very confident?",
+    "answer": [
+      "51%",
+      "51",
+      "fifty-one"
+    ],
+    "supporting_facts": "D2:10",
+    "type": "mr",
+    "label": "51%"
+  },
+  {
+    "question": "From the 'Majority of Americans are confident that childhood vaccines are highly effective' chart, what percentage of U.S. adults say childhood vaccines have been tested enough for safety NOT TOO MUCH/NOT AT ALL?",
+    "answer": [
+      "19%",
+      "19",
+      "nineteen"
+    ],
+    "supporting_facts": "D2:10",
+    "type": "mr",
+    "label": "19%"
+  },
+  {
+    "question": "From the 'Democrats are far more confident than Republicans' chart, what percentage of Republicans/Lean Rep say childhood vaccines have been tested enough for safety 'extremely/very confident'?",
+    "answer": [
+      "35%",
+      "35",
+      "thirty-five"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "35%"
+  },
+  {
+    "question": "From the 'Democrats are far more confident than Republicans' chart, what percentage of Democrats/Lean Dem say the children's vaccine schedule is safe 'extremely/very confident'?",
+    "answer": [
+      "71%",
+      "71",
+      "seventy-one"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "71%"
+  },
+  {
+    "question": "From the 'Higher confidence in childhood vaccines among older Americans and those with more education' chart, what percentage of those aged 65+ are extremely/very confident vaccines are highly effective?",
+    "answer": [
+      "72%",
+      "72",
+      "seventy-two"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "72%"
+  },
+  {
+    "question": "From the 'Higher confidence in childhood vaccines among older Americans and those with more education' chart, what percentage of those with high school or less are extremely/very confident the children's vaccine schedule is safe?",
+    "answer": [
+      "44%",
+      "44",
+      "forty-four"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "44%"
+  },
+  {
+    "question": "From the '84% of Americans say the benefits of the MMR vaccine outweigh the risks' chart, what percentage in 2025 say preventive health benefits of MMR are HIGH?",
+    "answer": [
+      "70%",
+      "70",
+      "seventy"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "70%"
+  },
+  {
+    "question": "From the '84% of Americans say the benefits of the MMR vaccine outweigh the risks' chart, what was the 'risks outweigh benefits' percentage for MMR in 2019?",
+    "answer": [
+      "10%",
+      "10",
+      "ten"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "10%"
+  },
+  {
+    "question": "From the 'Since 2019, Republicans and Democrats have diverged in their views of the MMR vaccine' chart, what percentage of Republicans in 2025 said MMR benefits outweigh risks?",
+    "answer": [
+      "78%",
+      "78",
+      "seventy-eight"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "78%"
+  },
+  {
+    "question": "From the 'Since 2019, Republicans and Democrats have diverged in their views of the MMR vaccine' chart, what percentage of Republicans in 2025 said the risk of side effects from MMR is HIGH or very high?",
+    "answer": [
+      "20%",
+      "20",
+      "twenty"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "20%"
+  },
+  {
+    "question": "From the 'Views of what influences medical scientists' childhood vaccine research findings differs by party' chart, what percentage of Democrats say BEST AVAILABLE SCIENTIFIC EVIDENCE influences medical scientists 'most of the time'?",
+    "answer": [
+      "66%",
+      "66",
+      "sixty-six"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "66%"
+  },
+  {
+    "question": "From the 'Views of what influences medical scientists' chart, what percentage of Republicans say the INTERESTS OF PHARMACEUTICAL COMPANIES influence medical scientists 'most of the time'?",
+    "answer": [
+      "45%",
+      "45",
+      "forty-five"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "45%"
+  },
+  {
+    "question": "From the '73% of U.S. adults say scientists should have a major role' chart, what percentage of U.S. adults say PARENTS WITH YOUNG CHILDREN should have a MAJOR role in vaccine policy?",
+    "answer": [
+      "59%",
+      "59",
+      "fifty-nine"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "59%"
+  },
+  {
+    "question": "From the 'Far more Republicans than Democrats say parents with young children should have a major role' chart, what percentage of Democrats say MEDICAL SCIENTISTS should have a major role in vaccine policy?",
+    "answer": [
+      "85%",
+      "85",
+      "eighty-five"
+    ],
+    "supporting_facts": "D5:10",
+    "type": "mr",
+    "label": "85%"
+  },
+  {
+    "question": "From the 'Majority of Americans say it is very important for the U.S. to be a world leader in scientific achievements' chart, what percentage of Democrats in Oct 2025 said it was 'very' important?",
+    "answer": [
+      "63%",
+      "63",
+      "sixty-three"
+    ],
+    "supporting_facts": "D5:10",
+    "type": "mr",
+    "label": "63%"
+  },
+  {
+    "question": "From the 'Two-thirds of Democrats now say the U.S. is losing ground' chart, what percentage of Republicans in Oct 2025 said the U.S. is GAINING ground in scientific achievements?",
+    "answer": [
+      "19%",
+      "19",
+      "nineteen"
+    ],
+    "supporting_facts": "D5:10",
+    "type": "mr",
+    "label": "19%"
+  },
+  {
+    "question": "From the 'Democrats continue to have more confidence in scientists than Republicans' chart, what was the Democrats' NET confidence percentage in pre-COVID Apr 2020?",
+    "answer": [
+      "91%",
+      "91",
+      "ninety-one"
+    ],
+    "supporting_facts": "D6:10",
+    "type": "mr",
+    "label": "91%"
+  },
+  {
+    "question": "From the 'White and Black Americans have had similar levels of confidence in scientists' chart, what was the Hispanic NET confidence percentage in Apr 2020?",
+    "answer": [
+      "87%",
+      "87",
+      "eighty-seven"
+    ],
+    "supporting_facts": "D6:10",
+    "type": "mr",
+    "label": "87%"
+  },
+  {
+    "question": "From the 'College graduates are more likely to have a great deal of confidence in scientists among Democrats, but not among Republicans' chart, what percentage of college-grad+ Democrats had a 'great deal' of confidence in scientists?",
+    "answer": [
+      "56%",
+      "56",
+      "fifty-six"
+    ],
+    "supporting_facts": "D7:10",
+    "type": "mr",
+    "label": "56%"
+  },
+  {
+    "question": "From the 'College graduates are more likely to have a great deal of confidence in scientists among Democrats, but not among Republicans' chart, what was the NET confidence percentage for Republicans with some college or less?",
+    "answer": [
+      "63%",
+      "63",
+      "sixty-three"
+    ],
+    "supporting_facts": "D7:10",
+    "type": "mr",
+    "label": "63%"
+  },
+  {
+    "question": "From the 'Americans still have more confidence in scientists than many other groups' chart, what is the NET confidence percentage for THE MILITARY?",
+    "answer": [
+      "75%",
+      "75",
+      "seventy-five"
+    ],
+    "supporting_facts": "D7:10",
+    "type": "mr",
+    "label": "75%"
+  },
+  {
+    "question": "Looking at Noah's very first café-menu photo (img_1), the menu has a 'COFFEE HOT/ICE' header — what is the cheapest drink listed in WON on the chalkboard menu?",
+    "answer": [
+      "Espresso",
+      "Espresso (W4,000)",
+      "espresso"
+    ],
+    "supporting_facts": "D1:1",
+    "type": "mr",
+    "label": "Espresso"
+  },
+  {
+    "question": "In the espresso-shot photo (img_18 set) showing several espresso shots in faceted glass cups, what feature on top of the espresso visibly distinguishes a freshly pulled shot (the orange-tan layer)?",
+    "answer": [
+      "Crema",
+      "crema layer",
+      "the crema"
+    ],
+    "supporting_facts": "D4:4",
+    "type": "mr",
+    "label": "Crema"
+  },
+  {
+    "question": "Looking at the V60 pour-over setup photo (img_30), what specific TEMPERATURE-MEASUREMENT-ADJACENT device is visible on the wooden board next to the brewer (apart from the kettle and brewer themselves)?",
+    "answer": [
+      "A refractometer",
+      "refractometer",
+      "TDS refractometer"
+    ],
+    "supporting_facts": "D7:1",
+    "type": "mr",
+    "label": "A refractometer"
+  },
+  {
+    "question": "In the Chemex photo (img_56), what type of kettle is being used for the pour, distinguished by its narrow precision spout?",
+    "answer": [
+      "A gooseneck kettle",
+      "gooseneck kettle",
+      "gooseneck"
+    ],
+    "supporting_facts": "D10:4",
+    "type": "mr",
+    "label": "A gooseneck kettle"
+  },
+  {
+    "question": "In the milk-steaming photos, what equipment piece is visible holding the milk for steaming (a metal pitcher / jug, not a glass tumbler)?",
+    "answer": [
+      "A stainless-steel milk pitcher",
+      "milk pitcher",
+      "steaming pitcher"
+    ],
+    "supporting_facts": "D5:1",
+    "type": "mr",
+    "label": "A stainless-steel milk pitcher"
+  },
+  {
+    "question": "In the espresso-machine control-panel photo, what is the dominant material/colour of the panel (chrome metallic versus matte black versus copper)?",
+    "answer": [
+      "Chrome/stainless metallic",
+      "chrome metallic",
+      "stainless"
+    ],
+    "supporting_facts": "D3:1",
+    "type": "mr",
+    "label": "Chrome/stainless metallic"
+  },
+  {
+    "question": "In the cold-brew photo set, what serving vessel is the cold brew steeping/served in (a glass jar/pitcher rather than a metal carafe)?",
+    "answer": [
+      "A glass jar / glass pitcher",
+      "glass jar",
+      "glass pitcher"
+    ],
+    "supporting_facts": "D5:7",
+    "type": "mr",
+    "label": "A glass jar / glass pitcher"
+  },
+  {
+    "question": "In the single-origin bean-bag photos, what packaging format are the beans presented in (sealed paper/foil bean bags with origin labels, rather than loose in jars)?",
+    "answer": [
+      "Sealed paper/foil bean bags with origin labels",
+      "bean bags",
+      "origin bags"
+    ],
+    "supporting_facts": "D8:2",
+    "type": "mr",
+    "label": "Sealed paper/foil bean bags with origin labels"
+  },
+  {
+    "question": "In the macchiato photo set, in which size of cup is the macchiato served (a small demitasse-style cup rather than a full latte glass)?",
+    "answer": [
+      "A small demitasse-style cup",
+      "demitasse",
+      "small espresso cup"
+    ],
+    "supporting_facts": "D11:4",
+    "type": "mr",
+    "label": "A small demitasse-style cup"
+  },
+  {
+    "question": "In the latte-art photo set, what specific leaf-style pattern is being practiced (with symmetric paired leaves down a center stem)?",
+    "answer": [
+      "A rosetta",
+      "rosetta",
+      "rosetta leaf"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "mr",
+    "label": "A rosetta"
+  },
+  {
+    "question": "Find the very first photo Noah shared — a café chalkboard menu listing Americano, Latte, Cappuccino, Espresso, and Espresso con Panna prices. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_1.jpg"
+    ],
+    "supporting_facts": "D1:1",
+    "type": "fm",
+    "label": "img_1.jpg"
+  },
+  {
+    "question": "Fetch the figure of an espresso machine's CHROME control panel that Noah shared when first learning the espresso machine. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_11.jpg"
+    ],
+    "supporting_facts": "D3:1",
+    "type": "fm",
+    "label": "img_11.jpg"
+  },
+  {
+    "question": "Find the photo of an ESPRESSO SHOT in a faceted glass tumbler with a visible orange-tan crema layer on top. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_18.jpg"
+    ],
+    "supporting_facts": "D4:4",
+    "type": "fm",
+    "label": "img_18.jpg"
+  },
+  {
+    "question": "Find the photo of a milk pitcher being used to steam microfoam. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_22.jpg",
+      "img_23.jpg"
+    ],
+    "supporting_facts": "D5:1",
+    "type": "fm",
+    "label": "img_22.jpg"
+  },
+  {
+    "question": "Find the photo of a cold-brew coffee steeping in a clear GLASS jar. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_25.jpg",
+      "img_26.jpg",
+      "img_27.jpg",
+      "img_28.jpg"
+    ],
+    "supporting_facts": "D5:7",
+    "type": "fm",
+    "label": "img_25.jpg"
+  },
+  {
+    "question": "Find the photo of a coffee chemistry / flavor diagram (a poster or printed flavor wheel diagram). Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_29.jpg"
+    ],
+    "supporting_facts": "D6:4",
+    "type": "fm",
+    "label": "img_29.jpg"
+  },
+  {
+    "question": "Find the photo of a V60 pour-over setup with a gooseneck kettle and a small REFRACTOMETER device visible on the wooden board — from Noah's TDS session. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_30.jpg"
+    ],
+    "supporting_facts": "D7:1",
+    "type": "fm",
+    "label": "img_30.jpg"
+  },
+  {
+    "question": "Find the photo of a FLAT WHITE coffee with a thin, even microfoam layer on top — from Noah's flat-white session. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_35.jpg"
+    ],
+    "supporting_facts": "D7:6",
+    "type": "fm",
+    "label": "img_35.jpg"
+  },
+  {
+    "question": "Find the photo of multiple SINGLE-ORIGIN coffee bean bags labelled by country/region — from Noah's single-origin tasting session. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_38.jpg"
+    ],
+    "supporting_facts": "D8:2",
+    "type": "fm",
+    "label": "img_38.jpg"
+  },
+  {
+    "question": "Find the photo of an espresso machine being CLEANED / wiped down by a barista (with cleaning supplies visible). Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_42.jpg"
+    ],
+    "supporting_facts": "D8:7",
+    "type": "fm",
+    "label": "img_42.jpg"
+  },
+  {
+    "question": "Find the photo of a V60 cone with coffee being poured in a spiral — from Noah's session on maintaining a consistent pour pattern. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_47.jpg"
+    ],
+    "supporting_facts": "D9:3",
+    "type": "fm",
+    "label": "img_47.jpg"
+  },
+  {
+    "question": "Find the photo comparing LIGHT, MEDIUM and DARK roast beans side-by-side on a surface. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_51.jpg"
+    ],
+    "supporting_facts": "D9:8",
+    "type": "fm",
+    "label": "img_51.jpg"
+  },
+  {
+    "question": "Find the photo of a CHEMEX (the distinctive hourglass-shaped glass brewer with a wooden collar) with hot water being poured in. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_56.jpg",
+      "img_57.jpg"
+    ],
+    "supporting_facts": "D10:4",
+    "type": "fm",
+    "label": "img_56.jpg"
+  },
+  {
+    "question": "Find the photo of WATER-QUALITY TESTING TOOLS (small testing tubes/strips on a desk) for evaluating brewing water. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_61.jpg"
+    ],
+    "supporting_facts": "D10:9",
+    "type": "fm",
+    "label": "img_61.jpg"
+  },
+  {
+    "question": "Find the close-up photo of a MACCHIATO coffee in a small cup — espresso topped with a thin layer of foam. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_64.jpg"
+    ],
+    "supporting_facts": "D11:4",
+    "type": "fm",
+    "label": "img_64.jpg"
+  },
+  {
+    "question": "Find the photo of beans arranged on a table showing different PROCESSING methods (washed vs natural vs honey) — from Noah's session on natural beans' fruity aroma. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_69.jpg"
+    ],
+    "supporting_facts": "D11:9",
+    "type": "fm",
+    "label": "img_69.jpg"
+  },
+  {
+    "question": "Find the photo of a FRENCH PRESS coffee brewer on a desk — from Noah's session asking about French press water temperature. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_74.jpg"
+    ],
+    "supporting_facts": "D12:4",
+    "type": "fm",
+    "label": "img_74.jpg"
+  },
+  {
+    "question": "Find the photo of a PID temperature-controller component attached to coffee equipment. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_78.jpg"
+    ],
+    "supporting_facts": "D12:9",
+    "type": "fm",
+    "label": "img_78.jpg"
+  },
+  {
+    "question": "Find the photo of a finished ROSETTA latte-art coffee with symmetric leaves around a center stem. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_80.jpg"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "fm",
+    "label": "img_80.jpg"
+  },
+  {
+    "question": "Find the photo of a simple COFFEE HISTORY poster/diagram showing the spread of coffee across cultures. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_85.jpg"
+    ],
+    "supporting_facts": "D13:9",
+    "type": "fm",
+    "label": "img_85.jpg"
+  },
+  {
+    "question": "Find the photo of café BATCH-BREW equipment on a counter for serving many guests consistently. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_89.jpg"
+    ],
+    "supporting_facts": "D14:4",
+    "type": "fm",
+    "label": "img_89.jpg"
+  },
+  {
+    "question": "Find the photo of SIGNATURE-BLEND coffee beans on a desk — from Noah's apprenticeship-capstone session. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_93.jpg"
+    ],
+    "supporting_facts": "D14:9",
+    "type": "fm",
+    "label": "img_93.jpg"
+  },
+  {
+    "question": "Find the photo of a close-up of a burr GRINDER adjustment dial — from Noah's first grinder session. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_8.jpg"
+    ],
+    "supporting_facts": "D2:4",
+    "type": "fm",
+    "label": "img_8.jpg"
+  },
+  {
+    "question": "Find the photo of beans laid out comparing different PROCESSING styles (washed/wet vs natural/dry) shared on D1:7 in Noah's session on brightness and acidity differences. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_3.jpg"
+    ],
+    "supporting_facts": "D1:7",
+    "type": "fm",
+    "label": "img_3.jpg"
+  },
+  {
+    "question": "Find the photo of Noah's STRUCTURED CUPPING/TASTING-NOTES sheet on a desk — from his session on articulating body and finish. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_15.jpg"
+    ],
+    "supporting_facts": "D3:7",
+    "type": "fm",
+    "label": "img_15.jpg"
+  },
+  {
+    "question": "Find the Pew chart titled 'Across AI and human enhancement applications, public sees mitigating steps that would make their use more acceptable'. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_98.png"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "fm",
+    "label": "img_98.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'Americans express varying degrees of support for AI playing different roles in society'. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_99.png"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "fm",
+    "label": "img_99.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'About two-thirds of Americans say childhood vaccines help protect both vaccinated children and the local community from serious illness'. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_100.png"
+    ],
+    "supporting_facts": "D2:10",
+    "type": "fm",
+    "label": "img_100.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'Majority of Americans are confident that childhood vaccines are highly effective against serious illness'. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_101.png"
+    ],
+    "supporting_facts": "D2:10",
+    "type": "fm",
+    "label": "img_101.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'Democrats are far more confident than Republicans that childhood vaccines are effective and safe', showing party splits across three measures. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_102.png"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "fm",
+    "label": "img_102.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'Higher confidence in childhood vaccines among older Americans and those with more education', breaking down by age groups, race, and education level. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_103.png"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "fm",
+    "label": "img_103.png"
+  },
+  {
+    "question": "Find the Pew chart titled '84% of Americans say the benefits of the MMR vaccine outweigh the risks' showing trends across 2016, 2019, 2023, 2025. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_104.png"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "fm",
+    "label": "img_104.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'Since 2019, Republicans and Democrats have diverged in their views of the MMR vaccine' with three line charts (benefits, preventive, side effects) split by party. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_105.png"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "fm",
+    "label": "img_105.png"
+  },
+  {
+    "question": "Find the Pew chart titled \"Views of what influences medical scientists' childhood vaccine research findings differs by party\". Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_106.png"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "fm",
+    "label": "img_106.png"
+  },
+  {
+    "question": "Find the Pew chart titled '73% of U.S. adults say scientists should have a major role in policy decisions about childhood vaccines', listing seven groups from medical scientists down to health insurance company leaders. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_107.png"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "fm",
+    "label": "img_107.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'Far more Republicans than Democrats say parents with young children should have a major role in policy decisions about childhood vaccines', with dot pairs (Rep red, Dem blue) per group. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_108.png"
+    ],
+    "supporting_facts": "D5:10",
+    "type": "fm",
+    "label": "img_108.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'Majority of Americans say it is very important for the U.S. to be a world leader in scientific achievements'. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_109.png"
+    ],
+    "supporting_facts": "D5:10",
+    "type": "fm",
+    "label": "img_109.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'Two-thirds of Democrats now say the U.S. is losing ground in scientific achievements', a stacked vertical-bar chart across three party views and three years. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_110.png"
+    ],
+    "supporting_facts": "D5:10",
+    "type": "fm",
+    "label": "img_110.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'Democrats continue to have more confidence in scientists than Republicans', a multi-year vertical-bar chart split into 'A great deal' and 'A fair amount' across U.S. adults, Rep/Lean Rep, and Dem/Lean Dem. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_111.png"
+    ],
+    "supporting_facts": "D6:10",
+    "type": "fm",
+    "label": "img_111.png"
+  },
+  {
+    "question": "Find the Pew chart titled 'Americans still have more confidence in scientists than many other groups in society', listing scientists, the military, police officers, public school principals, religious leaders, journalists, business leaders, and elected officials. Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_114.png"
+    ],
+    "supporting_facts": "D7:10",
+    "type": "fm",
+    "label": "img_114.png"
+  },
+  {
+    "question": "On D2:1 Noah was advised on grinder settings for a V60 to highlight bright notes, and on D3:1 he was advised on the espresso machine's pre-infusion setting. Which combination correctly pairs the recommended advice in each session?\nA. V60 sea-salt-coarse grind for bright notes; pre-infusion only on dark roasts\nB. V60 medium-fine grind to highlight bright notes; pre-infusion of about 3-5 seconds for more even espresso extraction\nC. V60 coarse grind for bright notes; pre-infusion of 30 seconds\nD. V60 espresso-fine grind for bright notes; pre-infusion is not recommended\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D2:1,D3:1",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "Compare the OPTIMAL water temperature ranges Noah was given for espresso (D7:1) versus French press (D12:4). Which combination correctly pairs the two?\nA. Espresso: 96-100°C boiling; French press: 85-90°C\nB. Espresso: ~92-96°C; French press: 92-94°C\nC. Espresso: 80-85°C; French press: 96-98°C\nD. Espresso: 75-80°C; French press: 60-70°C\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D7:1,D12:4",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "On D4:4 the assistant explained two specific factors that influence how QUICKLY crema dissipates. Which combination of factors did the assistant cite?\nA. Tamping pressure AND cup material\nB. Water temperature AND grind size\nC. Steam wand temperature AND atmospheric humidity\nD. Bean origin AND roast date\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D4:4",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "On D5:1 the assistant gave Noah a sequential technique for controlling air intake during milk steaming. Which sequence below matches?\nA. Introduce air for just a few seconds, then lower the pitcher slightly to stop incorporating air and start texturing the milk\nB. Keep the wand fully submerged the entire time so no air enters the milk\nC. Hold the wand above the surface for the full steam to maximize air intake\nD. Steam at full pressure for 15 seconds before introducing any air\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D5:1",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "On D7:1 the assistant told Noah that 93°C water is within the 'optimal range' for brewing. According to the same exchange, what is the optimal water-temperature RANGE for brewing coffee?\nA. 85°C to 90°C\nB. 75°C to 85°C\nC. 92°C to 96°C\nD. 97°C to 100°C boiling\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D7:1",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "On D11:4 the assistant told Noah that if the espresso is OVERPOWERING the foam in his macchiato, he should adjust the shot/grind in a specific direction. Which direction did the assistant prescribe?\nA. Lengthen the shot AND use a coarser grind to dilute it\nB. Shorten the shot length OR use a slightly finer grind to reduce intensity\nC. Use a darker roast bean to mask the espresso\nD. Add more milk foam instead of changing the shot\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D11:4",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "On D11:9 the assistant explained why naturally processed beans have a more FRUITY aroma than washed beans. Which mechanism did the assistant identify?\nA. The natural process exposes beans to direct UV light, which creates fruity esters\nB. The natural process uses a yeast inoculation step to add berry notes\nC. The natural process removes the bean's mucilage before drying, which concentrates fruit acids\nD. The natural process dries the coffee cherries with the fruit still intact, which prolongs fermentation and develops fruity flavors\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D11:9",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "On D10:4 the assistant recommended one specific TOOL for consistent Chemex pours. Which tool did the assistant recommend, and what feature does it offer?\nA. A gooseneck kettle — its narrow spout allows precise control over water flow\nB. A pressurized siphon — its vacuum draw eliminates bloom\nC. A scale-only setup — measuring weight removes any pour-technique variable\nD. A wide-mouth carafe — its broad opening lets you pour quickly\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D10:4",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "On D10:9 the assistant gave Noah a numerical sweet spot for WATER HARDNESS when brewing coffee. Which range did the assistant recommend?\nA. Slightly hard water, about 50-100 ppm as calcium carbonate\nB. Distilled / 0 ppm for the cleanest flavor\nC. Soft water, about 0-20 ppm as calcium carbonate\nD. Very hard water, about 250-400 ppm as calcium carbonate\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D10:9",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "On D9:8 the assistant compared light, medium, and dark roasts. According to the assistant, which roast has the MODERATE acidity and 'more developed body' relative to the other two?\nA. Medium roast\nB. Dark roast\nC. Light roast\nD. All three roasts have identical body and acidity\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D9:8",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "On D13:4 the assistant gave Noah a specific milk-temperature RANGE for the best latte-art pour. What was that range?\nA. 85-90°C (185-194°F)\nB. 35-40°C (95-104°F)\nC. 70-80°C (158-176°F)\nD. 60-65°C (140-149°F)\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "According to the Barista Cheat Sheet PDF discussed on D15, what is the MAIN difference between a Flat White and a Cappuccino in terms of froth?\nA. A Flat White uses cold milk; a Cappuccino uses warm milk\nB. A Flat White has 1/2 cm of froth; a Cappuccino has froth in equal parts with the textured milk\nC. A Flat White is served hot only; a Cappuccino is served iced only\nD. A Flat White uses Robusta beans; a Cappuccino uses Arabica beans\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D15:1,D15:2",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "According to the Barista Cheat Sheet PDF on D15, what is the precise mechanism by which the steam wand heats milk?\nA. It uses cold water and microwave radiation to heat the milk\nB. It directly applies an electric heating element to the milk\nC. It passes hot water through the wand to create steam, which gently froths and aerates the milk\nD. It chemically reacts with milk proteins to release thermal energy\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D15:4",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "According to the Barista Cheat Sheet PDF on D15, what is the OPTIMAL temperature range specifically for espresso EXTRACTION?\nA. 150°F to 165°F (66°C to 74°C)\nB. 180°F to 190°F (82°C to 88°C)\nC. 195°F to 205°F (90°C to 96°C)\nD. 212°F to 220°F (100°C to 104°C)\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D15:7,D15:8",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "According to the Barista Cheat Sheet on D15, what pH range for brewing water is described as 'crucial for the balance and flavor of espresso'?\nA. 6.5 to 7.5\nB. 3.5 to 4.5 (highly acidic)\nC. 5.0 to 6.0 (slightly acidic)\nD. 8.5 to 9.5 (alkaline)\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D15:14",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "According to the 'Barista Cheat Sheet' on D15, whole milk has a fat content of approximately what percentage, which affects froth richness and creaminess?\nA. Around 0% (skim)\nB. Around 3.25%\nC. Around 7.5%\nD. Around 1.0%\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D15:11",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "According to the Barista Manual PDF discussed on D16, the manual lists FOUR factors that determine the ability to make properly made espresso. Which of these is NOT one of the four?\nA. Atmospheric humidity in the café\nB. The grind correctly adjusted for a 20-25 second brewing time\nC. The machine — brewing hand clean and temperature set at 90°C (194°F)\nD. The blend you choose and the freshness of the coffee\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D16:5",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "According to the Barista Manual on D16, how full should the milk-foaming jug be filled before steaming?\nA. About 2/3 full to avoid running out of milk\nB. Just enough to cover the bottom (1/10 full)\nC. Completely full so all the milk gets steamed\nD. Slightly more than 1/3 full but never more than half full\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D16:3",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "According to the Barista Manual on D16, where should the tip of the steam-wand nozzle be positioned during the stretching phase of milk foaming?\nA. Held about 5 cm above the milk surface\nB. Halfway down inside the milk volume\nC. Just under the surface of the milk\nD. Touching the very bottom of the jug\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D16:3,D16:4",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "According to the Barista Manual on D16, what is the IDEAL brewing time for an espresso (related to grind adjustment)?\nA. 40-50 seconds\nB. 60-90 seconds\nC. 10-15 seconds\nD. 20-25 seconds\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D16:5",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "According to the Barista Manual on D16, what is the PRIMARY reason daily cleaning of the espresso machine is essential?\nA. It is required by the espresso-bean supplier's warranty\nB. It legally certifies the café for health inspections\nC. It prevents the buildup of coffee oils and grounds that can clog the machine and affect taste\nD. It saves on water utility costs\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D16:8",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "According to the coffee-culture handbook on D17, what is the precise DEFINITION of 'single origin' coffee?\nA. Coffee made from only Arabica species beans\nB. Coffee from a single estate within a single country\nC. Coffee from beans of a single harvest year\nD. Coffee that comes from just one country, not several\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D17:3,D17:5",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "According to the D17 PDF, what is the MAIN effect of HIGHER ELEVATION on coffee flavor?\nA. More complex and nuanced flavors due to slower ripening processes\nB. Stronger caffeine content with reduced acidity\nC. Higher elevations have no measurable effect on flavor\nD. Faster ripening that increases body but reduces complexity\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D17:4",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "According to the D17 PDF, the 'honey' processing method has multiple levels distinguished by how much mucilage is retained. The PDF mentions three specific named levels. Which set below correctly names them?\nA. Wet, semi-wet, and dry honey\nB. Floral, fruity, and earthy honey\nC. Yellow, red, and black honey\nD. Light, medium, and dark honey\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D17:16",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "According to the D17 PDF, the 'wet hulled' processing method is primarily used in which country?\nA. Ethiopia\nB. Colombia\nC. Indonesia\nD. Brazil\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D17:17",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "From the chart 'Americans express varying degrees of support for AI playing different roles in society' (D1:10), which application has the HIGHEST NET support (big role + small role combined)?\nA. Searching for fraud in government benefits claims (NET 70%)\nB. Advising people about their faith in God (NET 11%)\nC. Selecting who should serve on a jury (NET 33%)\nD. Forecasting the weather (NET 74%)\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "From the chart 'Democrats are far more confident than Republicans that childhood vaccines are effective and safe' on D3:10, what is the EXACT Dem-Rep gap (extremely/very confident) on 'childhood vaccines are highly effective at preventing serious illness'?\nA. Dem 80% vs Rep 48% — a 32-point gap\nB. Dem 71% vs Rep 32% — a 39-point gap\nC. Dem 80% vs Rep 35% — a 45-point gap\nD. Dem 90% vs Rep 44% — a 46-point gap\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "From the chart 'Americans still have more confidence in scientists than many other groups in society' on D7:10, which group has the LOWEST NET confidence percentage?\nA. Religious leaders\nB. Elected officials\nC. Journalists\nD. Business leaders\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D7:10",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "From the chart 'Two-thirds of Democrats now say the U.S. is losing ground in scientific achievements' on D5:10, by what year had two-thirds of Democrats reached the 'losing ground' answer?\nA. Jan '19 (still well under 50%)\nB. Oct '25 (65%)\nC. Oct '23 (37%)\nD. Sep '22 (36%)\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D5:10",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "From the chart 'College graduates are more likely to have a great deal of confidence in scientists among Democrats, but not among Republicans' on D7:10, what is the 'great deal' percentage for COLLEGE-GRAD+ DEMOCRATS specifically?\nA. 23%\nB. 15%\nC. 37%\nD. 56%\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D7:10",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "Bundle the assistant's complete advice for a consistent espresso crema: what to adjust at grind, tamp, and water temperature, and how each affects crema.",
+    "answer": [
+      "balance grind and tamp pressure for even extraction and hold water in the 90-96°C window — under-extraction thins the crema while over-extraction makes it bitter and short-lived"
+    ],
+    "supporting_facts": "D4:4",
+    "type": "th",
+    "label": "balance grind and tamp pressure for even extraction and hold water in the 90-96°C window — under-extraction thins the crema while over-extraction makes it bitter and short-lived"
+  },
+  {
+    "question": "Compile the assistant's complete advice for steaming milk into a velvety microfoam: air-intake control, mixing technique after frothing, and serving texture.",
+    "answer": [
+      "stretch air for just a few seconds, then lower the pitcher to texture the milk and finish with firm swirls and a tap to integrate the foam into a smooth, glossy microfoam"
+    ],
+    "supporting_facts": "D5:1,D7:6",
+    "type": "th",
+    "label": "stretch air for just a few seconds, then lower the pitcher to texture the milk and finish with firm swirls and a tap to integrate the foam into a smooth, glossy microfoam"
+  },
+  {
+    "question": "Bundle the assistant's complete diagnostic for Noah's slow V60 pour-over and for an over-acidic light roast in V60: which levers to adjust and how.",
+    "answer": [
+      "for a slow pour-over coarsen the grind and verify 90-96°C water; for an over-acidic light roast raise temperature slightly toward 96°C and use a slightly finer grind to deepen extraction"
+    ],
+    "supporting_facts": "D9:1,D10:1",
+    "type": "th",
+    "label": "for a slow pour-over coarsen the grind and verify 90-96°C water; for an over-acidic light roast raise temperature slightly toward 96°C and use a slightly finer grind to deepen extraction"
+  },
+  {
+    "question": "Compile the assistant's full advice for balancing espresso versus foam in Noah's macchiato — both directions (espresso overpowering foam, and foam overpowering espresso).",
+    "answer": [
+      "if espresso overpowers, shorten the shot or finer the grind to lower intensity; if foam overpowers, lengthen the shot or use a larger volume of properly textured airy foam that integrates instead of sitting as a thick layer"
+    ],
+    "supporting_facts": "D11:4",
+    "type": "th",
+    "label": "if espresso overpowers, shorten the shot or finer the grind to lower intensity; if foam overpowers, lengthen the shot or use a larger volume of properly textured airy foam that integrates instead of sitting as a thick layer"
+  },
+  {
+    "question": "Bundle the assistant's complete account of how washed, natural, and honey processing methods each affect coffee flavor.",
+    "answer": [
+      "washed processing yields cleaner, brighter, high-acidity cups; natural processing imparts fruity, sweet, sometimes fermented notes; honey processing balances the two with extra sweetness and viscosity proportional to retained mucilage"
+    ],
+    "supporting_facts": "D11:9",
+    "type": "th",
+    "label": "washed processing yields cleaner, brighter, high-acidity cups; natural processing imparts fruity, sweet, sometimes fermented notes; honey processing balances the two with extra sweetness and viscosity proportional to retained mucilage"
+  },
+  {
+    "question": "Compile the assistant's diagnostic for Noah's coarse cold-brew texture: what to adjust at grind and steep time, and the trade-offs of each.",
+    "answer": [
+      "use a slightly finer grind to smooth the texture and shorten the steep accordingly — pushing grind too fine for the original steep over-extracts and adds bitterness and silt"
+    ],
+    "supporting_facts": "D6:1",
+    "type": "th",
+    "label": "use a slightly finer grind to smooth the texture and shorten the steep accordingly — pushing grind too fine for the original steep over-extracts and adds bitterness and silt"
+  },
+  {
+    "question": "Compile the assistant's full case for water quality in coffee brewing: the hardness sweet spot, what too-soft water does, and what too-hard water does.",
+    "answer": [
+      "aim for around 50-100 ppm CaCO₃ — softer water leaves the cup flat from poor extraction, while harder water over-extracts, adds metallic or chalky notes, and scales the boiler"
+    ],
+    "supporting_facts": "D10:9",
+    "type": "th",
+    "label": "aim for around 50-100 ppm CaCO₃ — softer water leaves the cup flat from poor extraction, while harder water over-extracts, adds metallic or chalky notes, and scales the boiler"
+  },
+  {
+    "question": "Compile the assistant's full advice for batch brewing: how to keep extra coffee fresh, and how to maintain stable temperature across many cups.",
+    "answer": [
+      "brew only what you'll serve within about an hour into a pre-heated insulated carafe (avoid hotplates) and use a PID-controlled brewer to hold a steady setpoint across the shift"
+    ],
+    "supporting_facts": "D14:1,D14:4",
+    "type": "th",
+    "label": "brew only what you'll serve within about an hour into a pre-heated insulated carafe (avoid hotplates) and use a PID-controlled brewer to hold a steady setpoint across the shift"
+  },
+  {
+    "question": "Compile the assistant's full Chemex case: which kettle to use, what filter property matters, and how that affects cup clarity.",
+    "answer": [
+      "pour with a gooseneck kettle through Chemex's thick paper filter — it strips oils and fines for a remarkably clean, almost tea-like cup, at the cost of body and mouthfeel"
+    ],
+    "supporting_facts": "D10:4",
+    "type": "th",
+    "label": "pour with a gooseneck kettle through Chemex's thick paper filter — it strips oils and fines for a remarkably clean, almost tea-like cup, at the cost of body and mouthfeel"
+  },
+  {
+    "question": "Bundle the assistant's full advice on pre-infusion: what it does, why it helps, and a starting setting.",
+    "answer": [
+      "pre-infusion saturates the puck at low pressure before full pressure begins, reducing channeling and improving extraction evenness — a 3-5 second pre-infusion is a sensible starting point"
+    ],
+    "supporting_facts": "D3:1",
+    "type": "th",
+    "label": "pre-infusion saturates the puck at low pressure before full pressure begins, reducing channeling and improving extraction evenness — a 3-5 second pre-infusion is a sensible starting point"
+  },
+  {
+    "question": "Compile the assistant's daily espresso-machine cleaning routine: what to clean, how often, and why.",
+    "answer": [
+      "every day backflush the group head, wipe and purge the steam wand after each milk drink, deep-clean the wand at end of day, and empty the drip tray and knock box — buildup of coffee oils otherwise clogs the machine and turns subsequent shots rancid"
+    ],
+    "supporting_facts": "D8:7",
+    "type": "th",
+    "label": "every day backflush the group head, wipe and purge the steam wand after each milk drink, deep-clean the wand at end of day, and empty the drip tray and knock box — buildup of coffee oils otherwise clogs the machine and turns subsequent shots rancid"
+  },
+  {
+    "question": "Bundle the assistant's advice for tasting single-origin coffees: what to attend to per origin (Ethiopian, Colombian), and what brewing levers most affect the perceived origin character.",
+    "answer": [
+      "highlight Ethiopian brightness and floral/fruity notes with a clean V60 extraction; Colombians sit balanced across methods; grind size and water temperature are the strongest controllable levers — finer + hotter deepens body and mutes brightness, coarser + cooler preserves origin clarity"
+    ],
+    "supporting_facts": "D8:2",
+    "type": "th",
+    "label": "highlight Ethiopian brightness and floral/fruity notes with a clean V60 extraction; Colombians sit balanced across methods; grind size and water temperature are the strongest controllable levers — finer + hotter deepens body and mutes brightness, coarser + cooler preserves origin clarity"
+  },
+  {
+    "question": "Compile the assistant's advice for practicing how to distinguish heavy body from light body and to articulate the finish of a coffee.",
+    "answer": [
+      "compare body by mouthfeel — heavy is syrupy and coating, light is watery and clean — then note which flavors linger after swallowing as the finish, practicing on one coffee across multiple grind/temperature settings with a structured scoring sheet"
+    ],
+    "supporting_facts": "D3:7",
+    "type": "th",
+    "label": "compare body by mouthfeel — heavy is syrupy and coating, light is watery and clean — then note which flavors linger after swallowing as the finish, practicing on one coffee across multiple grind/temperature settings with a structured scoring sheet"
+  },
+  {
+    "question": "Bundle the assistant's advice for using a refractometer and TDS to judge brew strength.",
+    "answer": [
+      "target TDS roughly 1.15-1.35 % for filter coffee and compute extraction yield (target ~18-22 %) from the brew ratio; if temperature already sits in the 92-96°C optimum, look at grind size and ratio first when TDS is off"
+    ],
+    "supporting_facts": "D7:1",
+    "type": "th",
+    "label": "target TDS roughly 1.15-1.35 % for filter coffee and compute extraction yield (target ~18-22 %) from the brew ratio; if temperature already sits in the 92-96°C optimum, look at grind size and ratio first when TDS is off"
+  },
+  {
+    "question": "Compile the assistant's advice for pouring a clean rosetta: milk temperature, pour rhythm, and how to lock the symmetry.",
+    "answer": [
+      "steam milk to 60-65°C, integrate from height, then drop close to the surface and wiggle side-to-side at a steady tempo before a fast straight pull through the centre to draw the stem"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "th",
+    "label": "steam milk to 60-65°C, integrate from height, then drop close to the surface and wiggle side-to-side at a steady tempo before a fast straight pull through the centre to draw the stem"
+  },
+  {
+    "question": "Bundle the assistant's recommended reading list and approach for studying coffee history and its spread to Europe.",
+    "answer": [
+      "start with Markman Ellis's 'The Coffee House: A Cultural History' and pair it with broader trade-route histories to follow coffee from Yemen and the Ottomans through Venice, Vienna, Paris, and London — tracking technique changes (Turkish → drip → espresso) as a parallel technical history"
+    ],
+    "supporting_facts": "D13:9",
+    "type": "th",
+    "label": "start with Markman Ellis's 'The Coffee House: A Cultural History' and pair it with broader trade-route histories to follow coffee from Yemen and the Ottomans through Venice, Vienna, Paris, and London — tracking technique changes (Turkish → drip → espresso) as a parallel technical history"
+  },
+  {
+    "question": "Compile the assistant's three-way comparison of light, medium, and dark roasts on both acidity and body.",
+    "answer": [
+      "light roasts give high acidity and light body with the clearest origin character; medium roasts soften acidity into a balanced cup with developing body; dark roasts drop acidity and bring full body with roast-forward bittersweet notes that override origin"
+    ],
+    "supporting_facts": "D9:8",
+    "type": "th",
+    "label": "light roasts give high acidity and light body with the clearest origin character; medium roasts soften acidity into a balanced cup with developing body; dark roasts drop acidity and bring full body with roast-forward bittersweet notes that override origin"
+  },
+  {
+    "question": "Bundle the assistant's notes on which specific acids and aromatics contribute most to bright/fruity character versus body and depth in coffee.",
+    "answer": [
+      "acetic, citric, malic, and chlorogenic acids drive the bright, fruity character, while lipids, Maillard products, and melanoidins drive body, viscous mouthfeel, and chocolate/caramel depth"
+    ],
+    "supporting_facts": "D6:4",
+    "type": "th",
+    "label": "acetic, citric, malic, and chlorogenic acids drive the bright, fruity character, while lipids, Maillard products, and melanoidins drive body, viscous mouthfeel, and chocolate/caramel depth"
+  },
+  {
+    "question": "Compile the assistant's advice for French-press brewing: temperature, grind, and steep time.",
+    "answer": [
+      "use 92-94°C water with a coarse, sea-salt-like grind and a 4-minute steep, then press slowly and decant immediately to stop further extraction"
+    ],
+    "supporting_facts": "D12:4",
+    "type": "th",
+    "label": "use 92-94°C water with a coarse, sea-salt-like grind and a 4-minute steep, then press slowly and decant immediately to stop further extraction"
+  },
+  {
+    "question": "Bundle the assistant's account of why stable brew temperature matters and the role of a PID controller in achieving it.",
+    "answer": [
+      "small temperature swings shift extraction yield in both directions — sour/weak when too low, bitter/ashy when too high — so a PID anticipates overshoot and undershoot to hold a precise setpoint, producing tighter shot-to-shot consistency"
+    ],
+    "supporting_facts": "D12:9,D14:4",
+    "type": "th",
+    "label": "small temperature swings shift extraction yield in both directions — sour/weak when too low, bitter/ashy when too high — so a PID anticipates overshoot and undershoot to hold a precise setpoint, producing tighter shot-to-shot consistency"
+  },
+  {
+    "question": "Compile the assistant's full advice for even extraction during a pour-over: pour pattern, pour rate, and rest periods.",
+    "answer": [
+      "pour in a steady spiral from the centre outward at an even rate, broken into pulses with 20-30 second pauses to let water draw down so the whole bed extracts uniformly"
+    ],
+    "supporting_facts": "D9:3",
+    "type": "th",
+    "label": "pour in a steady spiral from the centre outward at an even rate, broken into pulses with 20-30 second pauses to let water draw down so the whole bed extracts uniformly"
+  },
+  {
+    "question": "Bundle the assistant's full prescription for taming an overly acidic light-roast V60: which levers to adjust and in what direction.",
+    "answer": [
+      "raise water temperature slightly within the 92-96°C window, use a slightly finer grind to deepen extraction, and tighten the brew ratio toward 1:15 to add body — confirm by taste rather than TDS alone"
+    ],
+    "supporting_facts": "D10:1",
+    "type": "th",
+    "label": "raise water temperature slightly within the 92-96°C window, use a slightly finer grind to deepen extraction, and tighten the brew ratio toward 1:15 to add body — confirm by taste rather than TDS alone"
+  },
+  {
+    "question": "From the user-provided barista cheat-sheet PDF, bundle the structural account it gives of how to construct a Flat White versus a Cappuccino — froth, equipment, and the steam-wand mechanism.",
+    "answer": [
+      "a Flat White has about 1/2 cm of dense smooth froth on textured milk, a Cappuccino has froth and textured milk in equal parts as a thicker cap, both built on an espresso base with the steam wand passing hot steam through the milk at around 150°C+ to aerate without scorching"
+    ],
+    "supporting_facts": "D15:1,D15:2,D15:3,D15:4",
+    "type": "th",
+    "label": "a Flat White has about 1/2 cm of dense smooth froth on textured milk, a Cappuccino has froth and textured milk in equal parts as a thicker cap, both built on an espresso base with the steam wand passing hot steam through the milk at around 150°C+ to aerate without scorching"
+  },
+  {
+    "question": "From the user-provided cheat-sheet PDF, compile its case about grind size, water temperature, and water pH for espresso quality.",
+    "answer": [
+      "aim for a grind that produces a 20-25 second shot, water at 90-96°C (195-205°F), and a pH between 6.5 and 7.5 — outside these windows extraction skews sour, bitter, or flat"
+    ],
+    "supporting_facts": "D15:5,D15:8,D15:14",
+    "type": "th",
+    "label": "aim for a grind that produces a 20-25 second shot, water at 90-96°C (195-205°F), and a pH between 6.5 and 7.5 — outside these windows extraction skews sour, bitter, or flat"
+  },
+  {
+    "question": "From the user-provided cheat-sheet PDF, compile its case about how milk composition (fat and protein content) affects froth in lattes and cappuccinos.",
+    "answer": [
+      "whole milk's ~3.25 % fat gives creamier mouthfeel and a stabler, denser microfoam at slightly lower height, while lower-fat milk foams higher and airier but lacks creaminess — proteins (casein and whey) are what hold the bubble structure"
+    ],
+    "supporting_facts": "D15:10,D15:11",
+    "type": "th",
+    "label": "whole milk's ~3.25 % fat gives creamier mouthfeel and a stabler, denser microfoam at slightly lower height, while lower-fat milk foams higher and airier but lacks creaminess — proteins (casein and whey) are what hold the bubble structure"
+  },
+  {
+    "question": "From the user-provided barista manual PDF, bundle the four factors the manual lists as determining the ability to prepare a properly made espresso.",
+    "answer": [
+      "blend choice and bean freshness, a grind tuned to a 20-25 second extraction, a clean machine held at 90°C, and consistent daily operation across milk frothing and cleaning routines"
+    ],
+    "supporting_facts": "D16:5,D16:6",
+    "type": "th",
+    "label": "blend choice and bean freshness, a grind tuned to a 20-25 second extraction, a clean machine held at 90°C, and consistent daily operation across milk frothing and cleaning routines"
+  },
+  {
+    "question": "From the user-provided barista manual PDF, compile the full milk-foaming protocol the manual prescribes — milk choice, jug fill, wand position, and stretching technique.",
+    "answer": [
+      "always cold fresh milk in a jug filled slightly more than 1/3 but never above half, with the steam-wand tip just under the surface so steam draws air into the milk — too deep scorches it, too shallow makes large bubbles"
+    ],
+    "supporting_facts": "D16:3,D16:4",
+    "type": "th",
+    "label": "always cold fresh milk in a jug filled slightly more than 1/3 but never above half, with the steam-wand tip just under the surface so steam draws air into the milk — too deep scorches it, too shallow makes large bubbles"
+  },
+  {
+    "question": "From the user-provided barista manual PDF, compile what the manual says about the espresso-machine cleaning routine and why it matters.",
+    "answer": [
+      "clean the machine every single day (backflush, wand purge, group-head wipe) — daily cleaning prevents coffee-oil and grounds buildup that would clog flow and taint subsequent shots"
+    ],
+    "supporting_facts": "D16:7,D16:8",
+    "type": "th",
+    "label": "clean the machine every single day (backflush, wand purge, group-head wipe) — daily cleaning prevents coffee-oil and grounds buildup that would clog flow and taint subsequent shots"
+  },
+  {
+    "question": "From the user-provided coffee-culture handbook, bundle the case it makes about 'single-origin' coffee — its definition and the four factors influencing flavor.",
+    "answer": [
+      "single-origin means beans from a single country, and its flavor is shaped by the country's terroir, elevation, processing method, and the roast and brew applied to it"
+    ],
+    "supporting_facts": "D17:3,D17:4,D17:5,D17:6",
+    "type": "th",
+    "label": "single-origin means beans from a single country, and its flavor is shaped by the country's terroir, elevation, processing method, and the roast and brew applied to it"
+  },
+  {
+    "question": "From the user-provided coffee-culture handbook, compile its full comparison of the four processing methods: natural, washed, honey, and wet-hulled.",
+    "answer": [
+      "natural processing dries cherries whole for fruity, sweet, sometimes fermented notes; washed strips mucilage for clean, bright, high-clarity cups; honey leaves some mucilage for sweeter, more viscous cups; wet-hulled (Indonesian) leaves heavier body with earthy/woody character"
+    ],
+    "supporting_facts": "D17:11,D17:13,D17:16,D17:17",
+    "type": "th",
+    "label": "natural processing dries cherries whole for fruity, sweet, sometimes fermented notes; washed strips mucilage for clean, bright, high-clarity cups; honey leaves some mucilage for sweeter, more viscous cups; wet-hulled (Indonesian) leaves heavier body with earthy/woody character"
+  },
+  {
+    "question": "Across Noah's grinder-practice and later medium-roast V60 grinder-setting questions, what is the consistent advice the assistant gives for matching grinder setting to V60 pour-over?",
+    "answer": [
+      "use a medium / medium-fine grind for V60 and calibrate by draw-down time (about 2:30-3:00 min), going coarser to preserve brightness and finer to mute it"
+    ],
+    "supporting_facts": "D2:1,D12:1",
+    "type": "ms",
+    "label": "use a medium / medium-fine grind for V60 and calibrate by draw-down time (about 2:30-3:00 min), going coarser to preserve brightness and finer to mute it"
+  },
+  {
+    "question": "Across Noah's pre-infusion and crema-consistency sessions, how does pre-infusion specifically interact with crema quality?",
+    "answer": [
+      "pre-infusion saturates the puck evenly at low pressure, preventing the channeling that thins crema and yielding a thicker, more stable layer"
+    ],
+    "supporting_facts": "D3:1,D4:4",
+    "type": "ms",
+    "label": "pre-infusion saturates the puck evenly at low pressure, preventing the channeling that thins crema and yielding a thicker, more stable layer"
+  },
+  {
+    "question": "Bundling the assistant's advice for achieving a velvety flat-white milk texture across the steaming and milk-distribution sessions, what is the combined technique?",
+    "answer": [
+      "stretch air for only a few seconds while steaming, then swirl the pitcher firmly to integrate the foam into a glossy, even microfoam with no visible large bubbles"
+    ],
+    "supporting_facts": "D5:1,D7:6",
+    "type": "ms",
+    "label": "stretch air for only a few seconds while steaming, then swirl the pitcher firmly to integrate the foam into a glossy, even microfoam with no visible large bubbles"
+  },
+  {
+    "question": "Combining the refractometer/TDS and slow-pour-over sessions, what diagnostic process does the assistant recommend when a pour-over feels under-extracted or runs too long?",
+    "answer": [
+      "verify the water temperature is 90-96°C, take a TDS reading, and coarsen the grind if extraction is low with a slow draw-down"
+    ],
+    "supporting_facts": "D7:1,D9:1",
+    "type": "ms",
+    "label": "verify the water temperature is 90-96°C, take a TDS reading, and coarsen the grind if extraction is low with a slow draw-down"
+  },
+  {
+    "question": "Combining Noah's single-origin tasting with his processing-methods discussion, how does processing method shift the perceived origin character of an Ethiopian bean?",
+    "answer": [
+      "natural processing amplifies fermented berry/floral fruit notes, while washed processing preserves bright, clean citrus-and-floral acidity"
+    ],
+    "supporting_facts": "D8:2,D11:9",
+    "type": "ms",
+    "label": "natural processing amplifies fermented berry/floral fruit notes, while washed processing preserves bright, clean citrus-and-floral acidity"
+  },
+  {
+    "question": "Across the espresso-machine cleaning and the temperature-stability sessions, what is the common theme about equipment reliability?",
+    "answer": [
+      "shot-to-shot consistency depends on removing equipment-side variance — daily cleaning and stable temperature control eliminate two of the largest non-coffee sources of cup drift"
+    ],
+    "supporting_facts": "D8:7,D12:9",
+    "type": "ms",
+    "label": "shot-to-shot consistency depends on removing equipment-side variance — daily cleaning and stable temperature control eliminate two of the largest non-coffee sources of cup drift"
+  },
+  {
+    "question": "Combining Noah's roast-comparison session with the Chemex brewing session, which roast level pairs best with Chemex and why?",
+    "answer": [
+      "light or medium-light roasts pair best with Chemex because the thick paper filter produces a clean cup that highlights origin character and bright acidity"
+    ],
+    "supporting_facts": "D9:8,D10:4",
+    "type": "ms",
+    "label": "light or medium-light roasts pair best with Chemex because the thick paper filter produces a clean cup that highlights origin character and bright acidity"
+  },
+  {
+    "question": "Bundling Noah's over-acidic light-roast V60 case with the water-source experiments, how does water mineral content interact with light-roast acidity?",
+    "answer": [
+      "slightly hard water (around 50-100 ppm CaCO₃) buffers organic acids and softens light-roast brightness, whereas very soft water leaves the acidity feeling piercingly sharp"
+    ],
+    "supporting_facts": "D10:1,D11:1",
+    "type": "ms",
+    "label": "slightly hard water (around 50-100 ppm CaCO₃) buffers organic acids and softens light-roast brightness, whereas very soft water leaves the acidity feeling piercingly sharp"
+  },
+  {
+    "question": "Across the macchiato and rosetta latte-art sessions, briefly contrast the role of milk foam in each drink.",
+    "answer": [
+      "in a macchiato a small amount of foam is a garnish on top of espresso-dominant volume, while in a rosetta latte the microfoam is the medium that integrates with espresso to paint the pattern"
+    ],
+    "supporting_facts": "D11:4,D13:4",
+    "type": "ms",
+    "label": "in a macchiato a small amount of foam is a garnish on top of espresso-dominant volume, while in a rosetta latte the microfoam is the medium that integrates with espresso to paint the pattern"
+  },
+  {
+    "question": "Across the French-press and V60-perfection sessions, what is the common brewing-temperature range, and what differs by brew method?",
+    "answer": [
+      "both fall within the 92-96°C window — French press sits at the 92-94°C lower end to limit over-extraction during the long steep, while V60 can run a few degrees higher for denser, darker beans"
+    ],
+    "supporting_facts": "D12:4,D13:1",
+    "type": "ms",
+    "label": "both fall within the 92-96°C window — French press sits at the 92-94°C lower end to limit over-extraction during the long steep, while V60 can run a few degrees higher for denser, darker beans"
+  },
+  {
+    "question": "Combining the body-and-finish vocabulary session with the coffee-chemistry session, which compounds drive the body of the cup, and which drive the brightness and finish?",
+    "answer": [
+      "lipids and Maillard products drive body, while organic acids — acetic, citric, malic, chlorogenic — drive brightness and shape how quickly the finish fades"
+    ],
+    "supporting_facts": "D3:7,D6:4",
+    "type": "ms",
+    "label": "lipids and Maillard products drive body, while organic acids — acetic, citric, malic, chlorogenic — drive brightness and shape how quickly the finish fades"
+  },
+  {
+    "question": "Combining the cold-brew coarseness session with the processing-methods session, which processing method suits cold brew best and why?",
+    "answer": [
+      "natural-processed beans suit cold brew best because the long cold extraction amplifies their fermented berry-and-wine sweetness"
+    ],
+    "supporting_facts": "D6:1,D11:9",
+    "type": "ms",
+    "label": "natural-processed beans suit cold brew best because the long cold extraction amplifies their fermented berry-and-wine sweetness"
+  },
+  {
+    "question": "Looking at the bookends of Noah's apprenticeship — his first café-menu day and his signature-blend capstone — what arc does his work show?",
+    "answer": [
+      "Noah moves from consumer of the café's existing menu to author of his own signature blend and matching brew recipe"
+    ],
+    "supporting_facts": "D1:1,D14:9",
+    "type": "ms",
+    "label": "Noah moves from consumer of the café's existing menu to author of his own signature blend and matching brew recipe"
+  },
+  {
+    "question": "Combining the burr-grinder session with the espresso-machine-cleaning session, what common principle does the assistant emphasise across both equipment sessions?",
+    "answer": [
+      "equipment must be a controlled variable — both grinder calibration and machine cleanliness exist to keep brewing conditions the same shot to shot"
+    ],
+    "supporting_facts": "D2:1,D8:7",
+    "type": "ms",
+    "label": "equipment must be a controlled variable — both grinder calibration and machine cleanliness exist to keep brewing conditions the same shot to shot"
+  },
+  {
+    "question": "Across Noah's espresso pre-infusion session and his macchiato balance session, what consistent lever does the assistant treat as the first adjustment when balancing intensity?",
+    "answer": [
+      "grind size — a slightly finer grind is the primary first lever for tuning intensity in both contexts"
+    ],
+    "supporting_facts": "D3:1,D11:4",
+    "type": "ms",
+    "label": "grind size — a slightly finer grind is the primary first lever for tuning intensity in both contexts"
+  },
+  {
+    "question": "Combining the espresso-machine cleaning session with the roast-comparison session, which roast level demands more frequent cleaning of the espresso machine and group head, and why?",
+    "answer": [
+      "dark roasts demand more frequent cleaning because they release significantly more oils that build up on the group head and produce rancid off-flavors in subsequent shots"
+    ],
+    "supporting_facts": "D8:7,D9:8",
+    "type": "ms",
+    "label": "dark roasts demand more frequent cleaning because they release significantly more oils that build up on the group head and produce rancid off-flavors in subsequent shots"
+  },
+  {
+    "question": "Across the flat-white milk-distribution session and the rosetta latte-art session, what shared microfoam quality do both drinks depend on?",
+    "answer": [
+      "a glossy, paint-like microfoam with bubbles too small to see individually, smooth enough to pour evenly and trace controlled patterns"
+    ],
+    "supporting_facts": "D7:6,D13:4",
+    "type": "ms",
+    "label": "a glossy, paint-like microfoam with bubbles too small to see individually, smooth enough to pour evenly and trace controlled patterns"
+  },
+  {
+    "question": "Across two consecutive V60 sessions — a slow draw-down and an over-acidic light roast — what shared diagnostic question should Noah ask first in both cases?",
+    "answer": [
+      "whether the grind size is appropriate for the roast and bean density — too fine causes slow draw-down, too coarse causes piercing acidity"
+    ],
+    "supporting_facts": "D9:1,D10:1",
+    "type": "ms",
+    "label": "whether the grind size is appropriate for the roast and bean density — too fine causes slow draw-down, too coarse causes piercing acidity"
+  },
+  {
+    "question": "Comparing Noah's Chemex and French-press sessions, briefly contrast the two methods on filtration and body.",
+    "answer": [
+      "Chemex's thick paper filter removes oils for a clean, light-bodied cup, while French press's metal mesh retains oils for a heavy, richly viscous cup"
+    ],
+    "supporting_facts": "D10:4,D12:4",
+    "type": "ms",
+    "label": "Chemex's thick paper filter removes oils for a clean, light-bodied cup, while French press's metal mesh retains oils for a heavy, richly viscous cup"
+  },
+  {
+    "question": "Combining Noah's PID-temperature session with his batch-brewing session, how does a PID controller specifically help batch-brewing consistency?",
+    "answer": [
+      "a PID anticipates heating-element overshoot and undershoot so the brew water stays on setpoint across long batch shifts, removing the slow drift a simple thermostat would allow"
+    ],
+    "supporting_facts": "D12:9,D14:1",
+    "type": "ms",
+    "label": "a PID anticipates heating-element overshoot and undershoot so the brew water stays on setpoint across long batch shifts, removing the slow drift a simple thermostat would allow"
+  },
+  {
+    "question": "Combining Noah's coffee-history study with his signature-blend capstone, how would history shape the design choices in a signature blend?",
+    "answer": [
+      "knowing how coffee cultures evolved lets Noah give his blend a 'voice' that pays homage to a tradition — turning a technical blend into a story"
+    ],
+    "supporting_facts": "D13:9,D14:9",
+    "type": "ms",
+    "label": "knowing how coffee cultures evolved lets Noah give his blend a 'voice' that pays homage to a tradition — turning a technical blend into a story"
+  },
+  {
+    "question": "Across the tasting-notes/cupping session and the refractometer/TDS session, what is the complementary relationship between the two evaluation methods?",
+    "answer": [
+      "tasting notes provide subjective sensory calibration while TDS gives objective strength-and-yield measurements — the two together cover both whether the brew is in range and whether it tastes balanced"
+    ],
+    "supporting_facts": "D3:7,D7:1",
+    "type": "ms",
+    "label": "tasting notes provide subjective sensory calibration while TDS gives objective strength-and-yield measurements — the two together cover both whether the brew is in range and whether it tastes balanced"
+  },
+  {
+    "question": "Across Noah's first grinder session and the processing-methods session, which combination correctly maps processing method to grinder-setting tendency for a V60?",
+    "answer": [
+      "natural-processed beans take a slightly coarser grind, washed beans a slightly finer grind, and honey-processed beans sit in between — all within a medium-fine V60 range"
+    ],
+    "supporting_facts": "D2:1,D11:9",
+    "type": "ms",
+    "label": "natural-processed beans take a slightly coarser grind, washed beans a slightly finer grind, and honey-processed beans sit in between — all within a medium-fine V60 range"
+  },
+  {
+    "question": "Bundling the assistant's overall espresso-reliability model from Noah's pre-infusion session and his daily-cleaning session, what three pillars emerge?",
+    "answer": [
+      "consistent extraction via pre-infusion, consistent equipment via daily cleaning, and consistent inputs from fresh beans of a known grind"
+    ],
+    "supporting_facts": "D3:1,D8:7",
+    "type": "ms",
+    "label": "consistent extraction via pre-infusion, consistent equipment via daily cleaning, and consistent inputs from fresh beans of a known grind"
+  },
+  {
+    "question": "Combining the coffee-chemistry session with the water-hardness session, what is the mechanistic link between water hardness and acidity perception?",
+    "answer": [
+      "calcium and magnesium bind to organic acids during extraction and buffer their sharpness, with 50-100 ppm CaCO₃ as the sweet spot between sharp soft water and muted very-hard water"
+    ],
+    "supporting_facts": "D6:4,D10:9",
+    "type": "ms",
+    "label": "calcium and magnesium bind to organic acids during extraction and buffer their sharpness, with 50-100 ppm CaCO₃ as the sweet spot between sharp soft water and muted very-hard water"
+  },
+  {
+    "question": "Combining the roast-comparison session with the French-press session, which roast pairs best with French press and why?",
+    "answer": [
+      "medium-to-dark roasts pair best with French press, whose long steep and oil-retaining metal filter showcase deep body without over-extracting the brightness of lighter roasts"
+    ],
+    "supporting_facts": "D9:8,D12:4",
+    "type": "ms",
+    "label": "medium-to-dark roasts pair best with French press, whose long steep and oil-retaining metal filter showcase deep body without over-extracting the brightness of lighter roasts"
+  },
+  {
+    "question": "Across the flat-white milk-distribution and macchiato balance sessions, what is the structural contrast between the two drinks in terms of espresso-to-milk ratio?",
+    "answer": [
+      "the flat white is milk-dominant (one shot to roughly 150 ml of steamed milk with a thin microfoam layer), while the macchiato is espresso-dominant (one shot only marked with a small amount of foam)"
+    ],
+    "supporting_facts": "D7:6,D11:4",
+    "type": "ms",
+    "label": "the flat white is milk-dominant (one shot to roughly 150 ml of steamed milk with a thin microfoam layer), while the macchiato is espresso-dominant (one shot only marked with a small amount of foam)"
+  },
+  {
+    "question": "Comparing Noah's V60 and Chemex sessions, briefly contrast the grind size used in each and why they differ.",
+    "answer": [
+      "the V60 uses a medium-fine grind for its fast draw-down, while the Chemex uses a slightly coarser grind because its thicker filter slows water flow"
+    ],
+    "supporting_facts": "D9:1,D10:4",
+    "type": "ms",
+    "label": "the V60 uses a medium-fine grind for its fast draw-down, while the Chemex uses a slightly coarser grind because its thicker filter slows water flow"
+  },
+  {
+    "question": "Combining the crema-consistency session with the daily-cleaning session, how does machine cleanliness specifically affect crema quality?",
+    "answer": [
+      "a dirty group head passes rancid oils into the next shot, thinning the crema and adding off-flavors — daily cleaning lets the fresh oils form a thick, persistent golden crema"
+    ],
+    "supporting_facts": "D4:4,D8:7",
+    "type": "ms",
+    "label": "a dirty group head passes rancid oils into the next shot, thinning the crema and adding off-flavors — daily cleaning lets the fresh oils form a thick, persistent golden crema"
+  },
+  {
+    "question": "Combining the refractometer/TDS session with the V60-perfection session, what targets does the assistant give Noah for a 'dialed' V60 across measured strength and brew time?",
+    "answer": [
+      "TDS around 1.30-1.45 % and extraction yield 19-22 %, hit on a 2:30-3:00 min brew at roughly 1:16 ratio with water at 92-94°C"
+    ],
+    "supporting_facts": "D7:1,D13:1",
+    "type": "ms",
+    "label": "TDS around 1.30-1.45 % and extraction yield 19-22 %, hit on a 2:30-3:00 min brew at roughly 1:16 ratio with water at 92-94°C"
+  },
+  {
+    "question": "Linking the user-provided cheat-sheet PDF with Noah's daily-cleaning session, what is the consistent message across the two sources about equipment maintenance?",
+    "answer": [
+      "both treat equipment maintenance as foundational, not optional — clean the group head, steam wand, and surfaces every day and every shift"
+    ],
+    "supporting_facts": "D8:7,D15:4",
+    "type": "ms",
+    "label": "both treat equipment maintenance as foundational, not optional — clean the group head, steam wand, and surfaces every day and every shift"
+  },
+  {
+    "question": "Combining Noah's milk-steaming session with the user-provided cheat-sheet PDF, what is the specific effect of higher-fat whole milk on the technique he learned earlier?",
+    "answer": [
+      "whole milk's higher fat stabilises microfoam so it holds its shape longer, but also caps maximum foam height — so less air-stretching is needed than with skim"
+    ],
+    "supporting_facts": "D5:1,D15:11",
+    "type": "ms",
+    "label": "whole milk's higher fat stabilises microfoam so it holds its shape longer, but also caps maximum foam height — so less air-stretching is needed than with skim"
+  },
+  {
+    "question": "Comparing the espresso temperature range from the user-provided PDF (around 90-96°C) with the V60 brewing temperature Noah was using, are these the same range, or do they differ — and why?",
+    "answer": [
+      "they overlap closely on 90-96°C, but V60 is typically run at the 92-94°C lower end to avoid blowing past origin character on lighter roasts"
+    ],
+    "supporting_facts": "D13:1,D15:7",
+    "type": "ms",
+    "label": "they overlap closely on 90-96°C, but V60 is typically run at the 92-94°C lower end to avoid blowing past origin character on lighter roasts"
+  },
+  {
+    "question": "Linking the four-factor espresso framework from the user-provided PDF with Noah's crema-consistency session, which of the four factors is most directly responsible for crema quality?",
+    "answer": [
+      "grind size is the most direct lever — a grind that produces a 20-25 s shot yields the thick, persistent golden crema, with bean freshness as a secondary backup factor"
+    ],
+    "supporting_facts": "D4:4,D16:5",
+    "type": "ms",
+    "label": "grind size is the most direct lever — a grind that produces a 20-25 s shot yields the thick, persistent golden crema, with bean freshness as a secondary backup factor"
+  },
+  {
+    "question": "Combining the user-provided PDF's milk-foaming protocol with Noah's milk-distribution session, how do the two practices chain together for one drink?",
+    "answer": [
+      "the PDF prescribes the frothing phase — cold fresh milk in a properly filled jug stretched just under the surface — and Noah's session prescribes the distribution phase that follows: a firm swirl and tap to integrate the foam into uniform texture before pouring"
+    ],
+    "supporting_facts": "D7:6,D16:3",
+    "type": "ms",
+    "label": "the PDF prescribes the frothing phase — cold fresh milk in a properly filled jug stretched just under the surface — and Noah's session prescribes the distribution phase that follows: a firm swirl and tap to integrate the foam into uniform texture before pouring"
+  },
+  {
+    "question": "Cross-referencing the processing-method content in the user-provided PDF with Noah's earlier session-side processing discussion, which methods are covered ONLY by the PDF and not in the dialogue?",
+    "answer": [
+      "wet-hulled processing (used primarily in Indonesia) and the yellow / red / black sub-levels of honey processing, which the dialogue covered only at a general level"
+    ],
+    "supporting_facts": "D11:9,D17:16,D17:17",
+    "type": "ms",
+    "label": "wet-hulled processing (used primarily in Indonesia) and the yellow / red / black sub-levels of honey processing, which the dialogue covered only at a general level"
+  },
+  {
+    "question": "Combining the user-provided PDF's elevation point with Noah's earlier single-origin tasting session, how does elevation interact with the perceived flavor of a single-origin coffee?",
+    "answer": [
+      "higher elevations slow ripening, producing brighter acidity, more layered fruit notes, and a more distinctive origin signature than lower-elevation beans of the same variety"
+    ],
+    "supporting_facts": "D8:2,D17:4",
+    "type": "ms",
+    "label": "higher elevations slow ripening, producing brighter acidity, more layered fruit notes, and a more distinctive origin signature than lower-elevation beans of the same variety"
+  },
+  {
+    "question": "Combining the user-provided PDF's definition of single-origin coffee with Noah's signature-blend capstone, how is a signature blend fundamentally different from a single-origin coffee?",
+    "answer": [
+      "single-origin expresses one terroir, while a signature blend is an engineered mixture of multiple origins composed for balance"
+    ],
+    "supporting_facts": "D14:9,D17:3",
+    "type": "ms",
+    "label": "single-origin expresses one terroir, while a signature blend is an engineered mixture of multiple origins composed for balance"
+  },
+  {
+    "question": "Comparing the two user-provided barista PDFs as training resources, briefly characterise each one's depth and scope.",
+    "answer": [
+      "the cheat-sheet PDF is a compact quick-lookup reference card, while the manual PDF is a structured training book offering depth for learning rather than lookup"
+    ],
+    "supporting_facts": "D15:1,D16:1",
+    "type": "ms",
+    "label": "the cheat-sheet PDF is a compact quick-lookup reference card, while the manual PDF is a structured training book offering depth for learning rather than lookup"
+  },
+  {
+    "question": "Combining the user-provided PDF's framing of coffee as a ritual that 'connects people across generations' with Noah's coffee-history reading, what is the unifying thread between these two cultural-side sources?",
+    "answer": [
+      "both frame coffee as a social institution whose cultural value — ritual, conversation, generational continuity — is inseparable from the barista's technical craft"
+    ],
+    "supporting_facts": "D13:9,D17:1",
+    "type": "ms",
+    "label": "both frame coffee as a social institution whose cultural value — ritual, conversation, generational continuity — is inseparable from the barista's technical craft"
+  },
+  {
+    "question": "Across Noah's full apprenticeship arc, what overall LEARNING POSTURE does he present — what kind of apprentice does he show himself to be?",
+    "answer": [
+      "an enthusiastic, technique-curious apprentice who chases small variables and keeps notebooks rather than coasting on routine",
+      "an enthusiastic apprentice who pursues small variables systematically",
+      "technique-curious systematic apprentice"
+    ],
+    "supporting_facts": "D1:1,D14:9",
+    "type": "ii",
+    "label": "an enthusiastic, technique-curious apprentice who chases small variables and keeps notebooks rather than coasting on routine"
+  },
+  {
+    "question": "What kind of café does Noah most plausibly work in?",
+    "answer": [
+      "a small specialty café focused on per-cup quality"
+    ],
+    "supporting_facts": "D1:1,D8:2",
+    "type": "ii",
+    "label": "a small specialty café focused on per-cup quality"
+  },
+  {
+    "question": "What does Noah's repeated use of TDS readings, structured cupping sheets, and PID controllers suggest about his approach to dialing in coffee?",
+    "answer": [
+      "he most plausibly favors measurement-driven iteration over taste-only intuition — committing to instrumented feedback loops to make his calibration reproducible",
+      "measurement-driven iteration with instrumented feedback loops",
+      "instrumented calibration over taste-only intuition"
+    ],
+    "supporting_facts": "D7:1,D12:9",
+    "type": "ii",
+    "label": "he most plausibly favors measurement-driven iteration over taste-only intuition — committing to instrumented feedback loops to make his calibration reproducible"
+  },
+  {
+    "question": "What aesthetic disposition does Noah most plausibly have toward coffee?",
+    "answer": [
+      "he treats coffee as a visual-and-tactile craft"
+    ],
+    "supporting_facts": "D4:4,D13:4",
+    "type": "ii",
+    "label": "he treats coffee as a visual-and-tactile craft"
+  },
+  {
+    "question": "What is Noah's most plausible current role or occupation?",
+    "answer": [
+      "a training barista apprentice"
+    ],
+    "supporting_facts": "D1:1,D15:1,D16:1",
+    "type": "ii",
+    "label": "a training barista apprentice"
+  },
+  {
+    "question": "What risk-tolerance does Noah most plausibly show when dialing in equipment?",
+    "answer": [
+      "a controlled-test mindset — plan and verify rather than tinker blindly"
+    ],
+    "supporting_facts": "D11:4,D12:1",
+    "type": "ii",
+    "label": "a controlled-test mindset — plan and verify rather than tinker blindly"
+  },
+  {
+    "question": "What practice cadence does Noah most plausibly keep across his apprenticeship?",
+    "answer": [
+      "a near-daily practice cadence"
+    ],
+    "supporting_facts": "D1:1,D14:9",
+    "type": "ii",
+    "label": "a near-daily practice cadence"
+  },
+  {
+    "question": "How does Noah most plausibly prefer to learn a new technique?",
+    "answer": [
+      "by anchoring practice in the WHY — understanding the concept before relying on it"
+    ],
+    "supporting_facts": "D6:4,D13:9",
+    "type": "ii",
+    "label": "by anchoring practice in the WHY — understanding the concept before relying on it"
+  },
+  {
+    "question": "What social register does Noah most plausibly use with the assistant?",
+    "answer": [
+      "a relaxed peer-tutor register, treating the assistant as a craft mentor"
+    ],
+    "supporting_facts": "D1:1,D5:1",
+    "type": "ii",
+    "label": "a relaxed peer-tutor register, treating the assistant as a craft mentor"
+  },
+  {
+    "question": "What is most plausibly true about Noah's milk dietary context?",
+    "answer": [
+      "no dairy restriction, with whole milk as the default for traditional drinks"
+    ],
+    "supporting_facts": "D5:1,D11:4",
+    "type": "ii",
+    "label": "no dairy restriction, with whole milk as the default for traditional drinks"
+  },
+  {
+    "question": "What broader work habit does Noah most plausibly carry into his practice?",
+    "answer": [
+      "keeping systematic written records to support reproducibility and review"
+    ],
+    "supporting_facts": "D3:7,D7:1",
+    "type": "ii",
+    "label": "keeping systematic written records to support reproducibility and review"
+  },
+  {
+    "question": "Noah studied coffee chemistry, coffee processing, AND coffee history within his apprenticeship — domains many baristas treat as optional. What does this suggest about his curiosity scope?",
+    "answer": [
+      "his curiosity covers BOTH the technical and cultural sides of coffee with similar weight — a holistic, not narrowly technical, orientation toward the craft"
+    ],
+    "supporting_facts": "D6:4,D13:9",
+    "type": "ii",
+    "label": "his curiosity covers BOTH the technical and cultural sides of coffee with similar weight — a holistic, not narrowly technical, orientation toward the craft"
+  },
+  {
+    "question": "How does Noah most plausibly mix his formal training and his on-demand assistant conversations?",
+    "answer": [
+      "training for foundations, the assistant for on-demand troubleshooting"
+    ],
+    "supporting_facts": "D14:4,D15:1",
+    "type": "ii",
+    "label": "training for foundations, the assistant for on-demand troubleshooting"
+  },
+  {
+    "question": "What confidence trajectory does Noah most plausibly follow across his apprenticeship?",
+    "answer": [
+      "a shift from learner uncertainty toward calibrated practitioner judgement"
+    ],
+    "supporting_facts": "D1:1,D14:9",
+    "type": "ii",
+    "label": "a shift from learner uncertainty toward calibrated practitioner judgement"
+  },
+  {
+    "question": "How broad is Noah's coffee palate most plausibly?",
+    "answer": [
+      "a broad, multi-origin, multi-method palate"
+    ],
+    "supporting_facts": "D8:2,D10:4,D11:9",
+    "type": "ii",
+    "label": "a broad, multi-origin, multi-method palate"
+  },
+  {
+    "question": "Noah uses a burr grinder, espresso machine with PID, refractometer, gooseneck kettle, V60, Chemex, and French press. What does this kit suggest about his equipment-budget orientation?",
+    "answer": [
+      "he most plausibly operates with access to a professionally equipped specialty-coffee bar rather than a home-hobbyist kit — gear suggests café investment behind him"
+    ],
+    "supporting_facts": "D7:1,D10:4,D12:9",
+    "type": "ii",
+    "label": "he most plausibly operates with access to a professionally equipped specialty-coffee bar rather than a home-hobbyist kit — gear suggests café investment behind him"
+  },
+  {
+    "question": "Across his diagnostic sessions (slow pour-over, over-acidic light roast, coarse cold brew, espresso overpowers foam), how does Noah typically PRESENT problems to the assistant?",
+    "answer": [
+      "he presents problems with proposed hypotheses already attached ('should I adjust grind or temperature?') rather than open-ended help requests — a hypothesis-driven diagnostic style"
+    ],
+    "supporting_facts": "D6:1,D9:1",
+    "type": "ii",
+    "label": "he presents problems with proposed hypotheses already attached ('should I adjust grind or temperature?') rather than open-ended help requests — a hypothesis-driven diagnostic style"
+  },
+  {
+    "question": "What does Noah most plausibly believe about when learning is 'enough'?",
+    "answer": [
+      "he treats technical mastery as a launching pad, not an endpoint"
+    ],
+    "supporting_facts": "D13:9,D14:9",
+    "type": "ii",
+    "label": "he treats technical mastery as a launching pad, not an endpoint"
+  },
+  {
+    "question": "What is the most plausible relationship between Noah's practice and his coursework?",
+    "answer": [
+      "coursework formalises and fills gaps in practice he has already accumulated"
+    ],
+    "supporting_facts": "D1:1,D15:1",
+    "type": "ii",
+    "label": "coursework formalises and fills gaps in practice he has already accumulated"
+  },
+  {
+    "question": "What long-term role within coffee does Noah most plausibly aspire to?",
+    "answer": [
+      "an authorship role — blend design, recipe development, or roasting"
+    ],
+    "supporting_facts": "D14:9,D16:1",
+    "type": "ii",
+    "label": "an authorship role — blend design, recipe development, or roasting"
+  }
+]
