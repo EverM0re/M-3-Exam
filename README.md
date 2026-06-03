@@ -1,4 +1,13 @@
 <h1 align="center"> 💫 M<sup>3</sup>Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions </a></h2>
+
+<div align="center">
+    <a href="https://github.com/YuanchenBei/ColdRec/blob/main/LICENSE"><img src="https://badgen.net/github/license/YuanchenBei/ColdRec?color=green"></a>
+    <a href="https://arxiv.org/abs/2601.03515">
+    <img src="https://img.shields.io/badge/📃%20arXiv-Paper-b31b1b.svg"></a>
+    <a href="https://huggingface.co/datasets/Ethan-Bei/Mem-Gallery">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow"></a>
+</div>
+
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 <h5 align="center">
@@ -7,7 +16,11 @@
 
 </h5>
 
-EraRAG is a novel hierarchical graph construction framework that supports dynamic updates through localized selective re-partitioning, enabling efficient and scalable retrieval with strong static accuracy and stable performance under corpus changes.
+This is the official project repository for 
+
+M<sup>3</sup>Exam is a novel query-centric multimodal conversational QA benchmark built on realistic user-agent interactions, enabling balanced multi-dimensional evaluation across multimodal memorizing, cross-modal reasoning, and implicit-intent interpreting over long-horizon histories of dialogue, images, and documents. We further propose M<sup>3</sup>Proctor, a modality-aware multimodal memory method that detects query modality bias and escalates to raw visual sources only on demand through a cost-aware cascade, enabling efficient multimodal evidence management with selective rather than indiscriminate visual injection.
+
+## 🔧 Requirements
 
 ## 💫 Key Features
 
@@ -42,6 +55,22 @@ If you want to try reproducing the performance of IceBerg, simply run:
 ```
 bash run_iceberg.sh
 ``` -->
+
+## 🧰 Experimental Settings
+
+We have incorporated several baseline methods and benchmark datasets:
+
+| Baseline | Paper | Code |
+| -------- | ----- | ---- |
+| NaiveRAG | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) | [nano-graphrag](https://github.com/gusye1234/nano-graphrag) |
+| A-Mem | [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) | [A-Mem](https://github.com/WujiangXu/A-mem) |
+| Mem0  | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) | [Mem0](https://github.com/mem0ai/mem0) |
+| MemoryOS | [Memory OS of AI Agent](https://aclanthology.org/2025.emnlp-main.1318.pdf) | [MemoryOS](https://github.com/BAI-LAB/MemoryOS) |
+| UniversalRAG | [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](https://arxiv.org/abs/2504.20734) | [UniversalRAG](https://github.com/wgcyeo/UniversalRAG) |
+| RAG-Anything | [RAG-Anything: All-in-One RAG Framework](https://arxiv.org/abs/2510.12323) | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) |
+| MIRIX | [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957) | [MIRIX](https://github.com/Mirix-AI/MIRIX) |
+| MemVerse | [MemVerse: Multimodal Memory for Lifelong Learning Agents](https://arxiv.org/abs/2512.03627) | [MemVerse](https://github.com/KnowledgeXLab/MemVerse) |
+| NGM (Neural Graph Memory) | [Neural Graph Memory: A Structured Approach to Long-Term Memory in Multimodal Agents](https://www.researchgate.net/profile/Matt-Fisher-7/publication/394440420_Neural_Graph_Memory_A_Structured_Approach_to_Long-Term_Memory_in_Multimodal_Agents/links/689ab8c337b271210509c20f/Neural-Graph-Memory-A-Structured-Approach-to-Long-Term-Memory-in-Multimodal-Agents.pdf) | [Neural-Graph-Memory-NGM](https://github.com/StuckInTheNet/Neural-Graph-Memory-NGM) |
 
 
 
