@@ -76,7 +76,7 @@ evaluation:
   input_data_dir: 
   input_question_dir:
   result_dir:
-  baseline: "fulltext"
+  baseline: ""
   evaluation_type: "multimodal" # text or multimodal
   concurrency: 8
 

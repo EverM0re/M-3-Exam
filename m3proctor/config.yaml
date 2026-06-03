@@ -1,0 +1,129 @@
+# M3Proctor (MA-Nano-GraphRAG) -- unified config
+#
+# Usage:
+#   python -m m3exam.m3proctor.run --dataset Alex_Veterinarian
+#   python -m m3exam.m3proctor.run --dataset Mina_BotanyStudent --max-questions 20
+#
+# Notes:
+#   - Indexing, captioning, session summary, classifier, and answering all
+#     share the top-level ``llm.model``.
+#   - LLM-as-judge defaults to the top-level ``llm.model`` unless ``llm.judge``
+#     is provided with its own api_key / base_url / model.
+#   - One round produces one chunk; one extra LLM-summary chunk per session.
+#   - Missing ``img_description`` triggers a VLM caption (cached).
+#   - PDFs use PyMuPDF text-layer extraction (no OCR, no VLM at index time).
+#   - Each question runs through a modality classifier (cached).
+#   - Retrieval: cosine top-N -> modality-aware re-rank -> top-k.
+#   - fm questions force image attachment; other types decide based on
+#     needs_image / needs_pdf classifier flags.
+
+# -----------------------------------------------------------------------------
+# LLM API
+# -----------------------------------------------------------------------------
+llm:
+  api_key:  "your_api_key"
+  base_url: "your_base_url"
+  model:    "your_model_name"
+
+  http_timeout_sec: 900
+  http_max_retries: 3
+  judge_temperature: 0.0
+  answer_max_tokens: 384
+  judge_max_tokens: 8
+
+  # For reasoning models (e.g. o-series / gpt-5): reserve completion-token
+  # budget for hidden reasoning so the visible answer is not truncated.
+  reasoning_reserve_tokens: 8192
+  # max_completion_tokens: 16384
+  reasoning_effort: minimal
+
+  # Optional dedicated judge endpoint. When ``model`` is set, judge calls go
+  # here instead of the main client; otherwise the main client is reused.
+  judge:
+    api_key:  "your_judge_api_key"
+    base_url: "your_judge_base_url"
+    model:    "your_judge_model_name"
+
+# -----------------------------------------------------------------------------
+# Text embedding (local HuggingFace model for the chunks vector store)
+# -----------------------------------------------------------------------------
+embedding:
+  backend: local
+  local_model: "thenlper/gte-base"
+  dim: 768
+  openai_base_url: ""
+  openai_model: "text-embedding-3-small"
+  openai_dim: 1536
+
+# -----------------------------------------------------------------------------
+# Evaluation parameters
+# -----------------------------------------------------------------------------
+eval:
+  # Datasets root. Absolute path or relative to repository root.
+  datasets_root: ""
+  top_k: 15
+  max_images_per_chat: 10
+  judge:
+    enabled: true
+  # Relative to m3exam/m3proctor/.
+  output_root: "outputs"
+
+# -----------------------------------------------------------------------------
+# PDF handling (PDF page rendering for Stage 2 answering)
+# -----------------------------------------------------------------------------
+pdf:
+  render_dpi: 144
+  text_max_chars: 4000
+
+# -----------------------------------------------------------------------------
+# M3Proctor parameters
+# -----------------------------------------------------------------------------
+m3proctor:
+  # ---- Indexing -----------------------------------------------------------
+  session_summary: true             # one LLM-generated mini-timeline chunk per session
+  vlm_caption_missing: true         # VLM-caption images without ``img_description``
+  rich_chart_caption: true          # extract structured numeric facts for chart-like images ([CHART_DATA])
+  pdf_page_chunks: true             # one chunk per PDF page (page text + LLM digest)
+  pdf_page_text_max_chars: 1800     # truncation length for the per-page chunk body
+
+  # ---- Retrieval re-rank weights (query-level) ----------------------------
+  # Recommended range: 0.10 - 0.30. Cosine is in [0, 1]; 0.20 already lifts
+  # same-score image-bearing chunks to the top.
+  alpha_image: 0.20                 # extra weight when needs_image=True and chunk has_image
+  alpha_pdf:   0.25                 # extra weight when needs_pdf=True and chunk has_pdf
+  alpha_chart: 0.15                 # extra weight when needs_chart=True and chunk has_chart
+  over_fetch: 6                     # candidate pool size = top_k * over_fetch
+
+  # Reuse the final retrieved context string to pull additional round ids
+  # via regex (matches nano-graphrag-style attribution).
+  relax_round_recall_from_context: true
+
+  # Session summary boosting (so a single summary chunk can compete with N round chunks).
+  summary_boost: 0.10
+  guarantee_summary: true           # ensure top-k keeps at least one summary chunk (when available)
+  guarantee_min_sessions: 2         # ensure top-k spans at least N distinct sessions
+
+  # Run an additional "no-cascade" pass (Stage 1 only, no Stage 2 escalation)
+  # and write results_ablation_no_cascade.json. CLI: --no-ablation-no-cascade.
+  run_no_cascade_ablation: true
+
+  # ---- Cascade answerer ---------------------------------------------------
+  enable_two_stage: true            # disable to always attach images/PDFs (old behaviour)
+  visual_score_threshold: 0.45      # Stage 2 image-attach threshold
+  pdf_score_threshold: 0.48         # Stage 2 PDF-page-attach threshold
+  # Stage1 -> 2 supplementary upgrade rules (higher = harder to escalate).
+  cascade_chart_numeric_min: 0.58
+  cascade_hallucination_modal_min: 0.76
+  pdf_vision_max_pages: 3           # fallback: max pages rendered per PDF if no hit pages
+  pdf_total_cap: 6                  # max PDF pages attached in a single answer
+
+  # Cascade case study export: writes question bundles where
+  #   type matches AND Stage 2 was triggered AND Stage1 judge-score is low AND
+  #   Stage2 judge-score is high. CLI: --export-cascade-case-study.
+  cascade_case_study_export:
+    enabled: false
+    question_types:
+      - mr
+    output_dir_name: cascade_case_study
+    stage1_negative_if_below: 1.0
+    stage2_positive_if_at_least: 1.0
