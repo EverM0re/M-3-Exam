@@ -1,13 +1,6 @@
 <h1 align="center"> 💫 M<sup>3</sup>Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions </a></h2>
 
-<div align="center">
-    <a href="https://arxiv.org/abs/2601.03515">
-    <img src="https://img.shields.io/badge/📃%20arXiv-Paper-b31b1b.svg"></a>
-    <a href="https://huggingface.co/datasets/Ethan-Bei/Mem-Gallery">
-    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow"></a>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg"></a>
-    <img src="https://img.shields.io/badge/Python-3.10+-blue.svg">
-</div>
+
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
