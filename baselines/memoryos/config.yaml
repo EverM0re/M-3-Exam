@@ -1,0 +1,9 @@
+# MemoryOS baseline-specific parameters.
+# LLM / embedding / datasets_root inherited from baselines/config.yaml.
+models:
+  memoryos:
+    short_term_capacity: 10
+    mid_term_capacity: 2000
+    long_term_knowledge_capacity: 100
+    retrieval_queue_capacity: 7
+    mid_term_similarity_threshold: 0.6

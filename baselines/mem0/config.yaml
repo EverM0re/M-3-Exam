@@ -1,0 +1,11 @@
+# Mem0 baseline parameters. Two variants share the same evaluator class.
+# Install: pip install mem0ai
+models:
+  mem0_text:
+    enable_vision: false
+    collection_prefix: "mem0_text"
+
+  mem0_visual:
+    enable_vision: true
+    vision_details: "auto"
+    collection_prefix: "mem0_visual"

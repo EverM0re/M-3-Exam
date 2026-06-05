@@ -1,0 +1,13 @@
+# NGM (Neural Graph Memory) baseline parameters.
+models:
+  ngm:
+    pdf_policy: native_then_ocr
+    related_neighbor_limit: 2
+    retrieve_dialogue_mode: query_native   # query_native | structured_rounds | full_corpus
+    retrieve_context_max_rounds: 0
+    append_graph_ranked_round_markers: true
+    semantic_threshold: 0.5
+    clip_model: "openai/clip-vit-base-patch32"
+    embed_pdf_max_chars: 8000
+    context_pdf_max_chars: 12000
+    min_native_pdf_chars: 400

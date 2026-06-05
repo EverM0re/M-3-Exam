@@ -1,0 +1,12 @@
+# RAG-Anything baseline parameters.
+models:
+  raganything:
+    pdf_policy: native_then_ocr
+    text_model: "sentence-transformers/all-mpnet-base-v2"
+    clip_model: "openai/clip-vit-large-patch14"
+    alpha: 0.35
+    chunk_words: 80
+    chunk_overlap: 12
+    embed_pdf_max_chars: 8000
+    context_pdf_max_chars: 12000
+    min_native_pdf_chars: 400

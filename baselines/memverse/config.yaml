@@ -1,0 +1,14 @@
+# MemVerse baseline parameters.
+models:
+  memverse:
+    pdf_policy: native_only
+    use_official_mmkg: true
+    # Optional override; defaults to llm.model when unset.
+    # memory_agent_model: "your_model"
+    text_model: "thenlper/gte-base"
+    clip_model: "openai/clip-vit-base-patch32"
+    alpha: 0.4
+    recency_gamma: 0.22
+    embed_pdf_max_chars: 8000
+    context_pdf_max_chars: 12000
+    min_native_pdf_chars: 400

@@ -1,0 +1,9 @@
+# nano-graphrag (naive RAG mode) baseline parameters.
+# Install: pip install nano-graphrag>=0.0.6
+models:
+  nano_graphrag:
+    mode: "naive"
+    chunk_token_size: 1200
+    chunk_overlap_token_size: 100
+    enable_local: false
+    enable_naive_rag: true

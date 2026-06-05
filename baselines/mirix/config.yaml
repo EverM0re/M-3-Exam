@@ -1,0 +1,45 @@
+# MIRIX baseline parameters.
+# Requires either a local SQLite store (mode=local) or a running MIRIX HTTP
+# server (mode=remote, default port 8531).
+models:
+  mirix:
+    # local = in-process LocalClient with file_uri + send_messages
+    # remote = HTTP client; only use when matching an official deployment.
+    mode: local
+    # When true: use ~/.mirix/sqlite.db only (no Postgres). Recommended.
+    local_sqlite: true
+    # Place MIRIX_DIR under each run's output dir so runs are isolated.
+    mirix_data_dir_under_run_output: true
+    # If you want a fixed workspace path instead, set mirix_data_dir explicitly.
+    mirix_data_dir: ""
+
+    # Remote-only fields (placeholders for local mode):
+    api_url: "http://127.0.0.1:8531"
+    api_key: "your_api_key"
+    client_id: "m3exam-eval-client"
+    org_id: "your-org"
+
+    # Indexing behaviour
+    index_pdf_via_ocr: true
+    reindex_pdf_episodic_only: false
+    ingest_dialogue_images: true
+    ingest_max_dialogue_images: 6
+    ingest_defer_session_pdf_in_dialogue: true
+    ingest_pdf_patch_after_index: true
+    ingest_pdf_native: false
+    ingest_pdf_episodic_text: true
+    ingest_pdf_episodic_fallback: true
+    pdf_policy: native_then_ocr
+    embed_pdf_max_chars: 2500
+    context_pdf_max_chars: 5000
+    min_native_pdf_chars: 400
+
+    # Task-agent (answerer) settings
+    task_agent_model: "your_model"
+    task_agent_base_url: "your_base_url"
+    task_agent_api_key: "your_api_key"
+    task_agent_max_tool_rounds: 5
+    task_agent_search_limit: 15
+    rag_append_max_rounds: 10
+    rag_context_max_chars: 18000
+    retrieve_compact_max_items: 14

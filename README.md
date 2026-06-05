@@ -21,35 +21,7 @@ This is the official project repository for **M<sup>3</sup>Exam**.
 
 M<sup>3</sup>Exam is a novel query-centric multimodal conversational QA benchmark built on realistic user-agent interactions, enabling balanced multi-dimensional evaluation across multimodal memorizing, cross-modal reasoning, and implicit-intent interpreting over long-horizon histories of dialogue, images, and documents. We further propose **M<sup>3</sup>Proctor**, a modality-aware multimodal memory method that detects query modality bias and escalates to raw visual sources only on demand through a cost-aware cascade, enabling efficient multimodal evidence management with selective rather than indiscriminate visual injection.
 
-## 📚 Overview
-
-Each item in M<sup>3</sup>Exam is a **persona** — a long-horizon, multi-session history between a user and an assistant, grounded by a profession/hobby-driven *core event* timeline and interleaved with the images and PDF documents the user shares along the way. On top of this history we annotate questions that probe **eight** complementary memory and reasoning abilities:
-
-| Code | Type | What it tests |
-| ---- | ---- | ------------- |
-| `SS` | Single Session | Recall a fact stated within one session. |
-| `MS` | Multi Session | Synthesize consistent evidence across several sessions. |
-| `TR` | Temporal Reasoning | Reason over dates and the ordering of events. |
-| `TH` | Thematic / Case Management | Bundle scattered advice into a complete, coherent answer. |
-| `II` | Implicit Inference | Infer implicit user intent, posture, or state from the dialogue. |
-| `MR` | Multimodal Reasoning | Reason over shared images, charts, and PDF documents. |
-| `FM` | Find Matching Image | Retrieve the exact image file the user once shared. |
-| `FJ` | Factual Judgement (MCQ) | Pick the correct option in a multiple-choice factual check. |
-
-Every question is paired with an answer (free-form answers carry multiple acceptable surface forms) and `supporting_facts` — the dialogue round IDs (e.g. `D2:1,D12:1`) that ground it.
-
-## 🔧 Requirements
-
-M<sup>3</sup>Exam targets **Python 3.10+**. Install the dependencies:
-
-```bash
-pip install openai pyyaml sentence-transformers PyMuPDF numpy
-```
-
-- The data-generation and evaluation pipelines call an OpenAI-compatible chat API (text + vision). Configure your endpoints in [config/config.yaml](config/config.yaml).
-- M<sup>3</sup>Proctor additionally uses a local HuggingFace embedding model (default `thenlper/gte-base`), fetched automatically on first run.
-
-## 📦 Dataset
+## 📦 Dataset: M<sup>3</sup>Exam
 
 A ready-to-inspect example persona lives under [example_set/](example_set/). Each persona directory has the following layout:
 
@@ -103,44 +75,46 @@ Rounds that reference a document carry the analogous `pdf_file` field; rounds wi
 
 ## 🚀 Get Started
 
-The full data pipeline runs as four stages, each exposed as a module under [execution/](execution/). All stages read their parameters from [config/config.yaml](config/config.yaml); the most common knobs can also be overridden on the command line.
+This section walks through running the benchmark on the released dataset. For details on how the dataset itself was generated, see the docstrings under [execution/](execution/).
 
-**1. Generate the core-event timeline** that anchors a persona:
+**1. Configure** API endpoints, dataset paths, and the LLM-judge model in [config/config.yaml](config/config.yaml) (top-level run) and/or [baselines/config.yaml](baselines/config.yaml) (when running baselines).
 
-```bash
-python -m m3exam.execution.run_timeline
-```
-
-**2. Generate questions** of a given type over the dialogue history:
+**2. Set up baselines.** Third-party memory methods (A-Mem, MemoryOS, MIRIX, MemVerse, NGM, RAG-Anything, UniversalRAG) are *not* bundled in this repo. Fetch their source code on demand with the setup script:
 
 ```bash
-# Generate 50 multimodal-reasoning questions (overrides config.yaml)
-python -m m3exam.execution.run_questions --type MR --num 50 \
-    --dialogue-route example_set/Noah_BaristaApprentice \
-    --output-dir example_set/Noah_BaristaApprentice
+# Install every baseline's upstream into baselines/<name>/upstream/
+bash baselines/scripts/setup_upstream.sh
+
+# Or only the ones you plan to run
+bash baselines/scripts/setup_upstream.sh amem mirix
+
+# See what's available
+bash baselines/scripts/setup_upstream.sh --list
 ```
 
-`--type` accepts any of `SS, MS, TR, TH, II, MR, FM, FJ`.
+The script clones each upstream's default branch (no version pinning). `mem0` and `nano_graphrag` are pip-installable and need no clone — see [baselines/README.md](baselines/README.md) for the matching `pip install` commands and per-baseline extras.
 
-**3. Finalize** a generated persona into the released dataset layout:
+**3. Run a baseline** through the unified entry point:
 
 ```bash
-python -m m3exam.execution.run_finalize
+python -m m3exam.baselines.run --baseline mirix --dataset Noah_BaristaApprentice
 ```
 
-**4. Evaluate** a model (or memory baseline) against the questions:
+Available baselines: `a_mem`, `memoryos`, `mem0_text`, `mem0_visual`, `nano_graphrag`, `mirix`, `memverse`, `ngm`, `raganything`, `universalrag`.
+
+**4. Run our proposed method** M<sup>3</sup>Proctor on the same dataset:
 
 ```bash
-python -m m3exam.execution.run_evaluation
+python -m m3exam.m3proctor.run --dataset Noah_BaristaApprentice
 ```
 
-Set `evaluation.evaluation_type` (`text` or `multimodal`), the data/question/result directories, and the evaluation/judge model endpoints under the `evaluation:` block of [config/config.yaml](config/config.yaml).
+Each run writes `results.json` + `summary.json` + a printed per-type rubric. See [baselines/README.md](baselines/README.md) and [m3proctor/README.md](m3proctor/README.md) for the full set of flags and output details.
 
 ### Evaluation Metrics
 
 Metrics are reported per question type and aggregated: **EM**, **F1**, **BLEU-1**, and a five-point **LLM-judge** (0 / 0.25 / 0.5 / 0.75 / 1). `FM` and `FJ` report exact match only; aggregated F1 / BLEU-1 / LLM-judge exclude `FM` and `FJ`.
 
-## 🧠 M<sup>3</sup>Proctor
+## 🧠 Method: M<sup>3</sup>Proctor
 
 M<sup>3</sup>Proctor is our modality-aware memory method, packaged under [m3proctor/](m3proctor/). Built on a naive-RAG backbone, it adds round-level chunking, session-summary chunks, PDF text-layer extraction, VLM captions for images, a query-side modality classifier, and modality-aware re-ranking, followed by a two-stage cascade answerer that escalates to images / rendered PDF pages **only when the text-only answer is not confident enough**.
 

@@ -1,0 +1,9 @@
+# A-Mem baseline-specific parameters.
+# LLM / embedding / datasets_root are inherited from baselines/config.yaml.
+models:
+  a_mem:
+    evo_threshold: 100
+    llm_backend: "openai"
+    # Optional override for the upstream's hard-coded temperature=0.7.
+    # Leave unset to use 1.0 (default in evaluator).
+    # temperature: 1.0

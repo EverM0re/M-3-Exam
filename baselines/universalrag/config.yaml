@@ -1,0 +1,11 @@
+# UniversalRAG baseline parameters.
+models:
+  universalrag:
+    pdf_policy: native_then_ocr
+    use_gpt_router: false
+    text_model: "BAAI/bge-large-en-v1.5"
+    clip_model: "openai/clip-vit-base-patch32"
+    alpha: 0.2
+    embed_pdf_max_chars: 8000
+    context_pdf_max_chars: 12000
+    min_native_pdf_chars: 400

@@ -1,0 +1,55 @@
+# Shared baseline configuration. Each per-baseline yaml under
+# baselines/<name>/config.yaml provides its own `models.<name>` block; the
+# top-level `llm`, `embedding`, `eval`, and `pdf` blocks below are inherited
+# by every baseline.
+
+# -----------------------------------------------------------------------------
+# LLM API (used for answering and LLM-as-judge)
+# -----------------------------------------------------------------------------
+llm:
+  api_key:  "your_api_key"
+  base_url: "your_base_url"
+  model:    "your_model_name"
+
+  http_timeout_sec: 900
+  http_max_retries: 3
+  judge_temperature: 0.0
+  answer_max_tokens: 256
+  judge_max_tokens: 8
+
+  # Optional dedicated judge endpoint; falls back to the main LLM if unset.
+  judge:
+    api_key:  "your_judge_api_key"
+    base_url: "your_judge_base_url"
+    model:    "your_judge_model_name"
+
+# -----------------------------------------------------------------------------
+# Text embedding
+# -----------------------------------------------------------------------------
+embedding:
+  backend: local           # local | openai
+  local_model: "thenlper/gte-base"
+  dim: 768
+  openai_base_url: ""
+  openai_model: "text-embedding-3-small"
+  openai_dim: 1536
+
+# -----------------------------------------------------------------------------
+# Evaluation parameters
+# -----------------------------------------------------------------------------
+eval:
+  datasets_root: ""
+  top_k: 5
+  max_images_per_chat: 10
+  judge:
+    enabled: true
+  output_root: "outputs"
+
+# -----------------------------------------------------------------------------
+# PDF rendering / extraction
+# -----------------------------------------------------------------------------
+pdf:
+  render_dpi: 144
+  cache_dir: ".pdf_renders"
+  max_pages_per_pdf: 0      # 0 = all pages
+  text_max_chars: 4000

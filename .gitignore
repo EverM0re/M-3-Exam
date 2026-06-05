@@ -66,3 +66,7 @@ m3exam_qgen_pdf_cache/
 # datasets/
 # images/
 # pdfs/
+
+# Baseline upstream sources are NOT committed; users fetch them via
+# baselines/scripts/setup_upstream.sh.
+baselines/*/upstream/
