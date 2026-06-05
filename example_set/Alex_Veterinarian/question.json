@@ -1,0 +1,3823 @@
+[
+  {
+    "question": "Which vein is recommended for first-choice venipuncture in cats?",
+    "answer": [
+      "Medial Saphenous Vein",
+      "Cephalic Vein",
+      "Jugular Vein"
+    ],
+    "supporting_facts": "D12:4",
+    "type": "ss",
+    "label": "Medial Saphenous Vein"
+  },
+  {
+    "question": "What is a potential complication of using the sural vein for venipuncture in cats?",
+    "answer": [
+      "Potential nerve damage",
+      "Less common site",
+      "More skill required"
+    ],
+    "supporting_facts": "D12:4",
+    "type": "ss",
+    "label": "Potential nerve damage"
+  },
+  {
+    "question": "What does the radiopaque object in the dog's X-rays suggest?",
+    "answer": [
+      "Gastrointestinal foreign-body obstruction",
+      "Partial obstruction",
+      "Ileus"
+    ],
+    "supporting_facts": "D12:5",
+    "type": "ss",
+    "label": "Gastrointestinal foreign-body obstruction"
+  },
+  {
+    "question": "What snacks did the assistant suggest for the techs?",
+    "answer": [
+      "Fresh fruit, cheese, nuts",
+      "Apples, grapes",
+      "Cheese and crackers"
+    ],
+    "supporting_facts": "D12:6",
+    "type": "ss",
+    "label": "Fresh fruit, cheese, nuts"
+  },
+  {
+    "question": "What did Alex decide to get for the techs at the grocery store?",
+    "answer": [
+      "Individual servings",
+      "Pre-cut fruit cups",
+      "Single-serve cheese and crackers"
+    ],
+    "supporting_facts": "D12:7",
+    "type": "ss",
+    "label": "Individual servings"
+  },
+  {
+    "question": "What treats did the assistant recommend for convenience?",
+    "answer": [
+      "Pre-cut fruit cups, single-serve cheese and crackers, small packets of mixed nuts",
+      "Pre-cut fruit cups",
+      "Single-serve cheese and crackers",
+      "Mixed nuts"
+    ],
+    "supporting_facts": "D12:7",
+    "type": "ss",
+    "label": "Pre-cut fruit cups, single-serve cheese and crackers, small packets of mixed nuts"
+  },
+  {
+    "question": "What brush did the assistant recommend for dogs?",
+    "answer": [
+      "FURminator"
+    ],
+    "supporting_facts": "D12:8",
+    "type": "ss",
+    "label": "FURminator"
+  },
+  {
+    "question": "What should be strongly considered for a dog with a suspected foreign body in the intestines?",
+    "answer": [
+      "Surgical intervention"
+    ],
+    "supporting_facts": "D12:9",
+    "type": "ss",
+    "label": "Surgical intervention"
+  },
+  {
+    "question": "What should be provided to the cat post-oral surgery if there is swelling or pain?",
+    "answer": [
+      "Soft food"
+    ],
+    "supporting_facts": "D12:10",
+    "type": "ss",
+    "label": "Soft food"
+  },
+  {
+    "question": "What clippers did the assistant recommend for cats?",
+    "answer": [
+      "Andis Slimline Pet Clippers"
+    ],
+    "supporting_facts": "D12:8",
+    "type": "ss",
+    "label": "Andis Slimline Pet Clippers"
+  },
+  {
+    "question": "What medication did Alex administer for the rabbit gut-stasis case?",
+    "answer": [
+      "metoclopramide",
+      "metoclopramide for motility"
+    ],
+    "supporting_facts": "D15:5",
+    "type": "ss",
+    "label": "metoclopramide"
+  },
+  {
+    "question": "Which fresh greens can help the rabbit?",
+    "answer": [
+      "parsley, dandelion greens, carrot tops",
+      "fresh greens",
+      "greens"
+    ],
+    "supporting_facts": "D2:7,D2:9",
+    "type": "ss",
+    "label": "parsley, dandelion greens, carrot tops"
+  },
+  {
+    "question": "What specific probiotics are recommended for rabbits?",
+    "answer": [
+      "Lactobacillus and Bifidobacterium",
+      "probiotics",
+      "species-specific probiotics"
+    ],
+    "supporting_facts": "D2:9",
+    "type": "ss",
+    "label": "Lactobacillus and Bifidobacterium"
+  },
+  {
+    "question": "What can be added to the rabbit's diet to help with digestion?",
+    "answer": [
+      "pureed pumpkin",
+      "pumpkin",
+      "food"
+    ],
+    "supporting_facts": "D2:9",
+    "type": "ss",
+    "label": "pureed pumpkin"
+  },
+  {
+    "question": "What should owners avoid using directly on the wound?",
+    "answer": [
+      "harsh chemicals",
+      "soaps",
+      "chemicals"
+    ],
+    "supporting_facts": "D6:5",
+    "type": "ss",
+    "label": "harsh chemicals"
+  },
+  {
+    "question": "How often should the bandage be changed?",
+    "answer": [
+      "daily",
+      "once a day",
+      "every day"
+    ],
+    "supporting_facts": "D6:5",
+    "type": "ss",
+    "label": "daily"
+  },
+  {
+    "question": "Which brands of pet thermometers did the assistant recommend?",
+    "answer": [
+      "iProvèn PET-135, Boknight, ChicLin",
+      "iProvèn PET-135 and Boknight",
+      "iProvèn, Boknight, ChicLin"
+    ],
+    "supporting_facts": "D6:7",
+    "type": "ss",
+    "label": "iProvèn PET-135, Boknight, ChicLin"
+  },
+  {
+    "question": "What should owners do if they notice increased redness, swelling, or discharge?",
+    "answer": [
+      "contact you",
+      "call you",
+      "reach out"
+    ],
+    "supporting_facts": "D6:5",
+    "type": "ss",
+    "label": "contact you"
+  },
+  {
+    "question": "What user-friendly features did the assistant recommend in a good pet thermometer?",
+    "answer": [
+      "clear LCD display",
+      "fast read time",
+      "flexible soft tip",
+      "audible done beep"
+    ],
+    "supporting_facts": "D6:4",
+    "type": "ss",
+    "label": "clear LCD display"
+  },
+  {
+    "question": "What should Alex do if a hamster's sneezing persists or worsens?",
+    "answer": [
+      "Bring her in for an exam",
+      "Bring her in",
+      "In-person exam"
+    ],
+    "supporting_facts": "D8:4",
+    "type": "ss",
+    "label": "Bring her in for an exam"
+  },
+  {
+    "question": "What does the Zylafen Topical Spray label instruct about shaking the bottle?",
+    "answer": [
+      "Shake well",
+      "Shake before",
+      "Shake it"
+    ],
+    "supporting_facts": "D8:7",
+    "type": "ss",
+    "label": "Shake well"
+  },
+  {
+    "question": "What tool is used for dental cleanings on senior cats?",
+    "answer": [
+      "Ultrasonic scaler",
+      "ARSUK scaler",
+      "Scaler tool"
+    ],
+    "supporting_facts": "D8:8",
+    "type": "ss",
+    "label": "Ultrasonic scaler"
+  },
+  {
+    "question": "What should you add to the hamster's cage to keep it comfortable during skin irritation?",
+    "answer": [
+      "Warm water bottle",
+      "Warm bottle",
+      "Heating pad"
+    ],
+    "supporting_facts": "D8:9",
+    "type": "ss",
+    "label": "Warm water bottle"
+  },
+  {
+    "question": "What is the main function of the ultrasonic scaler during dental cleanings?",
+    "answer": [
+      "Remove plaque",
+      "Clean teeth",
+      "Break down deposits"
+    ],
+    "supporting_facts": "D8:8",
+    "type": "ss",
+    "label": "Remove plaque"
+  },
+  {
+    "question": "Which brands did the assistant recommend for surgical gloves?",
+    "answer": [
+      "microFlex, Ansell",
+      "microFlex",
+      "Ansell"
+    ],
+    "supporting_facts": "D8:1",
+    "type": "ss",
+    "label": "microFlex, Ansell"
+  },
+  {
+    "question": "What should be avoided when applying the topical medication to the reptile?",
+    "answer": [
+      "Eyes, mouth, nostrils",
+      "Eyes, mouth",
+      "Nostrils"
+    ],
+    "supporting_facts": "D8:3",
+    "type": "ss",
+    "label": "Eyes, mouth, nostrils"
+  },
+  {
+    "question": "What type of bedding should be provided for a hamster during antibiotic treatment?",
+    "answer": [
+      "Soft, comfortable",
+      "Soft",
+      "Comfortable"
+    ],
+    "supporting_facts": "D8:2",
+    "type": "ss",
+    "label": "Soft, comfortable"
+  },
+  {
+    "question": "According to the assistant, when should Alex bring the hamster in rather than continue at-home monitoring?",
+    "answer": [
+      "When sneezing persists beyond 5-7 days, or with nasal discharge / eye discharge / wheezing / reduced appetite / laboured breathing",
+      "When sneezing persists beyond 5-7 days",
+      "When there's laboured breathing or systemic signs"
+    ],
+    "supporting_facts": "D8:4",
+    "type": "ss",
+    "label": "When sneezing persists beyond 5-7 days, or with nasal discharge / eye discharge / wheezing / reduced appetite / laboured breathing"
+  },
+  {
+    "question": "How should the topical medication for the reptile's skin infection be applied?",
+    "answer": [
+      "Spray directly",
+      "Use cloth",
+      "Both"
+    ],
+    "supporting_facts": "D8:3",
+    "type": "ss",
+    "label": "Spray directly"
+  },
+  {
+    "question": "What type of bedding does the assistant recommend for a hamster prone to respiratory irritation?",
+    "answer": [
+      "Paper-based bedding (Carefresh, Kaytee Clean&Cozy)",
+      "Paper-based bedding",
+      "Carefresh / Kaytee Clean&Cozy"
+    ],
+    "supporting_facts": "D8:6",
+    "type": "ss",
+    "label": "Paper-based bedding (Carefresh, Kaytee Clean&Cozy)"
+  },
+  {
+    "question": "What can a hamster use for a secure resting spot?",
+    "answer": [
+      "Covered hide box",
+      "Nesting area",
+      "Hide box"
+    ],
+    "supporting_facts": "D8:5",
+    "type": "ss",
+    "label": "Covered hide box"
+  },
+  {
+    "question": "What environment does the assistant recommend Alex use to monitor a hamster's breathing?",
+    "answer": [
+      "A quiet environment where the hamster feels safe and relaxed",
+      "A quiet environment",
+      "Quiet, safe environment"
+    ],
+    "supporting_facts": "D7:7",
+    "type": "ss",
+    "label": "A quiet environment where the hamster feels safe and relaxed"
+  },
+  {
+    "question": "Why is shaking the bottle necessary before using Zylafen Topical Spray?",
+    "answer": [
+      "Ensure even distribution",
+      "Mix ingredients",
+      "Stir contents"
+    ],
+    "supporting_facts": "D8:7",
+    "type": "ss",
+    "label": "Ensure even distribution"
+  },
+  {
+    "question": "When should the Zylafen Topical Spray be reapplied to a reptile?",
+    "answer": [
+      "After exposure to water",
+      "After bathing",
+      "Regularly"
+    ],
+    "supporting_facts": "D8:7",
+    "type": "ss",
+    "label": "After exposure to water"
+  },
+  {
+    "question": "What should Alex avoid when applying the reptile medication?",
+    "answer": [
+      "Eyes, mouth, nostrils",
+      "Eyes, mouth",
+      "Eyes"
+    ],
+    "supporting_facts": "D8:3",
+    "type": "ss",
+    "label": "Eyes, mouth, nostrils"
+  },
+  {
+    "question": "Which bedding types does the assistant explicitly advise AVOIDING for a hamster prone to respiratory irritation?",
+    "answer": [
+      "Pine, cedar, and dusty aspen",
+      "Pine and cedar bedding",
+      "Pine, cedar, dusty aspen"
+    ],
+    "supporting_facts": "D8:6",
+    "type": "ss",
+    "label": "Pine, cedar, and dusty aspen"
+  },
+  {
+    "question": "What should the hamster's cage include for comfort at night?",
+    "answer": [
+      "Cozy nesting area",
+      "Nesting area",
+      "Quiet area"
+    ],
+    "supporting_facts": "D8:5",
+    "type": "ss",
+    "label": "Cozy nesting area"
+  },
+  {
+    "question": "According to the assistant, what signs of worsening respiratory issues should Alex watch for in the hamster?",
+    "answer": [
+      "Increased sneezing, wheezing, nasal discharge, difficulty breathing, lethargy, loss of appetite, or changes in behaviour",
+      "Wheezing, nasal discharge, laboured breathing, lethargy",
+      "Sneezing, wheezing, nasal discharge"
+    ],
+    "supporting_facts": "D7:7",
+    "type": "ss",
+    "label": "Increased sneezing, wheezing, nasal discharge, difficulty breathing, lethargy, loss of appetite, or changes in behaviour"
+  },
+  {
+    "question": "What is the recommended material for a hamster's nesting area?",
+    "answer": [
+      "Shredded paper",
+      "Paper",
+      "Safe materials"
+    ],
+    "supporting_facts": "D8:5",
+    "type": "ss",
+    "label": "Shredded paper"
+  },
+  {
+    "question": "What did Alex stabilize?",
+    "answer": [
+      "Injured stray kitten",
+      "Stray kitten",
+      "Kitten"
+    ],
+    "supporting_facts": "D4:5",
+    "type": "ss",
+    "label": "Injured stray kitten"
+  },
+  {
+    "question": "What should owners provide to prevent urinary issues?",
+    "answer": [
+      "Fresh water, litter boxes",
+      "Fresh water",
+      "Litter boxes"
+    ],
+    "supporting_facts": "D4:6",
+    "type": "ss",
+    "label": "Fresh water, litter boxes"
+  },
+  {
+    "question": "What is a key factor in preventing stuck sheds in leopard geckos?",
+    "answer": [
+      "Proper humidity (around 40-60%)",
+      "Humid hide with damp sphagnum moss",
+      "Maintaining 40-60% humidity"
+    ],
+    "supporting_facts": "D3:8",
+    "type": "ss",
+    "label": "Proper humidity (around 40-60%)"
+  },
+  {
+    "question": "What can be used to increase water intake in cats?",
+    "answer": [
+      "Wet food",
+      "Fresh water",
+      "Multiple litter boxes"
+    ],
+    "supporting_facts": "D4:6",
+    "type": "ss",
+    "label": "Wet food"
+  },
+  {
+    "question": "What medications did the assistant suggest for the cat's pain management?",
+    "answer": [
+      "Analgesics"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "ss",
+    "label": "Analgesics"
+  },
+  {
+    "question": "What are the signs of infection to monitor in the cat's surgical site?",
+    "answer": [
+      "Redness, swelling, discharge, reluctance to eat"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "ss",
+    "label": "Redness, swelling, discharge, reluctance to eat"
+  },
+  {
+    "question": "What is the first step recommended for a snake in respiratory distress?",
+    "answer": [
+      "Environmental Check"
+    ],
+    "supporting_facts": "D13:5",
+    "type": "ss",
+    "label": "Environmental Check"
+  },
+  {
+    "question": "What did the assistant suggest for a quick, nutritious meal between appointments?",
+    "answer": [
+      "Smoothies",
+      "Greek yogurt",
+      "Hard-boiled eggs"
+    ],
+    "supporting_facts": "D13:6",
+    "type": "ss",
+    "label": "Smoothies"
+  },
+  {
+    "question": "What was the suggested quick dinner for Alex with a late shift at the clinic?",
+    "answer": [
+      "Stir-fry",
+      "Pre-cut vegetables",
+      "Quick-cooking quinoa"
+    ],
+    "supporting_facts": "D13:7",
+    "type": "ss",
+    "label": "Stir-fry"
+  },
+  {
+    "question": "When did Alex discuss the neuter procedure for a male cat? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-06",
+      "March 6, 2023",
+      "March 2023"
+    ],
+    "supporting_facts": "D11:5",
+    "type": "tr",
+    "label": "2023-03-06"
+  },
+  {
+    "question": "Which event came FIRST: discussing cat toys or discussing the neuter procedure?",
+    "answer": [
+      "Neuter procedure",
+      "Cat toys"
+    ],
+    "supporting_facts": "D11:5,D14:1",
+    "type": "tr",
+    "label": "Neuter procedure"
+  },
+  {
+    "question": "How many distinct conversations between Alex and the assistant took place in March 2023?",
+    "answer": [
+      "4",
+      "3",
+      "5"
+    ],
+    "supporting_facts": "D6:1,D7:1,D11:6,D14:1",
+    "type": "tr",
+    "label": "4"
+  },
+  {
+    "question": "What did Alex discuss AFTER 2023-03-06?",
+    "answer": [
+      "Cat toys",
+      "Surgical gloves",
+      "Urinary tract infection"
+    ],
+    "supporting_facts": "D14:1",
+    "type": "tr",
+    "label": "Cat toys"
+  },
+  {
+    "question": "Between 2023-03-03 and 2023-03-08, how many times did Alex discuss medication?",
+    "answer": [
+      "2",
+      "1",
+      "3"
+    ],
+    "supporting_facts": "D6:2,D11:7",
+    "type": "tr",
+    "label": "2"
+  },
+  {
+    "question": "When did Alex first discuss gut stasis in a rabbit?. Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-01",
+      "March 1, 2023",
+      "March 2023"
+    ],
+    "supporting_facts": "D1:8",
+    "type": "tr",
+    "label": "2023-03-01"
+  },
+  {
+    "question": "Which event came FIRST: discussing urinary catheter maintenance or long-term management for a blocked cat?",
+    "answer": [
+      "Urinary catheter",
+      "Urinary catheter maintenance",
+      "Long-term management"
+    ],
+    "supporting_facts": "D1:2,D1:7",
+    "type": "tr",
+    "label": "Urinary catheter"
+  },
+  {
+    "question": "How many distinct conversations between Alex and the assistant took place between 2023-03-01 and 2023-03-07?",
+    "answer": [
+      "4",
+      "5",
+      "6"
+    ],
+    "supporting_facts": "D1:8,D2:3,D9:1,D13:3",
+    "type": "tr",
+    "label": "4"
+  },
+  {
+    "question": "What did Alex discuss AFTER 2023-03-05?",
+    "answer": [
+      "Grocery shopping",
+      "Surgical site",
+      "Medication shaking"
+    ],
+    "supporting_facts": "D13:3",
+    "type": "tr",
+    "label": "Grocery shopping"
+  },
+  {
+    "question": "Between 2023-03-01 and 2023-03-07, how many times did Alex discuss medication?",
+    "answer": [
+      "3",
+      "2",
+      "4"
+    ],
+    "supporting_facts": "D1:8,D2:4,D9:1",
+    "type": "tr",
+    "label": "3"
+  },
+  {
+    "question": "When did Alex ask about dental cleaners for senior cats?. Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-05",
+      "March 5, 2023"
+    ],
+    "supporting_facts": "D9:5",
+    "type": "tr",
+    "label": "2023-03-05"
+  },
+  {
+    "question": "What did Alex talk about on 2023-03-04?",
+    "answer": [
+      "Hamster skin irritation, guinea pig dental tools",
+      "Dental tools, skin irritation",
+      "Skin irritation, dental tools"
+    ],
+    "supporting_facts": "D8:9,D10:9",
+    "type": "tr",
+    "label": "Hamster skin irritation, guinea pig dental tools"
+  },
+  {
+    "question": "Which event came FIRST: discussing thermometers or dental scalers?",
+    "answer": [
+      "Thermometers",
+      "Dental scalers"
+    ],
+    "supporting_facts": "D6:9,D8:8",
+    "type": "tr",
+    "label": "Thermometers"
+  },
+  {
+    "question": "How many distinct conversations between Alex and the assistant took place on 2023-03-04?",
+    "answer": [
+      "2",
+      "1",
+      "3"
+    ],
+    "supporting_facts": "D8:1,D10:1",
+    "type": "tr",
+    "label": "2"
+  },
+  {
+    "question": "Between 2023-03-03 and 2023-03-05, how many times did Alex discuss parrot feather issues?",
+    "answer": [
+      "2",
+      "1",
+      "3"
+    ],
+    "supporting_facts": "D10:8,D9:4",
+    "type": "tr",
+    "label": "2"
+  },
+  {
+    "question": "When did Alex discuss urinary catheter maintenance? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-01",
+      "March 1, 2023",
+      "March 2023"
+    ],
+    "supporting_facts": "D1:2",
+    "type": "tr",
+    "label": "2023-03-01"
+  },
+  {
+    "question": "Which event came FIRST: urinary catheter placement / care or antibiotic treatment for the hamster?",
+    "answer": [
+      "Urinary catheter",
+      "Catheter",
+      "Antibiotic treatment"
+    ],
+    "supporting_facts": "D1:2,D8:2",
+    "type": "tr",
+    "label": "Urinary catheter"
+  },
+  {
+    "question": "How many distinct conversations between Alex and the assistant took place in March 2023?",
+    "answer": [
+      "4",
+      "3",
+      "5"
+    ],
+    "supporting_facts": "D1:1,D7:1,D8:1,D12:1",
+    "type": "tr",
+    "label": "4"
+  },
+  {
+    "question": "What did Alex discuss AFTER 2023-03-04?",
+    "answer": [
+      "Cat neutering",
+      "Urinary catheter",
+      "Pet thermometer",
+      "Hamster comfort"
+    ],
+    "supporting_facts": "D12:1",
+    "type": "tr",
+    "label": "Cat neutering"
+  },
+  {
+    "question": "Between 2023-03-01 and 2023-03-07, how many times did Alex discuss treatment methods?",
+    "answer": [
+      "3",
+      "2",
+      "4"
+    ],
+    "supporting_facts": "D1:3,D8:2,D8:3,D12:1,D12:2",
+    "type": "tr",
+    "label": "3"
+  },
+  {
+    "question": "When did Alex discuss pet supplies?. Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-02",
+      "March 2, 2023",
+      "March 2"
+    ],
+    "supporting_facts": "D3:5",
+    "type": "tr",
+    "label": "2023-03-02"
+  },
+  {
+    "question": "Which event came FIRST: discussing Guinea pig dental disease or snake stabilization?",
+    "answer": [
+      "Guinea pig",
+      "Snake"
+    ],
+    "supporting_facts": "D10:5,D13:9",
+    "type": "tr",
+    "label": "Guinea pig"
+  },
+  {
+    "question": "How many distinct conversations between Alex and the assistant took place in March 2023?",
+    "answer": [
+      "4",
+      "3",
+      "5"
+    ],
+    "supporting_facts": "D3:4,D10:5,D13:9,D14:6",
+    "type": "tr",
+    "label": "4"
+  },
+  {
+    "question": "What did Alex discuss AFTER 2023-03-04?",
+    "answer": [
+      "Snake stabilization",
+      "Pet supplies",
+      "Euthanasia conversation",
+      "Office plant"
+    ],
+    "supporting_facts": "D13:9,D13:10,D14:6",
+    "type": "tr",
+    "label": "Snake stabilization"
+  },
+  {
+    "question": "Between 2023-03-02 and 2023-03-08, how many times did Alex discuss pet health issues?",
+    "answer": [
+      "4",
+      "3",
+      "5"
+    ],
+    "supporting_facts": "D3:4,D10:5,D13:9,D13:10",
+    "type": "tr",
+    "label": "4"
+  },
+  {
+    "question": "When did Alex first discuss dietary adjustments for a rabbit?. Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-02",
+      "March 2, 2023",
+      "March 2023"
+    ],
+    "supporting_facts": "D2:7",
+    "type": "tr",
+    "label": "2023-03-02"
+  },
+  {
+    "question": "Which event came FIRST: dietary adjustments for a rabbit or stabilizing a hit-by-car kitten?",
+    "answer": [
+      "Dietary adjustments",
+      "Stabilizing kitten"
+    ],
+    "supporting_facts": "D2:7,D5:3",
+    "type": "tr",
+    "label": "Dietary adjustments"
+  },
+  {
+    "question": "How many distinct conversations between Alex and the assistant took place on 2023-03-02?",
+    "answer": [
+      "3",
+      "Two",
+      "One"
+    ],
+    "supporting_facts": "D2:7,D4:4,D5:4",
+    "type": "tr",
+    "label": "3"
+  },
+  {
+    "question": "What did Alex discuss AFTER 2023-03-02?",
+    "answer": [
+      "Pet store recommendations",
+      "Dental care tips",
+      "Both"
+    ],
+    "supporting_facts": "D9:5,D9:6",
+    "type": "tr",
+    "label": "Pet store recommendations"
+  },
+  {
+    "question": "Between 2023-03-02 and 2023-03-05, how many times did Alex discuss dental care?",
+    "answer": [
+      "1",
+      "2",
+      "0"
+    ],
+    "supporting_facts": "D9:6",
+    "type": "tr",
+    "label": "1"
+  },
+  {
+    "question": "When did Alex first discuss stuck-shed prevention for leopard geckos? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-02",
+      "March 2, 2023",
+      "March 2023"
+    ],
+    "supporting_facts": "D3:8",
+    "type": "tr",
+    "label": "2023-03-02"
+  },
+  {
+    "question": "Which event came FIRST: discussing budgie home oxygen setup or rabbit gut stasis recovery?",
+    "answer": [
+      "Discussing budgie setup",
+      "Discussing rabbit recovery"
+    ],
+    "supporting_facts": "D2:5,D2:6",
+    "type": "tr",
+    "label": "Discussing budgie setup"
+  },
+  {
+    "question": "How many distinct conversations between Alex and the assistant took place in March 2023?",
+    "answer": [
+      "4",
+      "3",
+      "5"
+    ],
+    "supporting_facts": "D2:5,D4:8,D8:1,D14:3",
+    "type": "tr",
+    "label": "4"
+  },
+  {
+    "question": "What did Alex discuss AFTER 2023-03-04?",
+    "answer": [
+      "Local pet store",
+      "Surgical gloves",
+      "Rabbit recovery"
+    ],
+    "supporting_facts": "D14:3",
+    "type": "tr",
+    "label": "Local pet store"
+  },
+  {
+    "question": "Between 2023-03-02 and 2023-03-04, how many times did Alex discuss rabbit care?",
+    "answer": [
+      "1",
+      "2",
+      "0"
+    ],
+    "supporting_facts": "D2:6",
+    "type": "tr",
+    "label": "1"
+  },
+  {
+    "question": "When did Alex first discuss humidifiers for the clinic?. Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-02",
+      "March 2, 2023",
+      "March 2023"
+    ],
+    "supporting_facts": "D4:1",
+    "type": "tr",
+    "label": "2023-03-02"
+  },
+  {
+    "question": "How many distinct conversations between Alex and the assistant took place in March 2023?",
+    "answer": [
+      "5",
+      "4",
+      "6"
+    ],
+    "supporting_facts": "D4:1,D2:2,D5:5,D10:1",
+    "type": "tr",
+    "label": "5"
+  },
+  {
+    "question": "Which event came FIRST: discussing humidifiers or urinary catheter maintenance?",
+    "answer": [
+      "Humidifiers",
+      "Urinary catheter maintenance"
+    ],
+    "supporting_facts": "D4:1,D1:2",
+    "type": "tr",
+    "label": "Humidifiers"
+  },
+  {
+    "question": "What did Alex talk about on 2023-03-02?",
+    "answer": [
+      "Humidifiers, leopard geckos",
+      "Urinary catheters, long-term management",
+      "Injured kitten, colored casts"
+    ],
+    "supporting_facts": "D4:1,D4:2,D2:2,D2:3,D5:5,D5:6",
+    "type": "tr",
+    "label": "Humidifiers, leopard geckos"
+  },
+  {
+    "question": "Between 2023-03-02 and 2023-03-04, how many times did Alex discuss parrot health?",
+    "answer": [
+      "2",
+      "1",
+      "3"
+    ],
+    "supporting_facts": "D10:1,D10:2",
+    "type": "tr",
+    "label": "2"
+  },
+  {
+    "question": "When did Alex discuss urinary catheter care?. Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-01",
+      "March 1, 2023",
+      "March 2023"
+    ],
+    "supporting_facts": "D1:5",
+    "type": "tr",
+    "label": "2023-03-01"
+  },
+  {
+    "question": "Which event came FIRST: discussing urinary catheter care or stabilizing a hit-by-car kitten?",
+    "answer": [
+      "Discussing urinary catheter care",
+      "Stabilizing hit-by-car kitten"
+    ],
+    "supporting_facts": "D1:5,D5:3",
+    "type": "tr",
+    "label": "Discussing urinary catheter care"
+  },
+  {
+    "question": "How many distinct conversations between Alex and the assistant took place on 2023-03-02?",
+    "answer": [
+      "2",
+      "3",
+      "1"
+    ],
+    "supporting_facts": "D3:1,D3:2,D5:5,D5:6",
+    "type": "tr",
+    "label": "2"
+  },
+  {
+    "question": "Between 2023-03-01 and 2023-03-04, how many times did Alex discuss hydration and recovery?",
+    "answer": [
+      "2",
+      "1",
+      "3"
+    ],
+    "supporting_facts": "D1:4,D3:2",
+    "type": "tr",
+    "label": "2"
+  },
+  {
+    "question": "What did Alex discuss AFTER 2023-03-02?",
+    "answer": [
+      "Hamster breathing",
+      "Urinary catheter care",
+      "Kitten stabilization"
+    ],
+    "supporting_facts": "D7:7",
+    "type": "tr",
+    "label": "Hamster breathing"
+  },
+  {
+    "question": "When did Alex first discuss hamster sneezing?. Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-04",
+      "March 4, 2023",
+      "March 2023"
+    ],
+    "supporting_facts": "D7:7",
+    "type": "tr",
+    "label": "2023-03-04"
+  },
+  {
+    "question": "Which conversation came FIRST: the one observing hamster breathing or the one explaining cat venipuncture sites?",
+    "answer": [
+      "the hamster-breathing observation",
+      "the cat venipuncture-site explanation"
+    ],
+    "supporting_facts": "D7:7,D12:4",
+    "type": "tr",
+    "label": "the hamster-breathing observation"
+  },
+  {
+    "question": "How many distinct conversations between Alex and the assistant took place on 2023-03-04?",
+    "answer": [
+      "3",
+      "2",
+      "4"
+    ],
+    "supporting_facts": "D7:7,D8:6,D10:3",
+    "type": "tr",
+    "label": "3"
+  },
+  {
+    "question": "What did Alex discuss AFTER 2023-03-04?",
+    "answer": [
+      "Venipuncture sites",
+      "Hamster sneezing",
+      "Feather patterns"
+    ],
+    "supporting_facts": "D12:4",
+    "type": "tr",
+    "label": "Venipuncture sites"
+  },
+  {
+    "question": "Between 2023-03-04 and 2023-03-07, how many times did Alex discuss hamster sneezing?",
+    "answer": [
+      "2",
+      "1",
+      "3"
+    ],
+    "supporting_facts": "D7:7,D8:6",
+    "type": "tr",
+    "label": "2"
+  },
+  {
+    "question": "What percentage of U.S. adults say the issue is not morally wrong?",
+    "answer": [
+      "63%"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "63%"
+  },
+  {
+    "question": "The assistant reports that the share of respondents saying the issue is 'not necessary' rose from 47% to what percentage?",
+    "answer": [
+      "68%"
+    ],
+    "supporting_facts": "D1:11",
+    "type": "mr",
+    "label": "68%"
+  },
+  {
+    "question": "The assistant cites the share of White Evangelical Protestants who view the issue as morally wrong. What percentage does the assistant give?",
+    "answer": [
+      "60%"
+    ],
+    "supporting_facts": "D2:12",
+    "type": "mr",
+    "label": "60%"
+  },
+  {
+    "question": "What percentage of people unemployed for 6+ months say their household income has declined?",
+    "answer": [
+      "56%"
+    ],
+    "supporting_facts": "D5:10",
+    "type": "mr",
+    "label": "56%"
+  },
+  {
+    "question": "The assistant states that 87% of which group says the issue is not morally wrong?",
+    "answer": [
+      "Liberals"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "Liberals"
+  },
+  {
+    "question": "In the bar chart titled 'Morally wrong / Morally acceptable / Not a moral issue', what percentage of U.S. adults rate the issue as 'Morally acceptable'?",
+    "answer": [
+      "34%",
+      "34"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "34%"
+  },
+  {
+    "question": "In the political-affiliation chart, what percentage of Conservative respondents view the issue as 'Not a moral issue'?",
+    "answer": [
+      "21%",
+      "21"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "21%"
+  },
+  {
+    "question": "In the chart, what percentage of Moderate/Liberal Republicans rate the issue as 'Morally acceptable'?",
+    "answer": [
+      "35%",
+      "35"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "35%"
+  },
+  {
+    "question": "What is the TOTAL 'Not morally wrong' percentage shown for Conservative/moderate Democrats in the chart?",
+    "answer": [
+      "68%",
+      "68"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "68%"
+  },
+  {
+    "question": "In the chart, by how many percentage points does the 'Morally wrong' rating among Rep/lean Rep exceed that among Dem/lean Dem?",
+    "answer": [
+      "25",
+      "25 percentage points",
+      "25 points",
+      "25%"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "25"
+  },
+  {
+    "question": "Compute the average 'Morally wrong' percentage across the six partisan subgroups (Rep/lean Rep, Conservative, Moderate/liberal, Dem/lean Dem, Conservative/moderate, Liberal) shown in the chart. Give a single integer percentage.",
+    "answer": [
+      "34",
+      "34%"
+    ],
+    "supporting_facts": "D1:10",
+    "type": "mr",
+    "label": "34"
+  },
+  {
+    "question": "In the line chart, what is the highest labelled value reached by the Phone 'Necessary' line, and in what year?",
+    "answer": [
+      "57% in 2007",
+      "57 in 2007",
+      "57 (2007)",
+      "57%, 2007"
+    ],
+    "supporting_facts": "D1:11",
+    "type": "mr",
+    "label": "57% in 2007"
+  },
+  {
+    "question": "In the line chart, what value is labelled on the Phone 'Not necessary' line in April 2007?",
+    "answer": [
+      "41",
+      "41%"
+    ],
+    "supporting_facts": "D1:11",
+    "type": "mr",
+    "label": "41%"
+  },
+  {
+    "question": "In the line chart, what is the labelled value of the Online 'Necessary' line in March 2025?",
+    "answer": [
+      "31%",
+      "31"
+    ],
+    "supporting_facts": "D1:11",
+    "type": "mr",
+    "label": "31%"
+  },
+  {
+    "question": "In what year does the Online survey line first appear in the chart?",
+    "answer": [
+      "2014"
+    ],
+    "supporting_facts": "D1:11",
+    "type": "mr",
+    "label": "2014"
+  },
+  {
+    "question": "Subtract the Phone 'Not necessary' value at September 2019 from the Online 'Not necessary' value at March 2025. What is the difference in percentage points?",
+    "answer": [
+      "9",
+      "9 percentage points",
+      "9%"
+    ],
+    "supporting_facts": "D1:11",
+    "type": "mr",
+    "label": "9"
+  },
+  {
+    "question": "In the religious-affiliation chart, what percentage of Catholics rate the issue as 'Morally wrong'?",
+    "answer": [
+      "40%",
+      "40"
+    ],
+    "supporting_facts": "D2:12",
+    "type": "mr",
+    "label": "40%"
+  },
+  {
+    "question": "In the religious-affiliation chart, what percentage of Black Protestants rate the issue as 'Morally wrong'?",
+    "answer": [
+      "52%",
+      "52"
+    ],
+    "supporting_facts": "D2:12",
+    "type": "mr",
+    "label": "52%"
+  },
+  {
+    "question": "What is the TOTAL 'Not morally wrong' percentage for Agnostics in the religion chart?",
+    "answer": [
+      "93%",
+      "93"
+    ],
+    "supporting_facts": "D2:12",
+    "type": "mr",
+    "label": "93%"
+  },
+  {
+    "question": "In the lower panel breaking down by importance of religion, what 'Morally wrong' percentage is shown for those who say religion is 'Not at all' important in their life?",
+    "answer": [
+      "8%",
+      "8"
+    ],
+    "supporting_facts": "D2:12",
+    "type": "mr",
+    "label": "8%"
+  },
+  {
+    "question": "Among the religious-affiliation rows in the upper panel, which group has the highest 'Morally wrong' percentage?",
+    "answer": [
+      "White evangelical Protestants",
+      "White Evangelical Protestant",
+      "White evang. Prot.",
+      "White Evangelical Protestants"
+    ],
+    "supporting_facts": "D2:12",
+    "type": "mr",
+    "label": "White evangelical Protestants"
+  },
+  {
+    "question": "Compute the average 'Morally wrong' percentage across the four 'religion is X important' rows (Very, Somewhat, Not too, Not at all). Give a single integer percentage.",
+    "answer": [
+      "28",
+      "28%"
+    ],
+    "supporting_facts": "D2:12",
+    "type": "mr",
+    "label": "28"
+  },
+  {
+    "question": "By how many percentage points does the 'Morally wrong' rating among Religiously affiliated respondents exceed that among Religiously unaffiliated respondents?",
+    "answer": [
+      "32",
+      "32 percentage points",
+      "32%"
+    ],
+    "supporting_facts": "D2:12",
+    "type": "mr",
+    "label": "32"
+  },
+  {
+    "question": "In the 'Recession at Work' chart, what percentage of currently employed respondents report taking a pay cut?",
+    "answer": [
+      "23%",
+      "23"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "23%"
+  },
+  {
+    "question": "In the 'Recession at Work' chart, what percentage of the total labor force is shown as Underemployed?",
+    "answer": [
+      "6%",
+      "6"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "6%"
+  },
+  {
+    "question": "What sample size (n) is reported for the 'currently employed' group in the 'Recession at Work' chart?",
+    "answer": [
+      "1604",
+      "1,604"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "1,604"
+  },
+  {
+    "question": "Compute the average percentage across the four 'currently employed' bars (work hours reduced, pay cut, unpaid leave, forced to part-time) in the 'Recession at Work' chart, rounded to the nearest integer.",
+    "answer": [
+      "19",
+      "19%"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "19"
+  },
+  {
+    "question": "In the 'Some Groups More Optimistic than Others' chart, what percentage of 18–29 year olds say their financial situation will improve?",
+    "answer": [
+      "85%",
+      "85"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "85%"
+  },
+  {
+    "question": "In the optimism chart, what percentage of respondents aged 65+ say their financial situation will get worse?",
+    "answer": [
+      "29%",
+      "29"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "29%"
+  },
+  {
+    "question": "Across all the rows in the optimism chart, which row has the highest 'Improve' percentage?",
+    "answer": [
+      "18-29",
+      "18–29",
+      "Ages 18-29",
+      "18 to 29"
+    ],
+    "supporting_facts": "D3:10",
+    "type": "mr",
+    "label": "18-29"
+  },
+  {
+    "question": "In the line chart 'A Partisan Switch in Perceptions of U.S. Economy', which two political groups are tracked from 1992 to 2010?",
+    "answer": [
+      "Republican and Democrat",
+      "Republicans and Democrats",
+      "Republican, Democrat",
+      "Democrat and Republican"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "Republican and Democrat"
+  },
+  {
+    "question": "What organisation is cited as the data source for the years 1992–2003 in the partisan-switch line chart?",
+    "answer": [
+      "Gallup"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "Gallup"
+  },
+  {
+    "question": "In the 'Unemployment Changes Lives' bar chart, what percentage of those unemployed less than 3 months report 'major changes' in the way they live?",
+    "answer": [
+      "31%",
+      "31"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "31%"
+  },
+  {
+    "question": "In the 'Unemployment Changes Lives' chart, by how many percentage points does the 'Unemployed 6 months or longer' bar exceed the 'Not unemployed at any point during recession' bar?",
+    "answer": [
+      "24",
+      "24 percentage points",
+      "24%"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "24"
+  },
+  {
+    "question": "In the 'Unemployment's Impact on Household Income' chart, what percentage of those unemployed 3–5 months say their family income has declined?",
+    "answer": [
+      "44%",
+      "44"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "44%"
+  },
+  {
+    "question": "Compute the average across the four bars in the 'Unemployment's Impact on Household Income' chart, rounded to the nearest integer.",
+    "answer": [
+      "42",
+      "42%"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "42"
+  },
+  {
+    "question": "In the 'Impact of Long-term Unemployment' grouped bar chart, what percentage of those unemployed 6+ months say they have 'lost some self-respect'?",
+    "answer": [
+      "38%",
+      "38"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "38%"
+  },
+  {
+    "question": "Within the 'Less than 3 months' group in the 'Impact of Long-term Unemployment' chart, which item has the highest percentage?",
+    "answer": [
+      "Strain in family relations",
+      "strain in family relations"
+    ],
+    "supporting_facts": "D4:10",
+    "type": "mr",
+    "label": "Strain in family relations"
+  },
+  {
+    "question": "In the 'Impact of Unemployment on Long-term Career Goals' chart, what percentage of those unemployed 3–5 months say the recession will have a 'big impact' on their career goals?",
+    "answer": [
+      "29%",
+      "29"
+    ],
+    "supporting_facts": "D5:10",
+    "type": "mr",
+    "label": "29%"
+  },
+  {
+    "question": "In the long-term career goals chart, by how many percentage points does the 'Unemployed 6 months or longer' bar exceed the 'Not unemployed at any point during recession' bar?",
+    "answer": [
+      "21",
+      "21 percentage points",
+      "21%"
+    ],
+    "supporting_facts": "D5:10",
+    "type": "mr",
+    "label": "21"
+  },
+  {
+    "question": "Look at the product image of the second device Alex was considering for the budgie. What product name is printed in large letters on the front of the box?",
+    "answer": [
+      "Smart Pet Breeding Box",
+      "Smart Pet Breeding Box."
+    ],
+    "supporting_facts": "D2:5",
+    "type": "mr",
+    "label": "Smart Pet Breeding Box"
+  },
+  {
+    "question": "On one of the leopard-gecko before/after images Alex shared, what two-word caption is overlaid on the photo in large coloured letters?",
+    "answer": [
+      "STUCK SHED",
+      "Stuck Shed",
+      "stuck shed"
+    ],
+    "supporting_facts": "D4:4",
+    "type": "mr",
+    "label": "STUCK SHED"
+  },
+  {
+    "question": "One of the thermometer education images includes overlay text giving a normal canine body-temperature range in Celsius. What range does the text show?",
+    "answer": [
+      "38°C to 39.2°C",
+      "38 to 39.2 °C",
+      "38-39.2°C",
+      "38–39.2°C"
+    ],
+    "supporting_facts": "D6:4",
+    "type": "mr",
+    "label": "38°C to 39.2°C"
+  },
+  {
+    "question": "One of the urine-sampling images shows a sample cup with printed lines for two test labels. What are the two labels printed on the cup?",
+    "answer": [
+      "UP:UC and Specific Gravity",
+      "UP/UC and Specific Gravity",
+      "UP:UC, Specific Gravity"
+    ],
+    "supporting_facts": "D7:6",
+    "type": "mr",
+    "label": "UP:UC and Specific Gravity"
+  },
+  {
+    "question": "What colour is the stethoscope shown in one of the hamster-care images Alex shared?",
+    "answer": [
+      "pink",
+      "Pink"
+    ],
+    "supporting_facts": "D8:2",
+    "type": "mr",
+    "label": "pink"
+  },
+  {
+    "question": "On the Vetericyn Plus reptile product image Alex shared, what bottle volume is printed at the bottom of the label (in fl oz and ml)?",
+    "answer": [
+      "3 fl oz (89 ml)",
+      "3 fl oz / 89 ml",
+      "3 fl oz, 89 ml",
+      "3 fl oz 89 ml"
+    ],
+    "supporting_facts": "D8:7",
+    "type": "mr",
+    "label": "3 fl oz (89 ml)"
+  },
+  {
+    "question": "In the cat ultrasound image associated with the post-operative discussion, what colour is the ultrasound gel applied to the cat's abdomen?",
+    "answer": [
+      "blue",
+      "blue-green",
+      "teal",
+      "turquoise",
+      "green-blue"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "mr",
+    "label": "blue-green"
+  },
+  {
+    "question": "In one of the senior-dog reflection images Alex shared, what colour of jacket / sweater is the person wearing while embracing the dog?",
+    "answer": [
+      "dark green",
+      "green",
+      "forest green",
+      "deep green"
+    ],
+    "supporting_facts": "D14:4",
+    "type": "mr",
+    "label": "dark green"
+  },
+  {
+    "question": "In one of the venipuncture-related cat images Alex shared, what single piece of equipment lies on the floor in front of the cat?",
+    "answer": [
+      "a syringe",
+      "syringe",
+      "a red syringe",
+      "a syringe filled with blood"
+    ],
+    "supporting_facts": "D12:4",
+    "type": "mr",
+    "label": "a syringe"
+  },
+  {
+    "question": "In one of the parvo-puppy images Alex shared, what colour is the IV-catheter bandage wrapped around the puppy's foreleg?",
+    "answer": [
+      "green",
+      "Green"
+    ],
+    "supporting_facts": "D1:1",
+    "type": "mr",
+    "label": "green"
+  },
+  {
+    "question": "Which surgical-glove brand has been recommended consistently across multiple conversations?",
+    "answer": [
+      "Ansell",
+      "microFlex",
+      "Medline"
+    ],
+    "supporting_facts": "D7:8,D15:2",
+    "type": "ms",
+    "label": "Ansell"
+  },
+  {
+    "question": "Which two surgical-glove brands have been jointly recommended on more than once",
+    "answer": [
+      "Ansell and microFlex",
+      "Ansell",
+      "microFlex"
+    ],
+    "supporting_facts": "D8:1,D15:2",
+    "type": "ms",
+    "label": "Ansell and microFlex"
+  },
+  {
+    "question": "What otoscope brand has the assistant recommended on more than once?",
+    "answer": [
+      "Welch Allyn PocketScope",
+      "Welch Allyn",
+      "PocketScope"
+    ],
+    "supporting_facts": "D11:1,D15:2",
+    "type": "ms",
+    "label": "Welch Allyn PocketScope"
+  },
+  {
+    "question": "Which two stethoscope models has the assistant recommended more than once?",
+    "answer": [
+      "Littmann Classic III and 3M Littmann Cardiology IV",
+      "Littmann Classic III",
+      "Littmann"
+    ],
+    "supporting_facts": "D7:4,D15:2",
+    "type": "ms",
+    "label": "Littmann Classic III and 3M Littmann Cardiology IV"
+  },
+  {
+    "question": "What specific scaler model has been named for senior-cat dental cleanings on more than once?",
+    "answer": [
+      "ARSUK ultrasonic scaler",
+      "ARSUK",
+      "Ultrasonic scaler"
+    ],
+    "supporting_facts": "D8:8,D15:4",
+    "type": "ms",
+    "label": "ARSUK ultrasonic scaler"
+  },
+  {
+    "question": "Which three post-op infection signs have been consistently flagged for techs to monitor?",
+    "answer": [
+      "Redness, swelling, discharge",
+      "Redness and swelling",
+      "Swelling and discharge"
+    ],
+    "supporting_facts": "D6:5,D15:3",
+    "type": "ms",
+    "label": "Redness, swelling, discharge"
+  },
+  {
+    "question": "What daily home dental-care recommendation has been repeated across discussions of senior-cat care?",
+    "answer": [
+      "Daily tooth brushing with pet-safe toothpaste",
+      "Daily tooth brushing",
+      "Dental treats"
+    ],
+    "supporting_facts": "D9:3,D15:4",
+    "type": "ms",
+    "label": "Daily tooth brushing with pet-safe toothpaste"
+  },
+  {
+    "question": "Which two probiotic genera have been repeatedly recommended for rabbit gut-flora restoration?",
+    "answer": [
+      "Lactobacillus and Bifidobacterium",
+      "Lactobacillus",
+      "Bifidobacterium"
+    ],
+    "supporting_facts": "D2:9,D15:5",
+    "type": "ms",
+    "label": "Lactobacillus and Bifidobacterium"
+  },
+  {
+    "question": "What specific pureed food has been repeatedly suggested to help with rabbit digestion?",
+    "answer": [
+      "Pureed pumpkin",
+      "Pumpkin",
+      "Pumpkin puree"
+    ],
+    "supporting_facts": "D2:9,D15:5",
+    "type": "ms",
+    "label": "Pureed pumpkin"
+  },
+  {
+    "question": "What humidity range has been consistently recommended for leopard-gecko enclosures to prevent stuck sheds?",
+    "answer": [
+      "40-60%",
+      "40 to 60 percent",
+      "Around 50%"
+    ],
+    "supporting_facts": "D3:9,D15:6",
+    "type": "ms",
+    "label": "40-60%"
+  },
+  {
+    "question": "Which budgie home-oxygen setup has been recommended for long-term use over the alternative breeding-box option?",
+    "answer": [
+      "Temperature and ventilation control system",
+      "Ventilation control system",
+      "Smart breeding box"
+    ],
+    "supporting_facts": "D2:5,D15:9",
+    "type": "ms",
+    "label": "Temperature and ventilation control system"
+  },
+  {
+    "question": "What is the FIRST triage step that has been consistently recommended for a snake in respiratory distress?",
+    "answer": [
+      "Environmental check",
+      "Isolate the snake",
+      "Schedule a vet exam"
+    ],
+    "supporting_facts": "D13:5,D15:7",
+    "type": "ms",
+    "label": "Environmental check"
+  },
+  {
+    "question": "What post-op food adjustment has been recommended for a cat after oral foreign-body surgery?",
+    "answer": [
+      "Soft food",
+      "Wet food",
+      "Liquid diet"
+    ],
+    "supporting_facts": "D12:10,D15:10",
+    "type": "ms",
+    "label": "Soft food"
+  },
+  {
+    "question": "What is the most cited cause of parrot feather loss across the conversations?",
+    "answer": [
+      "Stress",
+      "Nutritional deficiencies",
+      "Infections"
+    ],
+    "supporting_facts": "D9:4,D9:7,D10:1,D10:2",
+    "type": "ms",
+    "label": "Stress"
+  },
+  {
+    "question": "What is described as the first step of a male-cat neuter procedure?",
+    "answer": [
+      "Make a small incision near the scrotum to remove the testicles",
+      "Make a small incision",
+      "Remove the testicles"
+    ],
+    "supporting_facts": "D11:5,D12:1",
+    "type": "ms",
+    "label": "Make a small incision near the scrotum to remove the testicles"
+  },
+  {
+    "question": "What two post-op care actions appear consistently across discussions of caring for a neutered male cat?",
+    "answer": [
+      "Keep the incision clean and limit activity",
+      "Keep the area clean",
+      "Limit activity"
+    ],
+    "supporting_facts": "D11:9,D12:2",
+    "type": "ms",
+    "label": "Keep the incision clean and limit activity"
+  },
+  {
+    "question": "What stethoscope and otoscope brands are jointly recommended for the clinic's diagnostic kit?",
+    "answer": [
+      "Littmann (stethoscope) and Welch Allyn (otoscope)",
+      "Littmann and Welch Allyn",
+      "3M Littmann Cardiology IV"
+    ],
+    "supporting_facts": "D7:4,D11:1,D15:2",
+    "type": "ms",
+    "label": "Littmann (stethoscope) and Welch Allyn (otoscope)"
+  },
+  {
+    "question": "Across the two thermometer-related discussions, what shared concern about owner thermometer use was repeatedly addressed?",
+    "answer": [
+      "Accuracy over time — including features for accuracy (fast read time, clear display) and a calibration / replacement schedule to keep readings reliable",
+      "Accuracy and reliability over time",
+      "Accuracy of owner thermometer readings"
+    ],
+    "supporting_facts": "D6:4,D7:3",
+    "type": "ms",
+    "label": "Accuracy over time — including features for accuracy (fast read time, clear display) and a calibration / replacement schedule to keep readings reliable"
+  },
+  {
+    "question": "Across the two hamster respiratory-irritation discussions, what environmental advice has been repeatedly given?",
+    "answer": [
+      "Quiet, clean cage with paper-based bedding (avoid pine, cedar, and dusty aspen), away from drafts and air-conditioning vents",
+      "Quiet and clean cage; paper-based bedding, no drafts",
+      "Quiet environment and paper-based bedding"
+    ],
+    "supporting_facts": "D7:7,D8:6",
+    "type": "ms",
+    "label": "Quiet, clean cage with paper-based bedding (avoid pine, cedar, and dusty aspen), away from drafts and air-conditioning vents"
+  },
+  {
+    "question": "Name all pet stores that have been recommended.",
+    "answer": [
+      "Paws & Claws, Pet Emporium, PetSmart, Petco",
+      "PetSmart and Petco",
+      "Paws & Claws"
+    ],
+    "supporting_facts": "D9:5,D14:3",
+    "type": "ms",
+    "label": "Paws & Claws, Pet Emporium, PetSmart, Petco"
+  },
+  {
+    "question": "When did Alex examine the lethargic puppy with parvovirus suspicion? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-09-05",
+      "September 5, 2023",
+      "Sep 5 2023"
+    ],
+    "supporting_facts": "D1:1,D15:11",
+    "type": "tr",
+    "label": "2023-09-05"
+  },
+  {
+    "question": "What happened at Alex's clinic on 2023-09-15?",
+    "answer": [
+      "Budgie requiring oxygen therapy",
+      "Budgie oxygen therapy",
+      "Bird oxygen"
+    ],
+    "supporting_facts": "D2:5,D15:11",
+    "type": "tr",
+    "label": "Budgie requiring oxygen therapy"
+  },
+  {
+    "question": "When was Alex presented with the snake in respiratory distress? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-10-29",
+      "October 29, 2023",
+      "Oct 29 2023"
+    ],
+    "supporting_facts": "D13:5,D15:12",
+    "type": "tr",
+    "label": "2023-10-29"
+  },
+  {
+    "question": "Which came FIRST in Alex's caseload: the rabbit's GI stasis or the bearded dragon's dehydration?",
+    "answer": [
+      "Rabbit GI stasis",
+      "Rabbit gut stasis"
+    ],
+    "supporting_facts": "D15:11",
+    "type": "tr",
+    "label": "Rabbit GI stasis"
+  },
+  {
+    "question": "How many days separated Alex's parvovirus-puppy case from the snake respiratory-distress case?",
+    "answer": [
+      "54 days",
+      "54",
+      "About 8 weeks"
+    ],
+    "supporting_facts": "D15:11,D15:12",
+    "type": "tr",
+    "label": "54 days"
+  },
+  {
+    "question": "Which of Alex's documented cases involves a snake?",
+    "answer": [
+      "Owner brings a snake showing respiratory distress",
+      "Snake with respiratory distress",
+      "Snake respiratory issues"
+    ],
+    "supporting_facts": "D13:5,D13:9,D15:12",
+    "type": "tr",
+    "label": "Owner brings a snake showing respiratory distress"
+  },
+  {
+    "question": "When did the leopard-gecko stuck-shed case occur at the clinic? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-09-20",
+      "September 20, 2023",
+      "Sep 20 2023"
+    ],
+    "supporting_facts": "D3:8,D15:11",
+    "type": "tr",
+    "label": "2023-09-20"
+  },
+  {
+    "question": "When did Alex manage the dog with gastrointestinal foreign-body obstruction? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-10-25",
+      "October 25, 2023",
+      "Oct 25 2023"
+    ],
+    "supporting_facts": "D12:5,D15:12",
+    "type": "tr",
+    "label": "2023-10-25"
+  },
+  {
+    "question": "What happened at Alex's clinic on 2023-10-15?",
+    "answer": [
+      "Ferret with ear disease",
+      "Ferret ear drops",
+      "Ferret ear infection"
+    ],
+    "supporting_facts": "D9:9,D15:12",
+    "type": "tr",
+    "label": "Ferret with ear disease"
+  },
+  {
+    "question": "When was the dehydrated bearded dragon attended at the clinic?. Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-09-18",
+      "September 18, 2023",
+      "Sep 18 2023"
+    ],
+    "supporting_facts": "D3:2,D15:11",
+    "type": "tr",
+    "label": "2023-09-18"
+  },
+  {
+    "question": "When did Alex hold the difficult euthanasia discussion for the elderly dog?. Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-10-31",
+      "October 31, 2023",
+      "Oct 31 2023"
+    ],
+    "supporting_facts": "D13:10,D14:4,D15:12",
+    "type": "tr",
+    "label": "2023-10-31"
+  },
+  {
+    "question": "Between Alex's parvovirus-puppy case and the rabbit GI stasis case, what species was Alex treating?",
+    "answer": [
+      "Cat with urinary obstruction",
+      "Cat",
+      "Blocked cat"
+    ],
+    "supporting_facts": "D15:11",
+    "type": "tr",
+    "label": "Cat with urinary obstruction"
+  },
+  {
+    "question": "When did Alex perform a dental cleaning on a senior cat? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-10-10",
+      "October 10, 2023",
+      "Oct 10 2023"
+    ],
+    "supporting_facts": "D8:8,D9:3,D15:12",
+    "type": "tr",
+    "label": "2023-10-10"
+  },
+  {
+    "question": "When was the parrot with feather-plucking behavior seen? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-10-12",
+      "October 12, 2023",
+      "Oct 12 2023"
+    ],
+    "supporting_facts": "D9:4,D15:12",
+    "type": "tr",
+    "label": "2023-10-12"
+  },
+  {
+    "question": "What case event occurred on 2023-10-21?",
+    "answer": [
+      "Male kitten neuter",
+      "Male cat neuter",
+      "Neuter procedure"
+    ],
+    "supporting_facts": "D11:5,D12:1,D15:11,D15:12",
+    "type": "tr",
+    "label": "Male kitten neuter"
+  },
+  {
+    "question": "When did Alex perform venipuncture on the cat with suspected liver disease? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-10-23",
+      "October 23, 2023",
+      "Oct 23 2023"
+    ],
+    "supporting_facts": "D11:10,D12:4,D15:12",
+    "type": "tr",
+    "label": "2023-10-23"
+  },
+  {
+    "question": "Which case immediately follows the dog deep-laceration suturing case in Alex's caseload?",
+    "answer": [
+      "Cat with suspected urinary tract infection",
+      "Cat UTI",
+      "Cat urine sample"
+    ],
+    "supporting_facts": "D15:11,D15:12",
+    "type": "tr",
+    "label": "Cat with suspected urinary tract infection"
+  },
+  {
+    "question": "What is the chronological position of the rabbit GI stasis case in Alex's documented caseload?",
+    "answer": [
+      "3rd",
+      "Third",
+      "Event 3"
+    ],
+    "supporting_facts": "D15:11",
+    "type": "tr",
+    "label": "3rd"
+  },
+  {
+    "question": "When did Alex see the hamster with respiratory infection? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-10-05",
+      "October 5, 2023",
+      "Oct 5 2023"
+    ],
+    "supporting_facts": "D7:7,D8:2,D15:12",
+    "type": "tr",
+    "label": "2023-10-05"
+  },
+  {
+    "question": "When did Alex have an honest discussion with an owner about chronic-disease costs? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-09-25",
+      "September 25, 2023",
+      "Sep 25 2023"
+    ],
+    "supporting_facts": "D5:2,D15:11",
+    "type": "tr",
+    "label": "2023-09-25"
+  },
+  {
+    "question": "Which of Alex's documented cases involves a guinea pig?",
+    "answer": [
+      "Guinea pig with dental disease",
+      "Guinea pig dental disease",
+      "Guinea pig referral"
+    ],
+    "supporting_facts": "D10:5,D15:12",
+    "type": "tr",
+    "label": "Guinea pig with dental disease"
+  },
+  {
+    "question": "Across descriptions of the male-cat neuter procedure, what specific closing-step detail was included in one explanation but missing from another?",
+    "answer": [
+      "Closing the incision with stitches",
+      "Stitches",
+      "Sutures"
+    ],
+    "supporting_facts": "D11:5,D12:1",
+    "type": "ms",
+    "label": "Closing the incision with stitches"
+  },
+  {
+    "question": "Across discussions of urinary-maintenance care for cats, which specific commercial diet brands were named in the initial diet-recommendation round but NOT in the recheck-and-red-flags discussion?",
+    "answer": [
+      "Royal Canin or Hill's Science Diet",
+      "Royal Canin",
+      "Hill's Science Diet"
+    ],
+    "supporting_facts": "D1:4,D2:1",
+    "type": "ms",
+    "label": "Royal Canin or Hill's Science Diet"
+  },
+  {
+    "question": "Across infection-monitoring advice for a sutured wound versus an oral-surgery site, what additional sign was mentioned for the oral-surgery case that did not appear in the wound-care advice?",
+    "answer": [
+      "Reluctance to eat",
+      "Reluctance to eat or appetite loss",
+      "Decreased appetite"
+    ],
+    "supporting_facts": "D6:5,D13:4",
+    "type": "ms",
+    "label": "Reluctance to eat"
+  },
+  {
+    "question": "When surgical gloves have been recommended on different occasions, in which recommendation was the material 'nitrile' explicitly named — the one pairing Ansell with Medline, or the one pairing microFlex with Ansell?",
+    "answer": [
+      "The microFlex-and-Ansell recommendation",
+      "microFlex and Ansell",
+      "Ansell and Medline"
+    ],
+    "supporting_facts": "D7:8,D8:1",
+    "type": "ms",
+    "label": "The microFlex-and-Ansell recommendation"
+  },
+  {
+    "question": "Across the two thermometer recommendation rounds, which feature is named in the detailed feature-list round but NOT in the brand-availability summary round?",
+    "answer": [
+      "Memory function",
+      "Memory function for the last reading",
+      "Memory"
+    ],
+    "supporting_facts": "D6:4,D6:7",
+    "type": "ms",
+    "label": "Memory function"
+  },
+  {
+    "question": "When the assistant has been asked about pet stores on different occasions, what set of locally-owned store names was unique to the discussion involving senior-cat dental chews?",
+    "answer": [
+      "Paws & Claws and Pet Emporium",
+      "Paws & Claws",
+      "Pet Emporium"
+    ],
+    "supporting_facts": "D9:5,D14:3",
+    "type": "ms",
+    "label": "Paws & Claws and Pet Emporium"
+  },
+  {
+    "question": "Across discussions of post-neuter pain management, what specific opioid analgesic was named in only one of the discussions?",
+    "answer": [
+      "Buprenorphine",
+      "Bupe",
+      "Pain reliever"
+    ],
+    "supporting_facts": "D11:7,D12:2",
+    "type": "ms",
+    "label": "Buprenorphine"
+  },
+  {
+    "question": "Across the two leopard-gecko stuck-shed prevention rounds, what dietary item is mentioned in both?",
+    "answer": [
+      "Gut-loaded insects",
+      "Insects gut-loaded with vegetables",
+      "Live gut-loaded feeders"
+    ],
+    "supporting_facts": "D3:8,D4:4",
+    "type": "ms",
+    "label": "Gut-loaded insects"
+  },
+  {
+    "question": "Across descriptions of post-neuter aftercare, what intra-operative element was explicitly mentioned in one description but not the other?",
+    "answer": [
+      "Anesthesia",
+      "General anesthesia",
+      "Sedation"
+    ],
+    "supporting_facts": "D11:9,D12:2",
+    "type": "ms",
+    "label": "Anesthesia"
+  },
+  {
+    "question": "Across the two hamster respiratory-irritation discussions, one response focuses on monitoring breathing while another focuses on cage/bedding modifications. Which round introduces paper-based bedding recommendations?",
+    "answer": [
+      "the cage/bedding-modifications response",
+      "the cage-modifications response",
+      "the bedding round"
+    ],
+    "supporting_facts": "D7:7,D8:6",
+    "type": "ms",
+    "label": "the cage/bedding-modifications response"
+  },
+  {
+    "question": "Across discussions of otoscope use, one response focuses on technique and another on equipment. Which one names the Welch Allyn PocketScope?",
+    "answer": [
+      "The equipment-focused response",
+      "The equipment recommendation",
+      "The technique guidance"
+    ],
+    "supporting_facts": "D10:7,D11:1",
+    "type": "ms",
+    "label": "The equipment-focused response"
+  },
+  {
+    "question": "Across discussions of the shake-the-bottle instruction for reptile topical medication, in which response was the specific product 'Zylafen Topical Spray' named — the one referencing the labeled directions, or the simpler shake-it reminder?",
+    "answer": [
+      "The one referencing the labeled directions",
+      "The labeled-directions response",
+      "The shake reminder"
+    ],
+    "supporting_facts": "D8:7,D9:1",
+    "type": "ms",
+    "label": "The one referencing the labeled directions"
+  },
+  {
+    "question": "When the leopard-gecko humidity range has come up in different conversations, do the recommendations agree, and what is the consistent range?",
+    "answer": [
+      "Yes, both say 40-60%",
+      "Yes",
+      "No"
+    ],
+    "supporting_facts": "D3:9,D15:6",
+    "type": "ms",
+    "label": "Yes, both say 40-60%"
+  },
+  {
+    "question": "Across surgical-glove recommendations, how do the two material descriptions differ?",
+    "answer": [
+      "One emphasizes nitrile material; the other does not specify a material",
+      "One says nitrile; the other unspecified",
+      "Both say nitrile"
+    ],
+    "supporting_facts": "D7:8,D8:1",
+    "type": "ms",
+    "label": "One emphasizes nitrile material; the other does not specify a material"
+  },
+  {
+    "question": "Across small-pet respiratory-issue advice, in which species' care was a humidifier explicitly recommended — rabbit or hamster?",
+    "answer": [
+      "Rabbit",
+      "Hamster",
+      "Both"
+    ],
+    "supporting_facts": "D1:6,D7:7",
+    "type": "ms",
+    "label": "Rabbit"
+  },
+  {
+    "question": "Across descriptions of rabbit gut-stasis recovery support, what additional supportive-care technique appears in only one of the descriptions, beyond probiotics, hay, and pumpkin?",
+    "answer": [
+      "Syringe-feeding",
+      "Syringe feeding",
+      "Hand-feeding"
+    ],
+    "supporting_facts": "D2:9,D15:5",
+    "type": "ms",
+    "label": "Syringe-feeding"
+  },
+  {
+    "question": "When the otoscope brand has been recommended on multiple occasions, do the recommendations confirm the same brand?",
+    "answer": [
+      "Yes, both name Welch Allyn PocketScope",
+      "Yes",
+      "No"
+    ],
+    "supporting_facts": "D11:1,D15:2",
+    "type": "ms",
+    "label": "Yes, both name Welch Allyn PocketScope"
+  },
+  {
+    "question": "Across discussions of the senior-cat dental scaler, what additional element appears in one response but not the other?",
+    "answer": [
+      "The home-care plan after cleaning",
+      "The post-cleaning home plan",
+      "Daily brushing"
+    ],
+    "supporting_facts": "D8:8,D15:4",
+    "type": "ms",
+    "label": "The home-care plan after cleaning"
+  },
+  {
+    "question": "When the first triage step for a snake in respiratory distress has been described on multiple occasions, are the descriptions consistent, and what is the step?",
+    "answer": [
+      "Yes, environmental check is consistently the first step",
+      "Yes",
+      "No"
+    ],
+    "supporting_facts": "D13:5,D15:7",
+    "type": "ms",
+    "label": "Yes, environmental check is consistently the first step"
+  },
+  {
+    "question": "When rabbit gut-stasis recovery foods have been listed on multiple occasions, are the same three fresh greens repeated, and which?",
+    "answer": [
+      "Yes — parsley, dandelion greens, and carrot tops",
+      "Yes",
+      "No"
+    ],
+    "supporting_facts": "D2:7,D15:5",
+    "type": "ms",
+    "label": "Yes — parsley, dandelion greens, and carrot tops"
+  },
+  {
+    "question": "When microFlex has been named as a recommended glove brand on multiple occasions, what other brand has consistently been named alongside it?",
+    "answer": [
+      "Ansell",
+      "microFlex",
+      "Medline"
+    ],
+    "supporting_facts": "D8:1,D15:2",
+    "type": "ms",
+    "label": "Ansell"
+  },
+  {
+    "question": "What two ingredients in a rabbit's recovery diet have been suggested across conversations as digestive aids?",
+    "answer": [
+      "Pureed pumpkin and species-specific probiotics",
+      "Pumpkin and probiotics",
+      "Probiotics"
+    ],
+    "supporting_facts": "D2:9,D15:5",
+    "type": "ms",
+    "label": "Pureed pumpkin and species-specific probiotics"
+  },
+  {
+    "question": "What stress-management principle has Alex emphasized for both blocked-cat catheter recovery and snake respiratory care?",
+    "answer": [
+      "Quiet, stress-free environment",
+      "Stress-free environment",
+      "Quiet environment"
+    ],
+    "supporting_facts": "D1:2,D13:9",
+    "type": "ms",
+    "label": "Quiet, stress-free environment"
+  },
+  {
+    "question": "Across the catheter post-removal monitoring discussion and the post-oral-surgery monitoring discussion, what shared underlying concern is reflected in both monitoring plans?",
+    "answer": [
+      "Early detection of complications / signs of trouble at the treated site",
+      "Catching complications early",
+      "Watching for early warning signs of complications"
+    ],
+    "supporting_facts": "D1:5,D13:4",
+    "type": "ms",
+    "label": "Early detection of complications / signs of trouble at the treated site"
+  },
+  {
+    "question": "What infection-monitoring trio has Alex called out for both sutured wounds and post-oral-surgery sites?",
+    "answer": [
+      "Redness, swelling, and discharge",
+      "Redness and swelling",
+      "Swelling and discharge"
+    ],
+    "supporting_facts": "D6:5,D13:4,D15:3",
+    "type": "ms",
+    "label": "Redness, swelling, and discharge"
+  },
+  {
+    "question": "For the rabbit gut-stasis case, what motility drug and what dietary fiber source has Alex paired together across conversations?",
+    "answer": [
+      "Metoclopramide alongside high-fiber hay",
+      "Metoclopramide and hay",
+      "Metoclopramide + hay"
+    ],
+    "supporting_facts": "D2:4,D15:5",
+    "type": "ms",
+    "label": "Metoclopramide alongside high-fiber hay"
+  },
+  {
+    "question": "What two husbandry adjustments have been jointly emphasized across discussions for preventing leopard-gecko stuck sheds?",
+    "answer": [
+      "40-60% humidity with a sphagnum-moss humid hide, plus regular misting",
+      "Humid hide with sphagnum moss and misting",
+      "40-60% humidity"
+    ],
+    "supporting_facts": "D3:9,D4:3,D15:6",
+    "type": "ms",
+    "label": "40-60% humidity with a sphagnum-moss humid hide, plus regular misting"
+  },
+  {
+    "question": "For senior-cat dental care, what at-procedure tool and what at-home daily action has Alex paired across conversations?",
+    "answer": [
+      "ARSUK ultrasonic scaler at the procedure; daily tooth brushing at home",
+      "Ultrasonic scaler; daily brushing",
+      "ARSUK; brushing"
+    ],
+    "supporting_facts": "D8:8,D9:3,D15:4",
+    "type": "ms",
+    "label": "ARSUK ultrasonic scaler at the procedure; daily tooth brushing at home"
+  },
+  {
+    "question": "What two diagnostic-equipment standards has Alex set — one for stethoscope, one for otoscope?",
+    "answer": [
+      "Littmann (stethoscope) and Welch Allyn PocketScope (otoscope)",
+      "Littmann and Welch Allyn",
+      "Littmann Cardiology IV"
+    ],
+    "supporting_facts": "D7:4,D11:1,D15:2",
+    "type": "ms",
+    "label": "Littmann (stethoscope) and Welch Allyn PocketScope (otoscope)"
+  },
+  {
+    "question": "What pain-management options has Alex named across the post-neuter and the post-oral-surgery cases?",
+    "answer": [
+      "Buprenorphine plus ice packs for the neuter; analgesics for the oral-surgery case",
+      "Buprenorphine and analgesics",
+      "Pain reliever"
+    ],
+    "supporting_facts": "D11:7,D13:4",
+    "type": "ms",
+    "label": "Buprenorphine plus ice packs for the neuter; analgesics for the oral-surgery case"
+  },
+  {
+    "question": "For a snake in respiratory distress, what humidity range and what initial triage step have been jointly recommended?",
+    "answer": [
+      "50-70% humidity with environmental check as the first step",
+      "50-70% humidity, environmental check",
+      "Environmental check"
+    ],
+    "supporting_facts": "D13:9,D15:7",
+    "type": "ms",
+    "label": "50-70% humidity with environmental check as the first step"
+  },
+  {
+    "question": "In the detailed thermometer-features round, what two top characteristics did the assistant recommend for an owner-friendly device?",
+    "answer": [
+      "Fast read time and clear LCD display",
+      "Fast read time and clear display",
+      "Fast read time and clear LCD display on a digital thermometer"
+    ],
+    "supporting_facts": "D6:4",
+    "type": "ms",
+    "label": "Fast read time and clear LCD display"
+  },
+  {
+    "question": "For a budgie's home oxygen setup, what option has Alex consistently rejected and what option has he endorsed?",
+    "answer": [
+      "Rejected the smart breeding box; endorsed the temperature and ventilation control system",
+      "Rejected the breeding box; endorsed the ventilation system",
+      "Ventilation control system"
+    ],
+    "supporting_facts": "D2:5,D15:9",
+    "type": "ms",
+    "label": "Rejected the smart breeding box; endorsed the temperature and ventilation control system"
+  },
+  {
+    "question": "What hydration / fluid-support theme appears in both the parvo puppy plan and the cat foreign-body recovery plan?",
+    "answer": [
+      "Maintaining hydration and supportive fluid therapy",
+      "Hydration",
+      "Fluid support"
+    ],
+    "supporting_facts": "D1:1,D12:10",
+    "type": "ms",
+    "label": "Maintaining hydration and supportive fluid therapy"
+  },
+  {
+    "question": "What two medications has Alex named across the post-neuter recovery plan and the rabbit GI-stasis recovery plan?",
+    "answer": [
+      "Buprenorphine for the neuter and metoclopramide for the rabbit",
+      "Buprenorphine and metoclopramide",
+      "Metoclopramide and buprenorphine"
+    ],
+    "supporting_facts": "D11:7,D15:5",
+    "type": "ms",
+    "label": "Buprenorphine for the neuter and metoclopramide for the rabbit"
+  },
+  {
+    "question": "What does Alex consistently include in post-procedure care advice to keep animals calm — across cats, kittens, and snakes?",
+    "answer": [
+      "Quiet, stress-free environment",
+      "Stress-free environment",
+      "Quiet environment"
+    ],
+    "supporting_facts": "D1:2,D5:3,D11:9,D13:9",
+    "type": "ms",
+    "label": "Quiet, stress-free environment"
+  },
+  {
+    "question": "For rabbit GI-stasis recovery, name the medication, the fiber source, and a probiotic genus that Alex has consistently grouped across rounds.",
+    "answer": [
+      "Metoclopramide, high-fiber hay, and Lactobacillus",
+      "Metoclopramide, hay, and Lactobacillus or Bifidobacterium",
+      "Metoclopramide, hay, probiotics"
+    ],
+    "supporting_facts": "D2:9,D15:5",
+    "type": "ms",
+    "label": "Metoclopramide, high-fiber hay, and Lactobacillus"
+  },
+  {
+    "question": "For surgical-glove inventory, what two brands does Alex's clinic restock, and what material is preferred?",
+    "answer": [
+      "Ansell and microFlex; nitrile material",
+      "Ansell and microFlex",
+      "Nitrile gloves"
+    ],
+    "supporting_facts": "D7:8,D8:1,D15:2",
+    "type": "ms",
+    "label": "Ansell and microFlex; nitrile material"
+  },
+  {
+    "question": "What animal-comfort principle does Alex apply to both a sneezing hamster and a recovering kitten with skin irritation?",
+    "answer": [
+      "Quiet environment with soft, clean bedding",
+      "Soft bedding",
+      "Quiet environment"
+    ],
+    "supporting_facts": "D5:3,D8:9",
+    "type": "ms",
+    "label": "Quiet environment with soft, clean bedding"
+  },
+  {
+    "question": "What non-abrasive substrate has Alex recommended across bearded-dragon recovery and leopard-gecko recovery?",
+    "answer": [
+      "Paper towels or reptile carpet",
+      "Paper towels",
+      "Reptile carpet"
+    ],
+    "supporting_facts": "D3:7,D15:6",
+    "type": "ms",
+    "label": "Paper towels or reptile carpet"
+  },
+  {
+    "question": "For owner communication, what kind of physical reference material has Alex recommended providing to clients across multiple consultation discussions?",
+    "answer": [
+      "Written care sheets / handouts with step-by-step instructions and emergency contacts",
+      "Written care sheets",
+      "Handouts"
+    ],
+    "supporting_facts": "D5:5,D5:7",
+    "type": "ms",
+    "label": "Written care sheets / handouts with step-by-step instructions and emergency contacts"
+  },
+  {
+    "question": "When did Alex first discuss the parvovirus puppy case? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-01",
+      "March 1, 2023",
+      "Mar 1 2023"
+    ],
+    "supporting_facts": "D1:1",
+    "type": "tr",
+    "label": "2023-03-01"
+  },
+  {
+    "question": "When did Alex compile the full chronological case log in a single conversation? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-09",
+      "March 9, 2023",
+      "Mar 9 2023"
+    ],
+    "supporting_facts": "D15:11",
+    "type": "tr",
+    "label": "2023-03-09"
+  },
+  {
+    "question": "When did Alex hold the case-review summary covering parvo, blocked cat, rabbit, and budgie cases together? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-09",
+      "March 9, 2023",
+      "Mar 9 2023"
+    ],
+    "supporting_facts": "D15:1,D15:8",
+    "type": "tr",
+    "label": "2023-03-09"
+  },
+  {
+    "question": "When did Alex have the largest number of conversations with the assistant in March 2023? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-02",
+      "March 2, 2023",
+      "Mar 2 2023"
+    ],
+    "supporting_facts": "D2:1,D3:1,D4:1,D5:1",
+    "type": "tr",
+    "label": "2023-03-02"
+  },
+  {
+    "question": "When did Alex first ask about pet-thermometer features for owners? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-03",
+      "March 3, 2023",
+      "Mar 3 2023"
+    ],
+    "supporting_facts": "D6:4",
+    "type": "tr",
+    "label": "2023-03-03"
+  },
+  {
+    "question": "When did Alex first ask about surgical-glove brands? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-04",
+      "March 4, 2023",
+      "Mar 4 2023"
+    ],
+    "supporting_facts": "D7:1",
+    "type": "tr",
+    "label": "2023-03-04"
+  },
+  {
+    "question": "Which conversation came FIRST chronologically: discussing the venipuncture sites slide or discussing the dog GI foreign-body X-ray?",
+    "answer": [
+      "The venipuncture sites discussion",
+      "Venipuncture sites",
+      "X-ray discussion"
+    ],
+    "supporting_facts": "D11:10,D12:5",
+    "type": "tr",
+    "label": "The venipuncture sites discussion"
+  },
+  {
+    "question": "When did Alex discuss post-op care for the cat after foreign-body removal? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-07",
+      "March 7, 2023",
+      "Mar 7 2023"
+    ],
+    "supporting_facts": "D12:10",
+    "type": "tr",
+    "label": "2023-03-07"
+  },
+  {
+    "question": "When did Alex first reflect on work-life balance after a hard day? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-08",
+      "March 8, 2023",
+      "Mar 8 2023"
+    ],
+    "supporting_facts": "D14:5",
+    "type": "tr",
+    "label": "2023-03-08"
+  },
+  {
+    "question": "When did Alex deliver the FIRST case-review wrap-up? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-09",
+      "March 9, 2023",
+      "Mar 9 2023"
+    ],
+    "supporting_facts": "D15:1",
+    "type": "tr",
+    "label": "2023-03-09"
+  },
+  {
+    "question": "How many days separate Alex's first conversation about urinary-catheter maintenance from the case-review wrap-up?",
+    "answer": [
+      "8 days",
+      "8",
+      "One week"
+    ],
+    "supporting_facts": "D1:2,D15:1",
+    "type": "tr",
+    "label": "8 days"
+  },
+  {
+    "question": "When did Alex discuss the snake respiratory-distress case in conversation? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-07",
+      "March 7, 2023",
+      "Mar 7 2023"
+    ],
+    "supporting_facts": "D13:5",
+    "type": "tr",
+    "label": "2023-03-07"
+  },
+  {
+    "question": "Which event came FIRST in Alex's conversations: discussing the bearded dragon's enclosure setup or the puppy allergic-dermatitis case?",
+    "answer": [
+      "Bearded dragon's enclosure setup",
+      "Puppy allergic dermatitis",
+      "Same day"
+    ],
+    "supporting_facts": "D3:2,D10:10",
+    "type": "tr",
+    "label": "Bearded dragon's enclosure setup"
+  },
+  {
+    "question": "When did Alex have his last conversation before the case-review summary? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-08",
+      "March 8, 2023",
+      "Mar 8 2023"
+    ],
+    "supporting_facts": "D14:1,D15:1",
+    "type": "tr",
+    "label": "2023-03-08"
+  },
+  {
+    "question": "When did Alex first discuss the male-cat neuter procedure in detail? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-06",
+      "March 6, 2023",
+      "Mar 6 2023"
+    ],
+    "supporting_facts": "D11:5",
+    "type": "tr",
+    "label": "2023-03-06"
+  },
+  {
+    "question": "When did Alex first discuss African Grey parrot bald patches? Return in the format YYYY-MM-DD.",
+    "answer": [
+      "2023-03-05",
+      "March 5, 2023",
+      "Mar 5 2023"
+    ],
+    "supporting_facts": "D9:8",
+    "type": "tr",
+    "label": "2023-03-05"
+  },
+  {
+    "question": "Among Alex's images, which image shows a close-up of a gray cat being examined with an otoscope by a blonde-haired veterinarian? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_60",
+      "img_61"
+    ],
+    "supporting_facts": "D10:4",
+    "type": "fm",
+    "label": "img_60"
+  },
+  {
+    "question": "Among Alex's images, which image is a lateral abdominal X-ray showing visible 'ABDOMEN' and date text labels in the corners of the radiograph? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_77",
+      "img_78",
+      "img_79"
+    ],
+    "supporting_facts": "D12:9",
+    "type": "fm",
+    "label": "img_77"
+  },
+  {
+    "question": "Among Alex's images, which image shows a tabby cat under anesthesia with an intubation tube taped in its mouth, lying on an orange surgical drape? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_82",
+      "img_83",
+      "img_84"
+    ],
+    "supporting_facts": "D13:4",
+    "type": "fm",
+    "label": "img_82"
+  },
+  {
+    "question": "Among Alex's images, which image shows a tabby kitten lying on a green patterned blanket with a pink and yellow bandage and an IV line on its leg? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_25",
+      "img_26",
+      "img_27"
+    ],
+    "supporting_facts": "D5:1",
+    "type": "fm",
+    "label": "img_25"
+  },
+  {
+    "question": "Among Alex's images, which image shows a sutured surgical incision exposed through a blue surgical drape held open by several black-handled hemostats? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_37",
+      "img_38",
+      "img_39"
+    ],
+    "supporting_facts": "D7:1",
+    "type": "fm",
+    "label": "img_37"
+  },
+  {
+    "question": "Among Alex's images, which image shows a bright green parrot lying on a metal stand while a hand uses a blue pen to part its back feathers for examination? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_57",
+      "img_58",
+      "img_59"
+    ],
+    "supporting_facts": "D9:8",
+    "type": "fm",
+    "label": "img_57"
+  },
+  {
+    "question": "Among Alex's images, which image is a product-style collage showing a stainless steel dental scaler alongside close-ups of a kitten's and a dog's teeth being examined? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_52",
+      "img_53",
+      "img_54"
+    ],
+    "supporting_facts": "D9:3",
+    "type": "fm",
+    "label": "img_52"
+  },
+  {
+    "question": "Among Alex's images, which image shows a veterinarian in dark blue scrubs and blue gloves holding a large brown-patterned boa snake coiled across both hands? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_86",
+      "img_87",
+      "img_88"
+    ],
+    "supporting_facts": "D13:9",
+    "type": "fm",
+    "label": "img_86"
+  },
+  {
+    "question": "Among Alex's images, which image shows a yellow Labrador resting against a blue background while a blue-gloved hand exposes a round red skin lesion on its leg? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_66",
+      "img_67",
+      "img_68"
+    ],
+    "supporting_facts": "D11:4",
+    "type": "fm",
+    "label": "img_66"
+  },
+  {
+    "question": "Among Alex's images, which image shows a black-and-white cat lying on a blue towel while a purple-gloved hand draws blood with a syringe from its inner hind leg? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_73",
+      "img_74",
+      "img_75"
+    ],
+    "supporting_facts": "D12:4",
+    "type": "fm",
+    "label": "img_73"
+  },
+  {
+    "question": "Among Alex's images, which image shows gloved hands operating through a small opening in a blue surgical drape held by hemostats, with a tabby cat's head visible at the side? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_70",
+      "img_71",
+      "img_72"
+    ],
+    "supporting_facts": "D11:9",
+    "type": "fm",
+    "label": "img_70"
+  },
+  {
+    "question": "Among Alex's images, which image shows an older woman with gray hair embracing a tricolor black, tan, and white dog outdoors with her eyes closed? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_91",
+      "img_92",
+      "img_93"
+    ],
+    "supporting_facts": "D14:4",
+    "type": "fm",
+    "label": "img_91"
+  },
+  {
+    "question": "Among Alex's images, which image shows a smiling young man in a light shirt holding a black-and-white border collie that rests its paw on his shoulder? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_96",
+      "img_97",
+      "img_98"
+    ],
+    "supporting_facts": "D14:9",
+    "type": "fm",
+    "label": "img_96"
+  },
+  {
+    "question": "Among Alex's images, which image is a close-up of two gloved hands inserting a small syringe near the perineum of a long-haired cat lying on its side? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_5",
+      "img_6",
+      "img_7"
+    ],
+    "supporting_facts": "D1:7",
+    "type": "fm",
+    "label": "img_5"
+  },
+  {
+    "question": "Among Alex's images, which image shows hands holding a urinalysis test strip and a small cup of yellow urine, with an orange long-haired cat resting on a cat tree in the background? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_41",
+      "img_42",
+      "img_60"
+    ],
+    "supporting_facts": "D7:6",
+    "type": "fm",
+    "label": "img_41"
+  },
+  {
+    "question": "Among Alex's images, which image shows a small puppy lying on a brown wooden table connected to a red IV line, with a man in dark blue scrubs standing beside it? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_2",
+      "img_1",
+      "img_3"
+    ],
+    "supporting_facts": "D1:1",
+    "type": "fm",
+    "label": "img_2"
+  },
+  {
+    "question": "Among Alex's images, which image shows a sleeping white puppy with gray spots resting its head on a blue pad, with a red bandage and IV catheter on its front paw? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_3",
+      "img_2",
+      "img_4"
+    ],
+    "supporting_facts": "D1:1",
+    "type": "fm",
+    "label": "img_3"
+  },
+  {
+    "question": "Among Alex's images, which image shows the front of a Vetericyn Plus Reptile Care product box featuring a green chameleon on a branch? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_48",
+      "img_49",
+      "img_50"
+    ],
+    "supporting_facts": "D8:7",
+    "type": "fm",
+    "label": "img_48"
+  },
+  {
+    "question": "Among Alex's images, which image shows a veterinarian in a white coat using a stethoscope to examine a brown-and-white guinea pig held in gloved hands? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_43",
+      "img_44",
+      "img_45"
+    ],
+    "supporting_facts": "D8:2",
+    "type": "fm",
+    "label": "img_43"
+  },
+  {
+    "question": "Among Alex's images, which image shows a bright yellow bearded dragon resting on a white towel on a metal weighing scale, with syringes and a medication vial beside it? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_16",
+      "img_17",
+      "img_18"
+    ],
+    "supporting_facts": "D3:7",
+    "type": "fm",
+    "label": "img_16"
+  },
+  {
+    "question": "Among Alex's images, which image shows a pale yellow leopard gecko standing on gray gravel with loose shed skin still draped over its head? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_21",
+      "img_22",
+      "img_23"
+    ],
+    "supporting_facts": "D4:4",
+    "type": "fm",
+    "label": "img_21"
+  },
+  {
+    "question": "Among Alex's images, which image is a close-up of a guinea pig's mouth held open by a metal cheek dilator, showing its long front incisors? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_62",
+      "img_63",
+      "img_64"
+    ],
+    "supporting_facts": "D10:9",
+    "type": "fm",
+    "label": "img_62"
+  },
+  {
+    "question": "Among Alex's images, which image shows a curly-haired woman in an orange shirt holding a small white-and-tan dog while a veterinarian's gloved hand passes her a medication bottle? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_30",
+      "img_31",
+      "img_32"
+    ],
+    "supporting_facts": "D5:7",
+    "type": "fm",
+    "label": "img_30"
+  },
+  {
+    "question": "Among Alex's images, which image shows a blonde woman in a purple shirt holding a beagle puppy outdoors while displaying a white-and-blue digital thermometer? Return the image file name in the format img_<number>.",
+    "answer": [
+      "img_35",
+      "img_36",
+      "img_15"
+    ],
+    "supporting_facts": "D6:4",
+    "type": "fm",
+    "label": "img_35"
+  },
+  {
+    "question": "For the parvovirus puppy case, what 5-pillar treatment approach did Alex outline?",
+    "answer": [
+      "Fluid therapy, antiemetics/antidiarrheals, nutritional support, antibiotics, and monitoring/supportive care",
+      "IV fluids, antiemetics, nutrition, antibiotics, monitoring",
+      "Fluid therapy and antibiotics"
+    ],
+    "supporting_facts": "D1:1",
+    "type": "th",
+    "label": "Fluid therapy, antiemetics/antidiarrheals, nutritional support, antibiotics, and monitoring/supportive care"
+  },
+  {
+    "question": "For the blocked cat case, summarize the catheter-care principles plus the long-term dietary plan Alex compiled across discussions.",
+    "answer": [
+      "Securely tape the catheter, monitor for blockage, change dressing daily, and watch for infection signs — alongside a long-term wet-food urinary maintenance diet (Royal Canin Urinary SO or Hill's c/d Multicare), multiple litter boxes, and stress reduction."
+    ],
+    "supporting_facts": "D1:2,D1:4,D1:7",
+    "type": "th",
+    "label": "Securely tape the catheter, monitor for blockage, change dressing daily, and watch for infection signs — alongside a long-term wet-food urinary maintenance diet (Royal Canin Urinary SO or Hill's c/d Multicare), multiple litter boxes, and stress reduction."
+  },
+  {
+    "question": "For the rabbit gut-stasis case, what medication, dietary, and supportive-care actions did Alex bring together?",
+    "answer": [
+      "Metoclopramide for motility, syringe-feeding, high-fiber hay, fresh greens (parsley, dandelion greens, carrot tops), pureed pumpkin, and Lactobacillus/Bifidobacterium probiotics."
+    ],
+    "supporting_facts": "D2:7,D2:9,D15:5",
+    "type": "th",
+    "label": "Metoclopramide for motility, syringe-feeding, high-fiber hay, fresh greens (parsley, dandelion greens, carrot tops), pureed pumpkin, and Lactobacillus/Bifidobacterium probiotics."
+  },
+  {
+    "question": "For the leopard gecko stuck-shed case, what husbandry adjustments did Alex compile across discussions?",
+    "answer": [
+      "40-60% humidity, humid hide with sphagnum moss or damp paper towels, regular misting, balanced diet with gut-loaded insects, paper-towel or reptile-carpet substrate",
+      "Humidity, humid hide, misting, gut-loaded insects",
+      "Humidity and misting"
+    ],
+    "supporting_facts": "D3:8,D3:9,D4:3,D15:6",
+    "type": "th",
+    "label": "40-60% humidity, humid hide with sphagnum moss or damp paper towels, regular misting, balanced diet with gut-loaded insects, paper-towel or reptile-carpet substrate"
+  },
+  {
+    "question": "For the senior cat dental cleaning case, what tool was used at the procedure and what daily home-care plan was outlined for after?",
+    "answer": [
+      "ARSUK ultrasonic scaler at the procedure; daily tooth brushing with pet-safe toothpaste, dental treats, water additives, and a healthy diet at home",
+      "Ultrasonic scaler; brushing and dental treats",
+      "Scaler and home brushing"
+    ],
+    "supporting_facts": "D8:8,D9:3,D15:4",
+    "type": "th",
+    "label": "ARSUK ultrasonic scaler at the procedure; daily tooth brushing with pet-safe toothpaste, dental treats, water additives, and a healthy diet at home"
+  },
+  {
+    "question": "For the male cat neuter case, what does the surgical procedure entail and what post-op pain-management plan did Alex outline?",
+    "answer": [
+      "A small scrotal incision to remove the testicles closed with stitches, paired with anti-inflammatory or buprenorphine pain control, ice packs for swelling, and keeping the cat calm."
+    ],
+    "supporting_facts": "D11:5,D11:7,D12:1,D12:2",
+    "type": "th",
+    "label": "A small scrotal incision to remove the testicles closed with stitches, paired with anti-inflammatory or buprenorphine pain control, ice packs for swelling, and keeping the cat calm."
+  },
+  {
+    "question": "For the cat oral foreign-body removal case, what post-op food adjustment, pain management, and infection-monitoring did Alex specify?",
+    "answer": [
+      "Soft food if swelling/pain; analgesics for pain; monitor for redness, swelling, discharge, reluctance to eat",
+      "Soft food, analgesics, infection monitoring",
+      "Soft food"
+    ],
+    "supporting_facts": "D12:10,D13:4,D15:10",
+    "type": "th",
+    "label": "Soft food if swelling/pain; analgesics for pain; monitor for redness, swelling, discharge, reluctance to eat"
+  },
+  {
+    "question": "For the snake respiratory distress case, what overall stabilization plan did Alex describe (environment, isolation, hydration, support)?",
+    "answer": [
+      "Environmental check (temperature gradient + humidity 50-70%), isolate from other reptiles, offer water, supportive fluids if dehydrated, minimize handling, schedule a vet exam",
+      "Environmental check, isolation, hydration, vet exam",
+      "Environmental check and isolation"
+    ],
+    "supporting_facts": "D13:5,D13:9,D15:7",
+    "type": "th",
+    "label": "Environmental check (temperature gradient + humidity 50-70%), isolate from other reptiles, offer water, supportive fluids if dehydrated, minimize handling, schedule a vet exam"
+  },
+  {
+    "question": "For the dog with suspected GI foreign-body obstruction, what diagnostic finding led to which next step?",
+    "answer": [
+      "A radiopaque object on abdominal X-ray confirmed an intestinal foreign body; the recommendation was surgical intervention rather than conservative management",
+      "X-ray showed foreign body; surgery recommended",
+      "Surgery"
+    ],
+    "supporting_facts": "D12:5,D12:9",
+    "type": "th",
+    "label": "A radiopaque object on abdominal X-ray confirmed an intestinal foreign body; the recommendation was surgical intervention rather than conservative management"
+  },
+  {
+    "question": "For the hit-by-car kitten case, what comfort/aftercare advice did Alex provide, plus what documentation should accompany the kitten on handover?",
+    "answer": [
+      "Soft warm blanket, quiet environment, regular wound checks, small frequent meals, easy water access — paired with a one-page handover document covering presentation, treatments, bloodwork, feeding, wound care, red flags, recheck date, and a direct contact line."
+    ],
+    "supporting_facts": "D5:3,D5:5",
+    "type": "th",
+    "label": "Soft warm blanket, quiet environment, regular wound checks, small frequent meals, easy water access — paired with a one-page handover document covering presentation, treatments, bloodwork, feeding, wound care, red flags, recheck date, and a direct contact line."
+  },
+  {
+    "question": "For the hamster respiratory infection case, what cage-management and monitoring elements did Alex assemble across discussions?",
+    "answer": [
+      "Paper-based bedding (avoiding pine, cedar, and dusty aspen), a solid-bottom enclosure, a clean draft-free cage and quiet environment for monitoring breathing, watching for sneezing, wheezing, nasal discharge, or laboured breathing, and bringing the hamster back in if signs persist or worsen."
+    ],
+    "supporting_facts": "D7:7,D8:2,D8:4,D8:6",
+    "type": "th",
+    "label": "Paper-based bedding (avoiding pine, cedar, and dusty aspen), a solid-bottom enclosure, a clean draft-free cage and quiet environment for monitoring breathing, watching for sneezing, wheezing, nasal discharge, or laboured breathing, and bringing the hamster back in if signs persist or worsen."
+  },
+  {
+    "question": "For the African Grey parrot with bald patches case, what differential causes did Alex consider?",
+    "answer": [
+      "Stress, poor diet, hormonal imbalances, bacterial/fungal infection, possibly PBFD",
+      "Stress, nutrition, hormones, infection, PBFD",
+      "Stress and nutrition"
+    ],
+    "supporting_facts": "D9:8",
+    "type": "th",
+    "label": "Stress, poor diet, hormonal imbalances, bacterial/fungal infection, possibly PBFD"
+  },
+  {
+    "question": "For the budgie home oxygen setup case, which equipment did Alex recommend for long-term use and which did he reject?",
+    "answer": [
+      "Recommended the temperature and ventilation control system; rejected the smart breeding box",
+      "Ventilation system over breeding box",
+      "Ventilation control system"
+    ],
+    "supporting_facts": "D2:5,D15:9",
+    "type": "th",
+    "label": "Recommended the temperature and ventilation control system; rejected the smart breeding box"
+  },
+  {
+    "question": "For the dog deep-laceration case, what wound-care priorities did Alex outline (cleaning, bandaging, monitoring, activity, follow-up)?",
+    "answer": [
+      "Clean with a mild antiseptic or saline (avoiding harsh chemicals), apply a sterile bandage changed daily, monitor for redness, swelling, discharge, or foul odor, restrict activity, and schedule a follow-up for stitch removal."
+    ],
+    "supporting_facts": "D6:5",
+    "type": "th",
+    "label": "Clean with a mild antiseptic or saline (avoiding harsh chemicals), apply a sterile bandage changed daily, monitor for redness, swelling, discharge, or foul odor, restrict activity, and schedule a follow-up for stitch removal."
+  },
+  {
+    "question": "For the ferret ear-disease case, what otoscope brand and what insertion technique did Alex recommend?",
+    "answer": [
+      "Welch Allyn PocketScope; insert slowly straight then gently angle downward past the L-shaped bend, start with a 2.5 mm speculum, restrain via scruff or burrito-wrap",
+      "Welch Allyn PocketScope with careful staged insertion past the canal bend",
+      "Welch Allyn PocketScope"
+    ],
+    "supporting_facts": "D10:7,D11:1,D15:2",
+    "type": "th",
+    "label": "Welch Allyn PocketScope; insert slowly straight then gently angle downward past the L-shaped bend, start with a 2.5 mm speculum, restrain via scruff or burrito-wrap"
+  },
+  {
+    "question": "For the bearded dragon dehydration case, what fluid therapy and what enclosure setup did Alex describe?",
+    "answer": [
+      "Vet-administered IV fluid therapy for rehydration; basking 95-105°F, cool side 75-85°F, humidity 30-40%, paper-towel or reptile-carpet substrate",
+      "IV fluids; correct temperature gradient and humidity",
+      "IV fluids and enclosure setup"
+    ],
+    "supporting_facts": "D3:2,D3:7",
+    "type": "th",
+    "label": "Vet-administered IV fluid therapy for rehydration; basking 95-105°F, cool side 75-85°F, humidity 30-40%, paper-towel or reptile-carpet substrate"
+  },
+  {
+    "question": "For the puppy allergic dermatitis case, what overall management plan did Alex bring together across discussions?",
+    "answer": [
+      "Flea-and-mite control, a hypoallergenic elimination diet, antihistamines or a short course of steroids, medicated chlorhexidine or oat-based topicals, Apoquel or Cytopoint for ongoing itch, plus environmental modifications."
+    ],
+    "supporting_facts": "D10:10,D11:2,D11:3,D11:4",
+    "type": "th",
+    "label": "Flea-and-mite control, a hypoallergenic elimination diet, antihistamines or a short course of steroids, medicated chlorhexidine or oat-based topicals, Apoquel or Cytopoint for ongoing itch, plus environmental modifications."
+  },
+  {
+    "question": "For the elderly dog euthanasia case, how did Alex advise approaching the conversation with the owner?",
+    "answer": [
+      "With empathy and sensitivity — acknowledging the bond, explaining the dog's health status, sharing counseling and pet-loss resources, encouraging at-home behavior observation, and framing euthanasia as an act of compassion."
+    ],
+    "supporting_facts": "D13:10,D14:4",
+    "type": "th",
+    "label": "With empathy and sensitivity — acknowledging the bond, explaining the dog's health status, sharing counseling and pet-loss resources, encouraging at-home behavior observation, and framing euthanasia as an act of compassion."
+  },
+  {
+    "question": "For the cat venipuncture case, which sites did Alex describe and which is preferred as the first choice?",
+    "answer": [
+      "Medial saphenous (preferred first), cephalic, jugular, sural; medial saphenous is preferred for accessibility and safety",
+      "Medial saphenous first, then cephalic, jugular, sural",
+      "Medial saphenous"
+    ],
+    "supporting_facts": "D11:10,D12:4",
+    "type": "th",
+    "label": "Medial saphenous (preferred first), cephalic, jugular, sural; medial saphenous is preferred for accessibility and safety"
+  },
+  {
+    "question": "For the reptile skin-infection case, what topical-medication application technique did Alex specify?",
+    "answer": [
+      "Spray Zylafen Topical Spray directly onto the infected skin (not via cloth), avoid eyes/mouth/nostrils, shake well before use, reapply after water exposure",
+      "Spray directly, avoid eyes/mouth, shake before use, reapply after water",
+      "Spray directly"
+    ],
+    "supporting_facts": "D8:3,D8:7",
+    "type": "th",
+    "label": "Spray Zylafen Topical Spray directly onto the infected skin (not via cloth), avoid eyes/mouth/nostrils, shake well before use, reapply after water exposure"
+  },
+  {
+    "question": "For the cat suspected-UTI case, what did Alex describe about urine-sample collection?",
+    "answer": [
+      "Either cystocentesis with a 22-25G needle (the gold standard for culture) or free-catch using non-absorbent litter such as NoSorb or Katkor, combined with Fear-Free handling — dim lighting, towel-wrap, and pre-visit gabapentin for anxious cats."
+    ],
+    "supporting_facts": "D7:2,D7:6",
+    "type": "th",
+    "label": "Either cystocentesis with a 22-25G needle (the gold standard for culture) or free-catch using non-absorbent litter such as NoSorb or Katkor, combined with Fear-Free handling — dim lighting, towel-wrap, and pre-visit gabapentin for anxious cats."
+  },
+  {
+    "question": "For the guinea pig dental disease case, what management approach did Alex describe across discussions?",
+    "answer": [
+      "A hay-dominant diet (Timothy hay at 75-80% of intake), weekly home weighing, an early oral exam with a small mouth gag and intraoral viewer, and a conservative occlusal trim under sedation using a dental burr — avoiding nail clippers because of fracture risk."
+    ],
+    "supporting_facts": "D10:5,D10:9",
+    "type": "th",
+    "label": "A hay-dominant diet (Timothy hay at 75-80% of intake), weekly home weighing, an early oral exam with a small mouth gag and intraoral viewer, and a conservative occlusal trim under sedation using a dental burr — avoiding nail clippers because of fracture risk."
+  },
+  {
+    "question": "A dog presents with vomiting, anorexia, and abdominal discomfort, plus a radiopaque object on abdominal X-ray. What is the most likely diagnosis Alex would arrive at?",
+    "answer": [
+      "Gastrointestinal foreign-body obstruction",
+      "Intestinal obstruction",
+      "Ileus"
+    ],
+    "supporting_facts": "D12:5",
+    "type": "th",
+    "label": "Gastrointestinal foreign-body obstruction"
+  },
+  {
+    "question": "If a recovering cat shows reluctance to eat plus redness and swelling at the surgical site, what should the owner be told to do?",
+    "answer": [
+      "Contact the vet immediately",
+      "Call the vet",
+      "Monitor at home"
+    ],
+    "supporting_facts": "D6:5,D13:4",
+    "type": "th",
+    "label": "Contact the vet immediately"
+  },
+  {
+    "question": "A dog's post-op temperature reads 104.2°F. Per Alex's traffic-light framework, what action should the owner take?",
+    "answer": [
+      "Call the vet (Red Light)",
+      "Monitor",
+      "Continue meds"
+    ],
+    "supporting_facts": "D5:8",
+    "type": "th",
+    "label": "Call the vet (Red Light)"
+  },
+  {
+    "question": "A cat shows reduced urine output through its catheter, dark cloudy urine, and signs of discomfort. What does this combination most likely indicate?",
+    "answer": [
+      "Catheter obstruction or infection requiring flushing or replacement",
+      "Catheter blockage",
+      "Dehydration"
+    ],
+    "supporting_facts": "D1:2",
+    "type": "th",
+    "label": "Catheter obstruction or infection requiring flushing or replacement"
+  },
+  {
+    "question": "A snake presents with lethargy, wheezing, rapid breathing, and nasal discharge. What category of issue is this and what is the FIRST step?",
+    "answer": [
+      "Respiratory distress; first step is an environmental check (temperature gradient and humidity)",
+      "Respiratory distress; environmental check",
+      "Respiratory distress"
+    ],
+    "supporting_facts": "D13:5",
+    "type": "th",
+    "label": "Respiratory distress; first step is an environmental check (temperature gradient and humidity)"
+  },
+  {
+    "question": "A hamster shows increased sneezing and lethargy. What should the owner be advised?",
+    "answer": [
+      "Bring the hamster in for an exam",
+      "Vet visit",
+      "In-person exam"
+    ],
+    "supporting_facts": "D7:7,D8:4",
+    "type": "th",
+    "label": "Bring the hamster in for an exam"
+  },
+  {
+    "question": "A leopard gecko shows scarring after stuck shed. What treatment would Alex recommend to support recovery?",
+    "answer": [
+      "Reptile-safe moisturizer, gentle warm-water soak, possibly vet-prescribed topical treatment",
+      "Moisturizer and warm-water soak",
+      "Topical treatment"
+    ],
+    "supporting_facts": "D4:9",
+    "type": "th",
+    "label": "Reptile-safe moisturizer, gentle warm-water soak, possibly vet-prescribed topical treatment"
+  },
+  {
+    "question": "An African Grey parrot shows worsening bald patches over time. What broad differential should be considered for chronic feather loss?",
+    "answer": [
+      "Stress, poor diet, hormonal imbalance, infection, or PBFD",
+      "Stress, nutrition, hormones, infection, PBFD",
+      "Stress and infection"
+    ],
+    "supporting_facts": "D9:8",
+    "type": "th",
+    "label": "Stress, poor diet, hormonal imbalance, infection, or PBFD"
+  },
+  {
+    "question": "A senior cat is going home after dental cleaning. Which daily home-care action should be prioritized to maintain dental health?",
+    "answer": [
+      "Daily tooth brushing with pet-safe toothpaste",
+      "Daily brushing",
+      "Dental treats"
+    ],
+    "supporting_facts": "D9:3,D15:4",
+    "type": "th",
+    "label": "Daily tooth brushing with pet-safe toothpaste"
+  },
+  {
+    "question": "A budgie's home oxygen setup needs to support long-term recovery. Should Alex recommend the smart breeding box or the temperature/ventilation control system, and why?",
+    "answer": [
+      "The temperature/ventilation control system, because it provides regulated temperature and humidity needed for long-term care",
+      "Ventilation system; for regulated environment",
+      "Ventilation system"
+    ],
+    "supporting_facts": "D2:5,D15:9",
+    "type": "th",
+    "label": "The temperature/ventilation control system, because it provides regulated temperature and humidity needed for long-term care"
+  },
+  {
+    "question": "An owner reports their cat is reluctant to eat after oral foreign-body surgery. Which two adjustments should Alex recommend?",
+    "answer": [
+      "Switch to soft food and watch for infection signs (redness, swelling, discharge)",
+      "Soft food and infection monitoring",
+      "Soft food"
+    ],
+    "supporting_facts": "D12:10,D13:4",
+    "type": "th",
+    "label": "Switch to soft food and watch for infection signs (redness, swelling, discharge)"
+  },
+  {
+    "question": "A puppy presents with red, irritated, licked patches of skin. Which category of disease is this most consistent with, and what is the initial treatment plan?",
+    "answer": [
+      "Allergic dermatitis; flea control, hypoallergenic elimination diet, antihistamines or short-course steroids, plus topical chlorhexidine for hot spots",
+      "Allergic dermatitis; flea control, hypoallergenic diet, antihistamines, topical chlorhexidine",
+      "Allergic dermatitis; hypoallergenic diet and antihistamines"
+    ],
+    "supporting_facts": "D10:10,D11:2",
+    "type": "th",
+    "label": "Allergic dermatitis; flea control, hypoallergenic elimination diet, antihistamines or short-course steroids, plus topical chlorhexidine for hot spots"
+  },
+  {
+    "question": "A cat's urinary catheter has just been removed. What dietary and lifestyle strategy should be put in place to prevent re-obstruction?",
+    "answer": [
+      "A wet-food urinary maintenance diet (e.g. Royal Canin Urinary SO or Hill's c/d Multicare), multiple clean litter boxes following the n+1 rule, environmental enrichment to reduce stress, and a 2-4 week recheck followed by 3-month rechecks for the first year."
+    ],
+    "supporting_facts": "D1:4,D1:7,D2:1,D2:3",
+    "type": "th",
+    "label": "A wet-food urinary maintenance diet (e.g. Royal Canin Urinary SO or Hill's c/d Multicare), multiple clean litter boxes following the n+1 rule, environmental enrichment to reduce stress, and a 2-4 week recheck followed by 3-month rechecks for the first year."
+  },
+  {
+    "question": "A rabbit recovering from GI stasis is still slow to eat. Beyond medication, what dietary additions can support recovery?",
+    "answer": [
+      "High-fiber hay, fresh greens (parsley, dandelion greens, carrot tops), pureed pumpkin, probiotics",
+      "Hay, greens, pumpkin, probiotics",
+      "Hay and pumpkin"
+    ],
+    "supporting_facts": "D2:7,D2:9,D15:5",
+    "type": "th",
+    "label": "High-fiber hay, fresh greens (parsley, dandelion greens, carrot tops), pureed pumpkin, probiotics"
+  },
+  {
+    "question": "For venipuncture in cats, if the medial saphenous vein is unavailable, which site is the next reasonable choice?",
+    "answer": [
+      "Cephalic vein",
+      "Jugular vein",
+      "Sural vein"
+    ],
+    "supporting_facts": "D12:4",
+    "type": "th",
+    "label": "Cephalic vein"
+  },
+  {
+    "question": "For a reptile skin-infection topical spray, what specific application technique should be followed?",
+    "answer": [
+      "Spray directly onto the affected area; avoid eyes, mouth, nostrils; shake before use; reapply after water exposure",
+      "Spray directly; avoid eyes/mouth; shake before use",
+      "Spray directly"
+    ],
+    "supporting_facts": "D8:3,D8:7",
+    "type": "th",
+    "label": "Spray directly onto the affected area; avoid eyes, mouth, nostrils; shake before use; reapply after water exposure"
+  },
+  {
+    "question": "For a hamster on antibiotic treatment, what environmental and dietary adjustments support comfort and recovery?",
+    "answer": [
+      "Clean cage without drafts, consistent temperature, soft bedding, easily digestible foods, fresh water",
+      "Clean cage, soft bedding, easy-to-digest food",
+      "Clean cage"
+    ],
+    "supporting_facts": "D8:2",
+    "type": "th",
+    "label": "Clean cage without drafts, consistent temperature, soft bedding, easily digestible foods, fresh water"
+  },
+  {
+    "question": "For post-op fever monitoring in a dog, what temperature warrants a vet call?",
+    "answer": [
+      "104.1°F or higher",
+      "Above 104°F",
+      "Above 103°F"
+    ],
+    "supporting_facts": "D5:8",
+    "type": "th",
+    "label": "104.1°F or higher"
+  },
+  {
+    "question": "A leopard gecko has poor shedding plus dry skin in the enclosure. What two husbandry interventions should Alex recommend?",
+    "answer": [
+      "Increase humidity to 40-60% via a humid hide with sphagnum moss; add daily misting and a shallow water dish",
+      "40-60% humidity with humid hide; daily misting",
+      "Misting"
+    ],
+    "supporting_facts": "D3:9,D4:3,D15:6",
+    "type": "th",
+    "label": "Increase humidity to 40-60% via a humid hide with sphagnum moss; add daily misting and a shallow water dish"
+  },
+  {
+    "question": "For a cat suspected of UTI, what stress-free urine sample-collection method did the assistant describe, including the litter type?",
+    "answer": [
+      "Free-catch using non-absorbent litter (NoSorb or Katkor) or smooth plastic pellets, with Fear-Free handling — dim lighting, towel-wrap, pre-visit gabapentin for anxious cats",
+      "Free-catch with non-absorbent litter (NoSorb or Katkor) plus Fear-Free handling",
+      "Non-absorbent litter (NoSorb / Katkor)"
+    ],
+    "supporting_facts": "D7:6",
+    "type": "th",
+    "label": "Free-catch using non-absorbent litter (NoSorb or Katkor) or smooth plastic pellets, with Fear-Free handling — dim lighting, towel-wrap, pre-visit gabapentin for anxious cats"
+  },
+  {
+    "question": "A senior cat is going home after dental cleaning. The owner asks about between-cleaning treats. What should Alex recommend?",
+    "answer": [
+      "Dental treats specifically formulated to reduce plaque and tartar buildup",
+      "Dental treats",
+      "Plaque-reducing treats"
+    ],
+    "supporting_facts": "D9:3",
+    "type": "th",
+    "label": "Dental treats specifically formulated to reduce plaque and tartar buildup"
+  },
+  {
+    "question": "A blocked cat post-catheter shows good urine output but signs of stress. What management does Alex recommend to maintain comfort?",
+    "answer": [
+      "Quiet stress-free environment, pain medication as prescribed, easy access to food and water, regular check-ups",
+      "Quiet environment, pain meds, food/water",
+      "Quiet environment"
+    ],
+    "supporting_facts": "D1:2",
+    "type": "th",
+    "label": "Quiet stress-free environment, pain medication as prescribed, easy access to food and water, regular check-ups"
+  },
+  {
+    "question": "Alex was choosing between two home setups for a recovering budgie. Which device did the assistant endorse for long-term use?\n(A) A standalone humidifier\n(B) A small heat lamp\n(C) A temperature and ventilation control system\n(D) A smart breeding box\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D2:5",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "For the rabbit's recovery diet, which probiotic genera and adjunct food did the assistant recommend?\n(A) Lactobacillus and Salmonella; pureed pumpkin pie filling\n(B) Lactobacillus and Bifidobacterium; a small amount of pureed pumpkin (not pie filling)\n(C) Lactobacillus only; raw garlic\n(D) Bifidobacterium only; mashed banana\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D2:9",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "What humidity range and humid-hide material did the assistant recommend for preventing stuck sheds in leopard geckos?\n(A) Below 30% humidity, dry shavings\n(B) 70-90% humidity, coconut fiber only\n(C) 20-30% humidity, sand substrate\n(D) 40-60% humidity, sphagnum moss or damp paper towels\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D3:9",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "When the assistant simplified post-operative fever monitoring with a traffic-light scheme, what were the three thresholds for dogs?\n(A) Green 100-103°F, Yellow 103.1-105°F, Red 105.1°F+\n(B) Green 98-100°F, Yellow 100.1-102°F, Red 102.1°F+\n(C) Green 99-102.5°F, Yellow 102.6-104°F, Red 104.1°F+\n(D) Green 99-101°F, Yellow 101.1-103°F, Red 103.1°F+\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D5:8",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "What did the assistant recommend for cleaning the dog's deep laceration after suturing?\n(A) Mild antiseptic solution or saline; avoid harsh chemicals or soaps\n(B) Iodine scrub followed by a rubbing-alcohol rinse\n(C) Hydrogen peroxide flushes twice daily\n(D) Plain tap water with dish soap\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D6:5",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "Which two pet thermometer brands did the assistant recommend?\n(A) iProvèn PET-135 and Boknight\n(B) Braun and Omron\n(C) VEttemp and AccuTouch\n(D) Welch Allyn and Littmann\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D6:7",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "Which stethoscope models did the assistant recommend?\n(A) Riester Duplex and Ultrascope Pediatric\n(B) Littmann Classic III and 3M Littmann Cardiology IV\n(C) Welch Allyn Harvey and Eko CORE\n(D) MDF Acoustica and ADC Adscope\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D7:4",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "What two instructions did the assistant cite from the Zylafen Topical Spray label?\n(A) Dilute with water before spraying; apply only at night\n(B) Shake well before use; reapply after exposure to water\n(C) Refrigerate before use; apply only once weekly\n(D) Store at room temperature; do not reapply for 48 hours\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D8:7",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "Which grooming brushes did the assistant recommend?\n(A) Andis Slimline for dogs and KONG ZoomGroom for cats\n(B) FURminator for dogs and Petstages Comfort Brush for cats\n(C) Hertzko Self-Cleaning for dogs and Furrylicious for cats\n(D) Oster Classic for dogs and Safari Cat Brush for cats\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D12:8",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "Combining the senior-cat dental session with Alex's later case-log recap, which scaler was used and what was the home-care plan?\n(A) A hand scaler; weekly chlorhexidine rinses only\n(B) An ARSUK ultrasonic scaler; daily brushing with pet-safe toothpaste, dental treats, and a water additive\n(C) A piezoelectric scaler from iM3; quarterly professional cleanings only, no home brushing\n(D) An ultrasonic scaler from Cislo; monthly tartar-removing chews and no brushing\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D8:8,D15:4",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "Across the otoscope recommendation and the techs' standardization recap, which otoscope is Alex's standard?\n(A) Riester ri-scope L\n(B) ADC Diagnostix 5110\n(C) Heine BETA 200\n(D) Welch Allyn PocketScope\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D11:1,D15:2",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "Across the glove discussions and the standardization recap, which two surgical-glove brands does the clinic stock?\n(A) Cardinal and Halyard (latex)\n(B) Sempermed and Curad (vinyl)\n(C) Medline and Kimberly-Clark (latex)\n(D) Ansell and microFlex (nitrile)\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D7:8,D8:1,D15:2",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "When the budgie home-oxygen choice came up again in the recap, which device did the assistant reaffirm and what add-on did it pair with?\n(A) The smart breeding box, paired with a wall-mounted thermometer\n(B) A standalone oxygen concentrator, paired with a portable mister\n(C) The temperature and ventilation control system, paired with a clip-on hygrometer\n(D) The smart breeding box, paired with a USB humidifier\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D2:5,D15:9",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "Putting the leopard-gecko shedding advice together with the husbandry-guide recap, what is the standard humidity range and which substrate is to be AVOIDED during recovery?\n(A) 20-40% humidity; avoid sphagnum moss\n(B) 60-80% humidity; avoid reptile carpet\n(C) 40-60% humidity; avoid loose particulate substrates\n(D) Above 80% humidity; avoid paper towels\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D3:8,D15:6",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "Across the snake-respiratory-distress workup and the front-desk triage recap, what is the FIRST triage step and the target humidity range?\n(A) Administer subcutaneous fluids first; humidity 30-50%\n(B) Place the snake in cold water first; humidity 80-95%\n(C) Refer immediately for X-rays before any environmental check; humidity 20-40%\n(D) Environmental check (temperature gradient + humidity) first; humidity 50-70%\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D13:5,D13:9,D15:7",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "Combining the wound-care advice with the techs' quick-reference card, which three signs should ALWAYS escalate to Alex?\n(A) Redness/swelling/discharge at the site; refusal to eat; temperature outside 100.5-102.5°F\n(B) Restless sleep, mild itching, drinking more water\n(C) Slightly slow walking, mild appetite drop, pink tongue\n(D) Whining at night, sneezing, soft stool\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D6:5,D15:3",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "Combining the male-cat neuter procedure discussion with the post-op comfort discussion, what does Alex's neuter procedure for a male cat involve and how is the cat kept comfortable?\n(A) A laparoscopic abdominal procedure under local anesthesia only\n(B) A small incision near the scrotum to remove the testicles, with the cat under general anesthesia\n(C) An ovariohysterectomy under general anesthesia\n(D) A flank incision under sedation only, no general anesthesia\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D11:5,D11:9",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "Combining the venipuncture procedure round with the venipuncture-site discussion, which site is recommended FIRST and which is reserved for larger volumes?\n(A) Jugular first; cephalic for larger volumes\n(B) Sural first; jugular for larger volumes\n(C) Medial saphenous first; jugular for larger volumes\n(D) Cephalic first; medial saphenous for larger volumes\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D11:10,D12:4",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "Putting the radiograph reading together with the next-steps discussion, what did the assistant recommend for the dog with a gastrointestinal foreign-body obstruction?\n(A) Surgical intervention; conservative measures unlikely to resolve the obstruction\n(B) Inducing vomiting with apomorphine\n(C) Endoscopic retrieval as a first-line attempt before surgery\n(D) A 48-hour trial of fluid therapy and pain management alone\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D12:5,D12:9",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "Across the cat oral-surgery follow-up and the master-case recap PDF, what dietary change and which infection signs were specified?\n(A) Switch to a hard kibble diet; watch only for vomiting\n(B) Maintain regular kibble; watch only for diarrhea\n(C) Switch to soft food if there is swelling or pain; watch for redness, swelling, discharge, and reluctance to eat\n(D) Switch to a raw diet; watch for excessive grooming\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D12:10,D15:10",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "Cross-referencing the first dialogue with Alex's master case log, what was the date of the parvovirus puppy case?\n(A) 2023-09-12\n(B) 2023-10-05\n(C) 2023-08-30\n(D) 2023-09-05\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D1:1,D15:11",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "When did Alex perform the venipuncture on the cat with suspected liver disease, per the master log?\n(A) 2023-10-23\n(B) 2023-10-15\n(C) 2023-11-02\n(D) 2023-09-23\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D11:10,D15:12",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "On what date did the senior-cat dental cleaning take place, per the October recap?\n(A) 2023-10-21\n(B) 2023-09-30\n(C) 2023-10-27\n(D) 2023-10-10\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D8:8,D15:12",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "Per the case timeline, when did Alex see the snake in respiratory distress?\n(A) 2023-10-29\n(B) 2023-10-19\n(C) 2023-11-02\n(D) 2023-09-29\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D13:5,D15:12",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "From the case timeline overview, what is the chronological order of the parvo puppy, blocked cat, and rabbit gut-stasis cases?\n(A) Cat → puppy → rabbit\n(B) Puppy → cat → rabbit\n(C) Rabbit → puppy → cat\n(D) Puppy → rabbit → cat\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "B"
+    ],
+    "supporting_facts": "D15:8,D15:11",
+    "type": "fj",
+    "label": "B"
+  },
+  {
+    "question": "Combining the master case log with the running-total recap, what are the FIRST entry and the MOST RECENT entry?\n(A) First: rabbit GI stasis (2023-09-12); Most recent: euthanasia conversation (2023-10-31)\n(B) First: parvovirus puppy (2023-09-05); Most recent: dog laceration suture (2023-09-30)\n(C) First: blocked cat (2023-09-10); Most recent: snake respiratory distress (2023-10-29)\n(D) First: parvovirus puppy (2023-09-05); Most recent: reflection on a happy pet visit (2023-11-02)\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "D"
+    ],
+    "supporting_facts": "D15:11,D15:13",
+    "type": "fj",
+    "label": "D"
+  },
+  {
+    "question": "What is the running total of distinct cases and the date span Alex reports across the master log?\n(A) 25 cases from 2023-09-05 through 2023-11-02\n(B) 20 cases from 2023-09-12 through 2023-10-31\n(C) 15 cases from 2023-10-01 through 2023-11-02\n(D) 30 cases from 2023-08-29 through 2023-11-15\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D15:11,D15:12,D15:13",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "Per the master log, which case happened FIRST, and how many days apart are the two?\n(A) The rabbit GI-stasis case, by about 47 days\n(B) The two happened on the same day\n(C) The snake respiratory-distress case, by about 47 days\n(D) The rabbit GI-stasis case, by about 10 days\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "A"
+    ],
+    "supporting_facts": "D15:11,D15:12",
+    "type": "fj",
+    "label": "A"
+  },
+  {
+    "question": "Putting the rabbit gut-stasis treatment together with the master-case recap PDF, which combination accurately describes the protocol?\n(A) Metoclopramide alone + dry pellets only\n(B) Cisapride + force-feeding pellets + bananas only\n(C) Metoclopramide + syringe-feeding + high-fiber hay, fresh greens (parsley/dandelion/carrot tops), and a small amount of pureed pumpkin\n(D) Maropitant + IV fluids only + restricted hay\nOutput only the letter of the correct option (A, B, C, or D).",
+    "answer": [
+      "C"
+    ],
+    "supporting_facts": "D2:9,D15:5",
+    "type": "fj",
+    "label": "C"
+  },
+  {
+    "question": "What role does Alex most likely hold Tbeyond simply being a veterinarian?",
+    "answer": [
+      "lead clinician",
+      "senior clinician",
+      "practice owner"
+    ],
+    "supporting_facts": "D12:6,D15:2,D15:3",
+    "type": "ii",
+    "label": "lead clinician"
+  },
+  {
+    "question": "Considering the species mix Alex sees (puppies, cats, rabbits, budgies, bearded dragons, leopard geckos, snakes, hamsters, guinea pigs, ferrets, parrots), what type of veterinary practice does Alex most plausibly run?",
+    "answer": [
+      "a mixed / general practice handling small animals and exotic pets",
+      "mixed practice",
+      "general practice with exotics",
+      "small-animal and exotic practice"
+    ],
+    "supporting_facts": "D1:1,D2:5,D3:7,D4:4,D9:8,D13:5,D8:2",
+    "type": "ii",
+    "label": "a mixed / general practice handling small animals and exotic pets"
+  },
+  {
+    "question": "When Alex encounters cases beyond routine care (avian feather loss, snake respiratory distress, GI obstruction), Alex repeatedly refers owners to outside expertise. What does this tell you about the level of Alex's clinic in the veterinary care hierarchy?",
+    "answer": [
+      "a general / primary-care clinic, not a specialty or referral hospital",
+      "primary care clinic",
+      "general practice clinic",
+      "not a specialty hospital",
+      "general-practice clinic"
+    ],
+    "supporting_facts": "D9:4,D12:9,D13:5",
+    "type": "ii",
+    "label": "a general / primary-care clinic, not a specialty or referral hospital"
+  },
+  {
+    "question": "From the post-operative fever case in late September that brought Alex back to the clinic at night, what can you infer about Alex's clinic's after-hours coverage?",
+    "answer": [
+      "the clinic provides after-hours / on-call coverage",
+      "after-hours on-call coverage",
+      "on-call after hours",
+      "after-hours coverage available"
+    ],
+    "supporting_facts": "D5:8",
+    "type": "ii",
+    "label": "the clinic provides after-hours / on-call coverage"
+  },
+  {
+    "question": "From the way Alex prepares handouts, traffic-light temperature charts, and 'simple, clear language' instructions for owners, what kind of clientele does Alex's clinic primarily serve?",
+    "answer": [
+      "lay pet owners with limited prior veterinary knowledge",
+      "lay pet owners",
+      "ordinary pet owners",
+      "non-professional pet owners",
+      "general public pet owners"
+    ],
+    "supporting_facts": "D5:2,D5:8,D6:6,D9:3",
+    "type": "ii",
+    "label": "lay pet owners with limited prior veterinary knowledge"
+  },
+  {
+    "question": "Across multiple sessions Alex consistently produces written care sheets, step-by-step guides, traffic-light scales, and quick-reference cards rather than improvising verbal advice. What style of clinical communication does this pattern reveal?",
+    "answer": [
+      "a structured, documentation-oriented style",
+      "structured and documentation-oriented",
+      "written and standardised",
+      "documentation-driven communication"
+    ],
+    "supporting_facts": "D5:5,D5:8,D6:6,D9:3,D15:3",
+    "type": "ii",
+    "label": "a structured, documentation-oriented style"
+  },
+  {
+    "question": "Multiple times Alex slips into first-person comments like 'my cat' being a picky eater, lethargic, or stubborn about dental care. What does this imply about Alex's personal life?",
+    "answer": [
+      "Alex personally owns a cat at home",
+      "Alex owns a cat",
+      "Alex has a cat",
+      "Alex is a cat owner"
+    ],
+    "supporting_facts": "D3:3,D3:4,D9:6,D14:1",
+    "type": "ii",
+    "label": "Alex personally owns a cat at home"
+  },
+  {
+    "question": "When Alex considers adopting another pet, the hint Alex gives about living arrangements — never directly stated — is what?",
+    "answer": [
+      "Alex lives in an apartment",
+      "lives in an apartment",
+      "in an apartment, not a house",
+      "small-space dwelling"
+    ],
+    "supporting_facts": "D13:8",
+    "type": "ii",
+    "label": "Alex lives in an apartment"
+  },
+  {
+    "question": "From the recurring questions about quick errands, late shifts, snacks for techs, and grocery runs squeezed between appointments, what can be inferred about Alex's day-to-day pace?",
+    "answer": [
+      "a busy, time-pressured schedule with errands squeezed between or after clinical work",
+      "busy, time-pressured",
+      "very busy schedule",
+      "time-poor and busy"
+    ],
+    "supporting_facts": "D9:2,D12:6,D13:1,D13:3,D13:6",
+    "type": "ii",
+    "label": "a busy, time-pressured schedule with errands squeezed between or after clinical work"
+  },
+  {
+    "question": "Beyond clinical questions, Alex repeatedly raises topics like work-life balance, emotional drain from heartbreaking cases, and connection with owners' families. What does this reveal about the emotional toll of Alex's work?",
+    "answer": [
+      "Alex experiences significant emotional / compassion stress and actively seeks coping strategies",
+      "significant emotional toll, seeks coping",
+      "emotional and compassion-related stress",
+      "high emotional load with active coping"
+    ],
+    "supporting_facts": "D13:10,D14:5,D14:9",
+    "type": "ii",
+    "label": "Alex experiences significant emotional / compassion stress and actively seeks coping strategies"
+  },
+  {
+    "question": "Alex repeatedly buys snacks for staff, makes reference cards for them, and standardises supplies for new hires. What kind of leadership posture toward the team does this consistently project?",
+    "answer": [
+      "a supportive / nurturing leadership posture toward the team",
+      "supportive leadership",
+      "nurturing and team-focused leadership",
+      "people-first leadership"
+    ],
+    "supporting_facts": "D12:6,D13:1,D15:2,D15:3",
+    "type": "ii",
+    "label": "a supportive / nurturing leadership posture toward the team"
+  },
+  {
+    "question": "When facing the dog with a foreign-body obstruction, the snake in respiratory distress, and the post-op fever education, Alex consistently chose one type of clinical posture. How would you characterise it?",
+    "answer": [
+      "cautious / risk-averse, preferring prompt definitive action over wait-and-see",
+      "risk-averse and proactive",
+      "cautious, prefers prompt action",
+      "low-tolerance for wait-and-see"
+    ],
+    "supporting_facts": "D5:8,D12:9,D13:5,D13:9",
+    "type": "ii",
+    "label": "cautious / risk-averse, preferring prompt definitive action over wait-and-see"
+  },
+  {
+    "question": "Without listing dates, what calendar season does Alex's two-month documented caseload fall in?",
+    "answer": [
+      "autumn / fall",
+      "autumn",
+      "fall"
+    ],
+    "supporting_facts": "D15:11,D15:12,D15:13",
+    "type": "ii",
+    "label": "autumn / fall"
+  },
+  {
+    "question": "What is the smallest staffing configuration Alex's clinic must have, based on cumulative clues across sessions?",
+    "answer": [
+      "Alex plus multiple veterinary technicians",
+      "Alex and several techs",
+      "at least Alex and multiple techs",
+      "Alex and a team of techs"
+    ],
+    "supporting_facts": "D12:6,D13:1,D15:2,D15:3",
+    "type": "ii",
+    "label": "Alex plus multiple veterinary technicians"
+  },
+  {
+    "question": "What core belief about pet owners does Alex appear to act on, judging by how Alex chooses to present clinical information?",
+    "answer": [
+      "that owners are capable partners in care if information is given clearly and structured, not overwhelming",
+      "owners are capable partners in care",
+      "owners can perform good home care if given structured information",
+      "treats owners as partners not passive recipients"
+    ],
+    "supporting_facts": "D5:2,D5:7,D5:8,D6:6",
+    "type": "ii",
+    "label": "that owners are capable partners in care if information is given clearly and structured, not overwhelming"
+  }
+]

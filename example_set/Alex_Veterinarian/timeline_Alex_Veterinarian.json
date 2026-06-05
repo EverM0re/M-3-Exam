@@ -1,0 +1,184 @@
+[
+  {
+    "Event_Index": 0,
+    "Event_Type": "Persona",
+    "Event_Description": "Alex is a small-animal veterinarian running day-to-day clinical practice across a broad caseload — dogs, cats, and exotics. He is the head clinician of the pet hospital and teahches technics to his techs. Alex takes his work very seriously and documents cases photographically and reasons carefully through species-specific care. He is aalso a caring cat owner and a big fan of snacks.",
+    "core_event": "Alex moves through a full spectrum of cases — a parvovirus puppy, a blocked cat needing a urinary catheter, an oxygen-dependent budgie, a dehydrated bearded dragon, a car-struck stray kitten, post-operative complications, and surgical foreign-body and laceration management — interleaved with hard owner conversations about treatment costs and end-of-life decisions while teaching and caring for his techs and assistants, closing with a reflective gratitude for the rewarding moments amid the difficulty.",
+    "Event_Time": "2023-09-05"
+  },
+  {
+    "Event_Index": 1,
+    "Event_Description": "Alex examines a lethargic puppy suspected of canine parvovirus.",
+    "Query_Description": "Alex shares photos of the puppy and asks how to treat a puppy with parvovirus.",
+    "Event_Time": "2023-09-05",
+    "Keyword": "lethargic puppy with parvo suspicion at veterinary clinic"
+  },
+  {
+    "Event_Index": 2,
+    "Event_Description": "A blocked cat presents; Alex places a urinary catheter.",
+    "Query_Description": "Alex shares photos of the blocked cat and asks how to maintain hydration and how to treat feline urinary obstruction.",
+    "Event_Time": "2023-09-10",
+    "Keyword": "cat with urinary obstruction under treatment"
+  },
+  {
+    "Event_Index": 3,
+    "Event_Description": "A rabbit with gastrointestinal stasis is seen; Alex administers medications.",
+    "Query_Description": "Alex shares photos of the rabbit and asks how best to stimulate gastrointestinal motility.",
+    "Event_Time": "2023-09-12",
+    "Keyword": "rabbit with GI stasis"
+  },
+  {
+    "Event_Index": 4,
+    "Event_Description": "A budgie is working hard to breathe and requires oxygen therapy.",
+    "Query_Description": "Alex shares photos of the budgie in an oxygen chamber and asks for long-term care advice.",
+    "Event_Time": "2023-09-15",
+    "Keyword": "budgie in oxygen chamber"
+  },
+  {
+    "Event_Index": 5,
+    "Event_Description": "A dehydrated bearded dragon receives fluid therapy and close monitoring.",
+    "Query_Description": "Alex shares photos of the bearded dragon and asks about fluid therapy protocols.",
+    "Event_Time": "2023-09-18",
+    "Keyword": "dehydrated bearded dragon at the hospital"
+  },
+  {
+    "Event_Index": 6,
+    "Event_Description": "Alex takes a call from an owner who followed an incorrect online dose.",
+    "Query_Description": "Alex shares photos of a leopard gecko shedding poorly and asks how calcium and vitamin supplementation should be scheduled for leopard geckos.",
+    "Event_Time": "2023-09-20",
+    "Keyword": "leopard gecko with difficult shed"
+  },
+  {
+    "Event_Index": 7,
+    "Event_Description": "A stray kitten hit by a car arrives; Alex provides emergency stabilization.",
+    "Query_Description": "Alex shares photos of the patient and asks how to perform an initial trauma assessment.",
+    "Event_Time": "2023-09-22",
+    "Keyword": "injured stray kitten hit by a car"
+  },
+  {
+    "Event_Index": 8,
+    "Event_Description": "Alex meets with an owner in the office for an honest discussion of chronic disease costs.",
+    "Query_Description": "Alex shares photos from the consultation and asks how to clearly explain drug use and dosing to clients.",
+    "Event_Time": "2023-09-25",
+    "Keyword": "veterinarian and owner discussing treatment in the office"
+  },
+  {
+    "Event_Index": 9,
+    "Event_Description": "A night page brings Alex back to the clinic for post-operative fever in a patient.",
+    "Query_Description": "Alex shares a temperature log screenshot and asks how to manage post-operative fever.",
+    "Event_Time": "2023-09-27",
+    "Keyword": "thermometer reading high fever in a dog"
+  },
+  {
+    "Event_Index": 10,
+    "Event_Description": "Alex debrides and sutures a dog’s deep laceration.",
+    "Query_Description": "Alex shares photos of the wound and asks for wound-care priorities.",
+    "Event_Time": "2023-09-30",
+    "Keyword": "veterinarian in gloves suturing a dog’s wound"
+  },
+  {
+    "Event_Index": 11,
+    "Event_Description": "A cat with suspected urinary tract infection is examined and treated.",
+    "Query_Description": "Alex shares photos of the urine sample and asks for treatment options.",
+    "Event_Time": "2023-10-03",
+    "Keyword": "veterinary lab cat urine sample cup"
+  },
+  {
+    "Event_Index": 12,
+    "Event_Description": "A hamster with respiratory infection receives antibiotics.",
+    "Query_Description": "Alex shares photos of the hamster and asks how to monitor breathing.",
+    "Event_Time": "2023-10-05",
+    "Keyword": "veterinarian examining a hamster"
+  },
+  {
+    "Event_Index": 13,
+    "Event_Description": "A reptile with skin infection is treated with topical medication.",
+    "Query_Description": "Alex shares photos of the skin lesions and asks for application technique.",
+    "Event_Time": "2023-10-08",
+    "Keyword": "veterinarian applying topical medication to a lizard skin lesion"
+  },
+  {
+    "Event_Index": 14,
+    "Event_Description": "Alex performs a dental cleaning on a senior cat.",
+    "Query_Description": "Alex shares photos of the teeth and asks for post-cleaning care.",
+    "Event_Time": "2023-10-10",
+    "Keyword": "veterinary dental cleaning on a senior cat"
+  },
+  {
+    "Event_Index": 15,
+    "Event_Description": "An owner brings a parrot with feather-plucking behavior.",
+    "Query_Description": "Alex shares photos of the parrot and asks for behavioral-management advice.",
+    "Event_Time": "2023-10-12",
+    "Keyword": "veterinarian examining a parrot with feather loss"
+  },
+  {
+    "Event_Index": 16,
+    "Event_Description": "A ferret with ear disease is treated with ear drops.",
+    "Query_Description": "Alex shares photos of the ears and asks for instillation tips.",
+    "Event_Time": "2023-10-15",
+    "Keyword": "veterinarian examining ferret ear canal"
+  },
+  {
+    "Event_Index": 17,
+    "Event_Description": "A guinea pig with dental disease is assessed for referral to a specialist.",
+    "Query_Description": "Alex shares photos of the teeth and asks how to manage guinea pig dental disease.",
+    "Event_Time": "2023-10-17",
+    "Keyword": "veterinary guinea pig oral and dental examination"
+  },
+  {
+    "Event_Index": 18,
+    "Event_Description": "Alex treats a dog with severe allergic skin disease.",
+    "Query_Description": "Alex shares photos of the skin and asks about allergen management.",
+    "Event_Time": "2023-10-19",
+    "Keyword": "veterinarian examining a dog with allergic dermatitis"
+  },
+  {
+    "Event_Index": 19,
+    "Event_Description": "An owner brings a male kitten in for neutering.",
+    "Query_Description": "Alex shares photos from the neuter procedure and asks what post-operative care to prioritize.",
+    "Event_Time": "2023-10-21",
+    "Keyword": "male kitten undergoing neuter surgery"
+  },
+  {
+    "Event_Index": 20,
+    "Event_Description": "A cat with suspected liver disease has blood drawn for testing.",
+    "Query_Description": "Alex shares photos taken during venipuncture and asks for diagnostic reasoning.",
+    "Event_Time": "2023-10-23",
+    "Keyword": "veterinary cat leg venipuncture"
+  },
+  {
+    "Event_Index": 21,
+    "Event_Description": "Alex manages a dog with gastrointestinal foreign-body obstruction.",
+    "Query_Description": "Alex shares radiograph images and asks how to manage the obstruction.",
+    "Event_Time": "2023-10-25",
+    "Keyword": "veterinary dog abdominal X-ray foreign body"
+  },
+  {
+    "Event_Index": 22,
+    "Event_Description": "Alex performs minor oral surgery to remove a foreign body from a cat’s mouth.",
+    "Query_Description": "Alex shares photos of the surgical site and asks for post-operative care.",
+    "Event_Time": "2023-10-27",
+    "Keyword": "cat oral surgery foreign body removal"
+  },
+  {
+    "Event_Index": 23,
+    "Event_Description": "An owner brings in a snake showing respiratory distress.",
+    "Query_Description": "Alex shares photos of the snake and asks for treatment planning.",
+    "Event_Time": "2023-10-29",
+    "Keyword": "snake with respiratory distress"
+  },
+  {
+    "Event_Index": 24,
+    "Event_Description": "Alex has a difficult discussion with an owner about euthanasia for an elderly dog.",
+    "Query_Description": "Alex shares photos of the senior dog and asks how to provide emotional support.",
+    "Event_Time": "2023-10-31",
+    "Keyword": "senior dog with a grieving owner"
+  },
+  {
+    "Event_Index": 25,
+    "Event_Description": "Alex reflects on the week’s challenges and feels gratitude for rewarding moments.",
+    "Query_Description": "Alex shares a photo of a happy pet and asks about maintaining work-life balance.",
+    "Event_Time": "2023-11-02",
+    "Keyword": "veterinarian with a happy wagging dog"
+  }
+]
