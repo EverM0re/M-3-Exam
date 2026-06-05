@@ -1,0 +1,60 @@
+# ============================================================================
+# M3Exam — runtime dependencies
+# ============================================================================
+# Install with:
+#     pip install -r requirements.txt
+#
+# Tested on Python 3.10+. Some of the per-baseline packages below (mem0ai,
+# lightrag-hku, nano-graphrag, etc.) pin transitively into torch/transformers;
+# install them in a clean virtualenv to avoid version conflicts.
+
+# ----------------------------------------------------------------------------
+# Core (required by config loader, LLM client, evaluation harness, M3Proctor)
+# ----------------------------------------------------------------------------
+openai>=1.0
+PyYAML>=6.0
+numpy>=1.24
+Pillow>=10.0                  # PIL — vision payload encoding
+PyMuPDF>=1.24                 # fitz — PDF text + page rendering
+sentence-transformers>=2.7    # local text embeddings (default: thenlper/gte-base)
+tqdm>=4.65
+
+# ----------------------------------------------------------------------------
+# Optional core extras
+# ----------------------------------------------------------------------------
+# Image crawling for thematic dialogue generation (only used by
+# functions/thematic/thematic_pipeline.py when running the data pipeline).
+icrawler>=0.6.7 ; python_version < '3.13'
+
+# OCR fallback for PDF text extraction in some baseline adapters.
+pytesseract>=0.3.10
+
+# ----------------------------------------------------------------------------
+# Required by specific baselines (skip the lines for methods you won't run)
+# ----------------------------------------------------------------------------
+# UniversalRAG uses sklearn for cosine similarity.
+scikit-learn>=1.3
+
+# Mirix evaluator uses pytz for timezone handling.
+pytz>=2023.3
+
+# Mem0 (text / visual modes) — Mem0Evaluator imports `mem0`.
+mem0ai>=0.1.0
+
+# nano-graphrag — naive RAG baseline.
+nano-graphrag>=0.0.6
+
+# MemVerse / RAG-Anything build on top of LightRAG.
+# Install only when running these baselines:
+# lightrag-hku>=1.4.0
+
+# Required by some upstream baseline implementations (torch/transformers
+# stack). Pin to your CUDA/CPU build of choice — install separately rather
+# than letting pip resolve it.
+# torch>=2.1
+# transformers>=4.40
+# faiss-cpu>=1.7         # or faiss-gpu, depending on platform
+# FlagEmbedding>=1.2     # for BGE-M3 (MemoryOS optional)
+# litellm>=1.40          # A-Mem internal LLM router
+# rank-bm25>=0.2.2       # A-Mem retriever
+# nltk>=3.8              # A-Mem tokenization

@@ -17,11 +17,12 @@
 
 </h5>
 
-This is the official project repository for **M<sup>3</sup>Exam**.
-
-M<sup>3</sup>Exam is a novel query-centric multimodal conversational QA benchmark built on realistic user-agent interactions, enabling balanced multi-dimensional evaluation across multimodal memorizing, cross-modal reasoning, and implicit-intent interpreting over long-horizon histories of dialogue, images, and documents. We further propose **M<sup>3</sup>Proctor**, a modality-aware multimodal memory method that detects query modality bias and escalates to raw visual sources only on demand through a cost-aware cascade, enabling efficient multimodal evidence management with selective rather than indiscriminate visual injection.
+This is the official project repository for **M<sup>3</sup>Exam: Benchmarking Multimodal Memory for Realistic
+User-Agent Interactions**.
 
 ## 📦 Dataset: M<sup>3</sup>Exam
+
+M<sup>3</sup>Exam is a novel query-centric multimodal conversational QA benchmark built on realistic user-agent interactions, enabling balanced multi-dimensional evaluation across multimodal memorizing, cross-modal reasoning, and implicit-intent interpreting over long-horizon histories of dialogue, images, and documents. We further propose **M<sup>3</sup>Proctor**, a modality-aware multimodal memory method that detects query modality bias and escalates to raw visual sources only on demand through a cost-aware cascade, enabling efficient multimodal evidence management with selective rather than indiscriminate visual injection.
 
 A ready-to-inspect example persona lives under [example_set/](example_set/). Each persona directory has the following layout:
 
@@ -34,44 +35,15 @@ A ready-to-inspect example persona lives under [example_set/](example_set/). Eac
 └── pdfs/                         # PDF documents shared in the dialogue
 ```
 
-### Data Format
+## 🧠 Method: M<sup>3</sup>Proctor
 
-**`sessions.json`** — a list of dated sessions, each holding a list of dialogue rounds:
+M<sup>3</sup>Proctor is our modality-aware memory method, packaged under [m3proctor/](m3proctor/). Built on a naive-RAG backbone, it adds round-level chunking, session-summary chunks, PDF text-layer extraction, VLM captions for images, a query-side modality classifier, and modality-aware re-ranking, followed by a two-stage cascade answerer that escalates to images / rendered PDF pages **only when the text-only answer is not confident enough**.
 
-```json
-[
-  {
-    "session_id": "D1",
-    "date": "2023-04-01",
-    "dialogues": [
-      {
-        "round": "D1:1",
-        "user": "I just started working at an amazing specialty coffee shop ...",
-        "assistant": "Congratulations on your new apprenticeship! For a classic latte ...",
-        "img_file": ["img_1.jpg", "img_2.jpg"],
-        "img_id": [1, 2],
-        "img_description": "A photo of the coffee bar menu at a specialty coffee shop ..."
-      }
-    ]
-  }
-]
+```bash
+# Quickstart
+python -m m3exam.m3proctor.run --dataset Noah_BaristaApprentice
 ```
 
-Rounds that reference a document carry the analogous `pdf_file` field; rounds without attachments simply omit the visual keys.
-
-**`question.json`** — a flat list of annotated questions:
-
-```json
-[
-  {
-    "question": "Find the very first photo Noah shared — a café chalkboard menu ...",
-    "answer": ["img_1.jpg"],
-    "supporting_facts": "D1:1",
-    "type": "fm",
-    "label": "img_1.jpg"
-  }
-]
-```
 
 ## 🚀 Get Started
 
@@ -92,7 +64,20 @@ bash baselines/scripts/setup_upstream.sh amem mirix
 bash baselines/scripts/setup_upstream.sh --list
 ```
 
-The script clones each upstream's default branch (no version pinning). `mem0` and `nano_graphrag` are pip-installable and need no clone — see [baselines/README.md](baselines/README.md) for the matching `pip install` commands and per-baseline extras.
+The script clones each upstream's default branch (no version pinning). `mem0` and `nano_graphrag` are pip-installable and need no clone — see [baselines/README.md](baselines/README.md) for the matching `pip install` commands and per-baseline extras. We have incorporated several baseline methods and benchmark datasets:
+
+| Baseline | Paper | Code |
+| -------- | ----- | ---- |
+| NaiveRAG | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) | [nano-graphrag](https://github.com/gusye1234/nano-graphrag) |
+| A-Mem | [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) | [A-Mem](https://github.com/WujiangXu/A-mem) |
+| Mem0  | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) | [Mem0](https://github.com/mem0ai/mem0) |
+| MemoryOS | [Memory OS of AI Agent](https://aclanthology.org/2025.emnlp-main.1318.pdf) | [MemoryOS](https://github.com/BAI-LAB/MemoryOS) |
+| UniversalRAG | [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](https://arxiv.org/abs/2504.20734) | [UniversalRAG](https://github.com/wgcyeo/UniversalRAG) |
+| RAG-Anything | [RAG-Anything: All-in-One RAG Framework](https://arxiv.org/abs/2510.12323) | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) |
+| MIRIX | [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957) | [MIRIX](https://github.com/Mirix-AI/MIRIX) |
+| MemVerse | [MemVerse: Multimodal Memory for Lifelong Learning Agents](https://arxiv.org/abs/2512.03627) | [MemVerse](https://github.com/KnowledgeXLab/MemVerse) |
+| NGM (Neural Graph Memory) | [Neural Graph Memory: A Structured Approach to Long-Term Memory in Multimodal Agents](https://www.researchgate.net/profile/Matt-Fisher-7/publication/394440420_Neural_Graph_Memory_A_Structured_Approach_to_Long-Term_Memory_in_Multimodal_Agents/links/689ab8c337b271210509c20f/Neural-Graph-Memory-A-Structured-Approach-to-Long-Term-Memory-in-Multimodal-Agents.pdf) | [Neural-Graph-Memory-NGM](https://github.com/StuckInTheNet/Neural-Graph-Memory-NGM) |
+
 
 **3. Run a baseline** through the unified entry point:
 
@@ -112,49 +97,7 @@ Each run writes `results.json` + `summary.json` + a printed per-type rubric. See
 
 ### Evaluation Metrics
 
-Metrics are reported per question type and aggregated: **EM**, **F1**, **BLEU-1**, and a five-point **LLM-judge** (0 / 0.25 / 0.5 / 0.75 / 1). `FM` and `FJ` report exact match only; aggregated F1 / BLEU-1 / LLM-judge exclude `FM` and `FJ`.
-
-## 🧠 Method: M<sup>3</sup>Proctor
-
-M<sup>3</sup>Proctor is our modality-aware memory method, packaged under [m3proctor/](m3proctor/). Built on a naive-RAG backbone, it adds round-level chunking, session-summary chunks, PDF text-layer extraction, VLM captions for images, a query-side modality classifier, and modality-aware re-ranking, followed by a two-stage cascade answerer that escalates to images / rendered PDF pages **only when the text-only answer is not confident enough**.
-
-```bash
-# Full run on one persona
-python -m m3exam.m3proctor.run --dataset Noah_BaristaApprentice
-
-# Debug on the first 20 questions
-python -m m3exam.m3proctor.run --dataset Noah_BaristaApprentice --max-questions 20
-```
-
-See [m3proctor/README.md](m3proctor/README.md) for the full pipeline description, directory layout, and hyperparameters.
-
-## 🧰 Experimental Settings
-
-We have incorporated several baseline methods and benchmark datasets:
-
-| Baseline | Paper | Code |
-| -------- | ----- | ---- |
-| NaiveRAG | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) | [nano-graphrag](https://github.com/gusye1234/nano-graphrag) |
-| A-Mem | [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) | [A-Mem](https://github.com/WujiangXu/A-mem) |
-| Mem0  | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) | [Mem0](https://github.com/mem0ai/mem0) |
-| MemoryOS | [Memory OS of AI Agent](https://aclanthology.org/2025.emnlp-main.1318.pdf) | [MemoryOS](https://github.com/BAI-LAB/MemoryOS) |
-| UniversalRAG | [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](https://arxiv.org/abs/2504.20734) | [UniversalRAG](https://github.com/wgcyeo/UniversalRAG) |
-| RAG-Anything | [RAG-Anything: All-in-One RAG Framework](https://arxiv.org/abs/2510.12323) | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) |
-| MIRIX | [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957) | [MIRIX](https://github.com/Mirix-AI/MIRIX) |
-| MemVerse | [MemVerse: Multimodal Memory for Lifelong Learning Agents](https://arxiv.org/abs/2512.03627) | [MemVerse](https://github.com/KnowledgeXLab/MemVerse) |
-| NGM (Neural Graph Memory) | [Neural Graph Memory: A Structured Approach to Long-Term Memory in Multimodal Agents](https://www.researchgate.net/profile/Matt-Fisher-7/publication/394440420_Neural_Graph_Memory_A_Structured_Approach_to_Long-Term_Memory_in_Multimodal_Agents/links/689ab8c337b271210509c20f/Neural-Graph-Memory-A-Structured-Approach-to-Long-Term-Memory-in-Multimodal-Agents.pdf) | [Neural-Graph-Memory-NGM](https://github.com/StuckInTheNet/Neural-Graph-Memory-NGM) |
-
-
-
-## ⚙️ Experimental Results
-
-Our proposed M<sup>3</sup>Proctor framework achieves significant performance against state-of-the-art multimodal memory baselines.
-
-<img src="figures/static.png">
-
-Thanks to the proposed cost-aware cascade, M<sup>3</sup>Proctor escalates to raw visual sources only on demand, surpassing benchmarks on accuracy while controlling visual-token cost.
-
-<img src="figures/dynamic.png">
+Metrics are reported per question type and aggregated: **EM**, **F1**, **BLEU-1**, and a five-point **LLM-judge** (0 / 0.25 / 0.5 / 0.75 / 1).
 
 ## 📂 Project Structure
 
