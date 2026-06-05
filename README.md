@@ -124,13 +124,3 @@ m3exam/
 ## 📄 License
 
 This project is released under the [Apache License 2.0](LICENSE).
-
-## 📝 Citation
-
-```bibtex
-TODO: citation to be added.
-```
-
-## 🙏 Acknowledgements
-
-We acknowledge these excellent works for providing open-source code and inspiration: [nano-graphrag](https://github.com/gusye1234/nano-graphrag), [A-Mem](https://github.com/WujiangXu/A-mem), [Mem0](https://github.com/mem0ai/mem0), [MemoryOS](https://github.com/BAI-LAB/MemoryOS), [UniversalRAG](https://github.com/wgcyeo/UniversalRAG), [RAG-Anything](https://github.com/HKUDS/RAG-Anything), and [MIRIX](https://github.com/Mirix-AI/MIRIX).
